@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Master Playlist",
+        "songs": [
+            {
+                "artist": "DJ Koze",
+                "name": "Burn with Me (Victoria Edit)",
+                "album": "Music for the Motion Picture Victoria (Bonus Track Version)"
+            },
+            {
+                "artist": "Moby",
+                "name": "Go (Radio Edit)",
+                "album": "Go (Remixes)"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Weird Fishes/ Arpeggi",
+                "album": "In Rainbows"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "2 + 2 = 5",
+                "album": "Hail To the Thief"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Emerald Rush",
+                "album": "Emerald Rush"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Thrown",
+                "album": "Kiasmos"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Clipper",
+                "album": "Tri Repetae"
+            },
+            {
+                "artist": "Greg Haines",
+                "name": "So It Goes",
+                "album": "Where We Were"
+            },
+            {
+                "artist": "Max Richter",
+                "name": "The Departure",
+                "album": "The Leftovers (Music from the HBO® Series) Season 1"
+            },
+            {
+                "artist": "Mazzy Star",
+                "name": "Blue Light",
+                "album": "So Tonight That I Might See"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Myth",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Lemon Glow",
+                "album": "Lemon Glow"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Dive",
+                "album": "Dive"
+            },
+            {
+                "artist": "Alvvays",
+                "name": "Adult Diversion",
+                "album": "Alvvays"
+            },
+            {
+                "artist": "Jamie xx",
+                "name": "Gosh",
+                "album": "In Colour"
+            },
+            {
+                "artist": "Vessels",
+                "name": "The Sky Was Pink",
+                "album": "The Sky Was Pink"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Wishes",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "This Old House Is All I Have",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "13 & God",
+                "name": "Perfect Speed",
+                "album": "13 & God"
+            },
+            {
+                "artist": "alt-J",
+                "name": "Lovely Day (Bonus Track)",
+                "album": "This Is All Yours"
+            },
+            {
+                "artist": "JPEGMAFIA",
+                "name": "1539 N. Calvert",
+                "album": "Veteran"
+            },
+            {
+                "artist": "Moderat",
+                "name": "The Mark - Interlude",
+                "album": "II"
+            },
+            {
+                "artist": "Slowdive",
+                "name": "When The Sun Hits",
+                "album": "Souvlaki"
+            },
+            {
+                "artist": "Burial",
+                "name": "Distant Lights",
+                "album": "Burial"
+            },
+            {
+                "artist": "Working for a Nuclear Free City",
+                "name": "Je suis le vent",
+                "album": "Businessmen & Ghosts"
+            },
+            {
+                "artist": "Ratatat",
+                "name": "Abrasive",
+                "album": "Magnifique"
+            },
+            {
+                "artist": "Mounika.",
+                "name": "Love You Sweet It's What I Do",
+                "album": "How Are You"
+            },
+            {
+                "artist": "Arcade Fire",
+                "name": "Neighborhood #1 (Tunnels)",
+                "album": "Funeral"
+            },
+            {
+                "artist": "Jaymes Young",
+                "name": "Moondust - EP Version",
+                "album": "Dark Star"
+            },
+            {
+                "artist": "Jaymes Young",
+                "name": "Northern Lights",
+                "album": "Northern Lights"
+            },
+            {
+                "artist": "Sufjan Stevens",
+                "name": "Wallowa Lake Monster",
+                "album": "The Greatest Gift"
+            },
+            {
+                "artist": "Michael Franks",
+                "name": "Lotus Blossom",
+                "album": "One Bad Habit"
+            },
+            {
+                "artist": "Sasha",
+                "name": "Linepulse",
+                "album": "Late Night Tales presents Sasha: Scene Delete"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Exit Music (For a Film)",
+                "album": "OK Computer"
+            },
+            {
+                "artist": "Beck",
+                "name": "Broken Drum - Remixed By Boards Of Canada",
+                "album": "Guerolito"
+            },
+            {
+                "artist": "Mitski",
+                "name": "First Love / Late Spring",
+                "album": "Bury Me At Makeout Creek"
+            },
+            {
+                "artist": "Sufjan Stevens",
+                "name": "Should Have Known Better",
+                "album": "Carrie & Lowell"
+            },
+            {
+                "artist": "Action Bronson",
+                "name": "Terry",
+                "album": "Terry"
+            },
+            {
+                "artist": "The Voidz",
+                "name": "Leave It In My Dreams",
+                "album": "Virtue"
+            },
+            {
+                "artist": "Hiatus",
+                "name": "River",
+                "album": "Parklands"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Artificial Death In The West",
+                "album": "No Love Deep Web"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Eh",
+                "album": "Bottomless Pit"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Hot Head",
+                "album": "Bottomless Pit"
+            },
+            {
+                "artist": "Crystal Castles",
+                "name": "Wrath Of God",
+                "album": "(III)"
+            },
+            {
+                "artist": "Crystal Castles",
+                "name": "Plague",
+                "album": "(III)"
+            },
+            {
+                "artist": "Crystal Castles",
+                "name": "Baptism",
+                "album": "Crystal Castles (II)"
+            },
+            {
+                "artist": "Jaron Steele",
+                "name": "Departure",
+                "album": "Departure"
+            },
+            {
+                "artist": "Flume",
+                "name": "The Greatest View",
+                "album": "Future Classic: Best Of 2013"
+            },
+            {
+                "artist": "The Strokes",
+                "name": "The Modern Age",
+                "album": "Is This It"
+            },
+            {
+                "artist": "Phoenix",
+                "name": "1901",
+                "album": "Wolfgang Amadeus Phoenix"
+            },
+            {
+                "artist": "Slowdive",
+                "name": "40 Days",
+                "album": "Souvlaki"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Everything Connected - Edit",
+                "album": "Everything Connected"
+            },
+            {
+                "artist": "Jakob Ogawa",
+                "name": "You Might Be Sleeping",
+                "album": "You Might Be Sleeping"
+            },
+            {
+                "artist": "New Order",
+                "name": "Age of Consent - 2015 Remaster",
+                "album": "Power Corruption and Lies"
+            },
+            {
+                "artist": "Vessels",
+                "name": "4AM",
+                "album": "Dilate (Special Edition)"
+            },
+            {
+                "artist": "Slowdive",
+                "name": "Machine Gun",
+                "album": "Souvlaki"
+            },
+            {
+                "artist": "Baltra",
+                "name": "Fade Away (Vocal)",
+                "album": "Knowes Universal Broadcast (Seg. 1)"
+            },
+            {
+                "artist": "Kevin Morby",
+                "name": "I Have Been to the Mountain",
+                "album": "Singing Saw"
+            },
+            {
+                "artist": "Arthur Lee",
+                "name": "Everybody's Gotta Live",
+                "album": "Vindicator"
+            },
+            {
+                "artist": "Popof",
+                "name": "Confusion - Original",
+                "album": "Confusion EP"
+            },
+            {
+                "artist": "Popof",
+                "name": "Toxic Love",
+                "album": "Summer on Mars EP"
+            },
+            {
+                "artist": "Rival Consoles",
+                "name": "Howl",
+                "album": "Howl"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Dark Spring",
+                "album": "Dark Spring"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Black Car",
+                "album": "Black Car"
+            },
+            {
+                "artist": "Joji",
+                "name": "Yeah Right",
+                "album": "Yeah Right"
+            },
+            {
+                "artist": "System Of A Down",
+                "name": "Toxicity",
+                "album": "Toxicity"
+            },
+            {
+                "artist": "Mako Road",
+                "name": "Daiquiri",
+                "album": "Brodie Street / Daiquiri"
+            },
+            {
+                "artist": "Mako Road",
+                "name": "Ride",
+                "album": "The Green Superintendent"
+            },
+            {
+                "artist": "Mako Road",
+                "name": "The Sun Comes Up",
+                "album": "The Sun Comes Up"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Neon Pattern Drum",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Everything Connected",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Luminous Beings",
+                "album": "Singularity"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Club der Ewigkeiten",
+                "album": "Knock Knock"
+            },
+            {
+                "artist": "Slowdive",
+                "name": "Slomo",
+                "album": "Slowdive"
+            },
+            {
+                "artist": "Dungen",
+                "name": "Panda",
+                "album": "Ta det lugnt"
+            },
+            {
+                "artist": "Tory Lanez",
+                "name": "Shooters",
+                "album": "MEMORIES DON'T DIE"
+            },
+            {
+                "artist": "Lil Peep",
+                "name": "4 Gold Chains - (feat. Clams Casino)",
+                "album": "4 Gold Chains (feat. Clams Casino)"
+            },
+            {
+                "artist": "Mr. Fingers",
+                "name": "Mystery Of Love",
+                "album": "Amnesia"
+            },
+            {
+                "artist": "Todd Terje",
+                "name": "Johnny and Mary",
+                "album": "It's Album Time"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Pay No Mind",
+                "album": "7"
+            },
+            {
+                "artist": "Beach House",
+                "name": "L'Inconnue",
+                "album": "7"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Drunk in L.A.",
+                "album": "7"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Lose Your Smile",
+                "album": "7"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Last Ride",
+                "album": "7"
+            },
+            {
+                "artist": "Cosha",
+                "name": "Do You Wanna Dance",
+                "album": "Do You Wanna Dance"
+            },
+            {
+                "artist": "Calibre",
+                "name": "Even If - Original Mix",
+                "album": "Even If"
+            },
+            {
+                "artist": "Tizzy Gang",
+                "name": "Junk Food",
+                "album": "Opps Next Door Vol.1"
+            },
+            {
+                "artist": "The Walters",
+                "name": "Fancy Shoes",
+                "album": "Songs for Dads"
+            },
+            {
+                "artist": "Kidnap",
+                "name": "Like You Used To",
+                "album": "Stronger"
+            },
+            {
+                "artist": "The Voidz",
+                "name": "Pointlessness",
+                "album": "Virtue"
+            },
+            {
+                "artist": "Parquet Courts",
+                "name": "Almost Had to Start a Fight/In and Out of Patience",
+                "album": "Wide Awake!"
+            },
+            {
+                "artist": "Failure",
+                "name": "Another Space Song",
+                "album": "Fantastic Planet"
+            },
+            {
+                "artist": "Pusha T",
+                "name": "If You Know You Know",
+                "album": "DAYTONA"
+            },
+            {
+                "artist": "Nico",
+                "name": "These Days",
+                "album": "Chelsea Girl"
+            },
+            {
+                "artist": "Amanaz",
+                "name": "Khala My Friend",
+                "album": "Africa"
+            },
+            {
+                "artist": "Corbin",
+                "name": "All Out",
+                "album": "Mourn"
+            },
+            {
+                "artist": "Travis",
+                "name": "Sing",
+                "album": "The Invisible Band"
+            },
+            {
+                "artist": "rAHHH",
+                "name": "Dog Days",
+                "album": "Dog Days"
+            },
+            {
+                "artist": "Gesaffelstein",
+                "name": "Piece of Future",
+                "album": "Aleph"
+            },
+            {
+                "artist": "Ofege",
+                "name": "It's Not Easy",
+                "album": "Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968-1974"
+            }
+        ]
+    }
+]

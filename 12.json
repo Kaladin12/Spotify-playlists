@@ -1,0 +1,507 @@
+[
+    {
+        "name": "TECHØUSE",
+        "songs": [
+            {
+                "artist": "M.A.N.D.Y.",
+                "name": "Gizmo",
+                "album": "Berlin Afterhour, Vol. 6 (From Minimal to Techno / From Electro to House)"
+            },
+            {
+                "artist": "Namito",
+                "name": "City of Gods",
+                "album": "Berlin Underground Selection 4 (Selected & Mixed by Namito)"
+            },
+            {
+                "artist": "Len Faki",
+                "name": "Mekong Delta (Original Mix)",
+                "album": "Clubtech Panorama"
+            },
+            {
+                "artist": "Namito",
+                "name": "No Dirt - Original Mix",
+                "album": "Berlin Underground Selection 3 (Selected and Mixed by Namito)"
+            },
+            {
+                "artist": "Psychemagik",
+                "name": "Black Noir Schwarz - Extended Play Remix",
+                "album": "Black Noir Schwarz"
+            },
+            {
+                "artist": "Pleasurekraft",
+                "name": "Chloroformd - Original Mix",
+                "album": "Chloroformd"
+            },
+            {
+                "artist": "Dale Howard",
+                "name": "Pressure - Original Mix",
+                "album": "Slot 47 EP"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "E45",
+                "album": "1983"
+            },
+            {
+                "artist": "Bunte Bummler",
+                "name": "Come Together",
+                "album": "Come Together Ep"
+            },
+            {
+                "artist": "Dale Howard",
+                "name": "Dig It",
+                "album": "Ingenious Sounds, Vol. 21"
+            },
+            {
+                "artist": "Dennis Ferrer",
+                "name": "Mind Ur Step - Df Dub",
+                "album": "Mind Ur Step"
+            },
+            {
+                "artist": "Shiba San",
+                "name": "Boom Shak",
+                "album": "All About Booty - EP"
+            },
+            {
+                "artist": "SKMK",
+                "name": "I Know Your Head",
+                "album": "Ingenious Sounds, Vol. 21"
+            },
+            {
+                "artist": "Dixon",
+                "name": "Chicago - Live Version",
+                "album": "A Critical Mass Live EP"
+            },
+            {
+                "artist": "Dixon",
+                "name": "Berlin-Karlsruhe-Express - Live Version",
+                "album": "A Critical Mass Live EP"
+            },
+            {
+                "artist": "illusionize",
+                "name": "Bass",
+                "album": "Better Days"
+            },
+            {
+                "artist": "Darius Syrossian",
+                "name": "Metal - Jordan Peak Remix",
+                "album": "Metal EP"
+            },
+            {
+                "artist": "Darius Syrossian",
+                "name": "Who's The Douche? - Original Mix",
+                "album": "Who's The Douche?"
+            },
+            {
+                "artist": "Josh Butler",
+                "name": "Snake Skin - Original",
+                "album": "Snake Skin"
+            },
+            {
+                "artist": "Alan Fitzpatrick",
+                "name": "1992",
+                "album": "The Tetra"
+            },
+            {
+                "artist": "Benjamin Damage",
+                "name": "Delirium Tremens - Robert Hood Remix",
+                "album": "Delirium Tremens (Robert Hood & Benjamin Damage Remixes)"
+            },
+            {
+                "artist": "Gregor Tresher",
+                "name": "Syncopia",
+                "album": "A Thousand Nights"
+            },
+            {
+                "artist": "Joris Voorn",
+                "name": "Goodbye Fly - Original",
+                "album": "Dusty House | Room 6"
+            },
+            {
+                "artist": "Juliet Sikora & Flo Mrzdk",
+                "name": "Shanti - Original Mix",
+                "album": "Kittball Konspracy: Vol. 3"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Goldfisch",
+                "album": "1977"
+            },
+            {
+                "artist": "Luca Agnelli",
+                "name": "Ah",
+                "album": "Very Late"
+            },
+            {
+                "artist": "Format:B",
+                "name": "Coltrane - Original Mix",
+                "album": "Coltrane / Sexus"
+            },
+            {
+                "artist": "AKA AKA",
+                "name": "What Matters - Tube & Berger Remix",
+                "album": "Varieté Remixed"
+            },
+            {
+                "artist": "Andhim",
+                "name": "Alter Egon",
+                "album": "Wallace EP"
+            },
+            {
+                "artist": "Deep City Groove",
+                "name": "What Say What - Original Mix",
+                "album": "Down In Front EP"
+            },
+            {
+                "artist": "Felix Jaehn",
+                "name": "Drope",
+                "album": "Drope"
+            },
+            {
+                "artist": "Miguel Bastida",
+                "name": "Wench - Original Mix",
+                "album": "Whitness EP"
+            },
+            {
+                "artist": "Funkerman",
+                "name": "The Inside - Radio Edit",
+                "album": "The Inside"
+            },
+            {
+                "artist": "Tainted Souls",
+                "name": "Fresh Style",
+                "album": "The Jump Off - EP"
+            },
+            {
+                "artist": "Malikk",
+                "name": "Popping",
+                "album": "LouLou Records Sampler Vol, 17"
+            },
+            {
+                "artist": "Plastikman",
+                "name": "Goo (Paco Osuna Remix)",
+                "album": "Replikants (Arkives)"
+            },
+            {
+                "artist": "Croatia Squad",
+                "name": "Being Different (Original Mix)",
+                "album": "Being Different"
+            },
+            {
+                "artist": "Dario D'Attis",
+                "name": "Afro Call - Original Mix",
+                "album": "Afro Call EP"
+            },
+            {
+                "artist": "MarkyZ",
+                "name": "Be Careful - Proudly People Remix",
+                "album": "Be Careful EP"
+            },
+            {
+                "artist": "Coyu",
+                "name": "El Baile Alemán",
+                "album": "Berlin Afterhour 2 - From Minimal to Techno - From Electro to House"
+            },
+            {
+                "artist": "Len Faki",
+                "name": "BX 3 - Original Mix",
+                "album": "Berghain 03 - Part II"
+            },
+            {
+                "artist": "Martin Waslewski",
+                "name": "Ace It - Original Mix",
+                "album": "Clouds EP"
+            },
+            {
+                "artist": "Piemont",
+                "name": "A Bound Of Passivity - Re.You Remix",
+                "album": "Berlin Afterhour 3 - From Minimal to Techno - From Electro to House"
+            },
+            {
+                "artist": "Mauro Picotto",
+                "name": "I Love Disco - Coyu Remix",
+                "album": "I Love Disco"
+            },
+            {
+                "artist": "Oliver Koletzki",
+                "name": "Mückenschwarm - Original",
+                "album": "Der Mückenschwarm"
+            },
+            {
+                "artist": "Boris Brejcha",
+                "name": "Lost Memory",
+                "album": "Lost Memory"
+            },
+            {
+                "artist": "Oliver Koletzki",
+                "name": "Warschauer Straße - Original Version",
+                "album": "Großstadtmärchen"
+            },
+            {
+                "artist": "Ten Walls",
+                "name": "Sparta - Original Mix",
+                "album": "Sparta"
+            },
+            {
+                "artist": "Boris Brejcha",
+                "name": "Killing Me",
+                "album": "22"
+            },
+            {
+                "artist": "Pan-Pot",
+                "name": "Rosinenbomber",
+                "album": "The Mirror"
+            },
+            {
+                "artist": "Sasha",
+                "name": "Rivaldo - Original Mix",
+                "album": "Rivaldo"
+            },
+            {
+                "artist": "Dusky",
+                "name": "Buckets [ABGT176]",
+                "album": "Group Therapy 176"
+            },
+            {
+                "artist": "Ten Walls",
+                "name": "Walking with Elephants",
+                "album": "Walking With Elephants"
+            },
+            {
+                "artist": "Hybrid Theory",
+                "name": "The Dark - Crookers Remix",
+                "album": "The Dark"
+            },
+            {
+                "artist": "Ricardo Prado",
+                "name": "I Like That - Sisto Remix",
+                "album": "I Like That"
+            },
+            {
+                "artist": "Boris Brejcha",
+                "name": "White Snake",
+                "album": "White Snake EP"
+            },
+            {
+                "artist": "M.A.N.D.Y.",
+                "name": "Donut - Gui Boratto Remix",
+                "album": "Donut"
+            },
+            {
+                "artist": "Cuartero",
+                "name": "Abandonado",
+                "album": "Abandonado"
+            },
+            {
+                "artist": "Pirupa",
+                "name": "Bless The Rain",
+                "album": "Bless You EP"
+            },
+            {
+                "artist": "Mihalis Safras",
+                "name": "Circula - Original Mix",
+                "album": "Miami Underground 2015"
+            },
+            {
+                "artist": "Latmun",
+                "name": "Cosmic - Russ Yallop Remix",
+                "album": "Cosmic EP"
+            },
+            {
+                "artist": "Hatzler",
+                "name": "Skyt - Victor Ruiz Remix",
+                "album": "Accent"
+            },
+            {
+                "artist": "Cristoph",
+                "name": "Reachin'",
+                "album": "Consequence of Society, Vol. 1"
+            },
+            {
+                "artist": "Mirco Caruso",
+                "name": "Freeze",
+                "album": "Miami 2017"
+            },
+            {
+                "artist": "LEON (Italy)",
+                "name": "Can't You See",
+                "album": "Can't You See"
+            },
+            {
+                "artist": "Nick Olivetti & Chase Buch",
+                "name": "Essa Hei - Alli Borem Remix",
+                "album": "This Show Will Get You High"
+            },
+            {
+                "artist": "Dinky",
+                "name": "Casa - Axel Boman Dub Mix",
+                "album": "Casa"
+            },
+            {
+                "artist": "808 State",
+                "name": "In Yer Face - Bicep Remix",
+                "album": "In Yer Face Bicep Remixes"
+            },
+            {
+                "artist": "Pan-Pot",
+                "name": "White Fiction - Original",
+                "album": "White Fiction"
+            },
+            {
+                "artist": "Ian O'Donovan",
+                "name": "Crucible",
+                "album": "A-Sides, Vol. 5 (20 Years 20 Tracks)"
+            },
+            {
+                "artist": "Leftwing : Kody",
+                "name": "Detection",
+                "album": "Detection"
+            },
+            {
+                "artist": "Roberto Capuano",
+                "name": "Vertigo",
+                "album": "Vertigo"
+            },
+            {
+                "artist": "Adam Beyer",
+                "name": "People Understand",
+                "album": "A-Sides Vol. 2, Pt. 2"
+            },
+            {
+                "artist": "Abbo",
+                "name": "Drug Free - James Dexter Remix",
+                "album": "Drug Free EP"
+            },
+            {
+                "artist": "Andres Campo",
+                "name": "Grey",
+                "album": "Greyscale EP"
+            },
+            {
+                "artist": "Sirus Hood",
+                "name": "Magic Stick",
+                "album": "Mixmag Presents Amine Edge & Dance"
+            },
+            {
+                "artist": "Felipe Valenzuela",
+                "name": "1000 Tones",
+                "album": "1000 Tones Ep"
+            },
+            {
+                "artist": "Headman",
+                "name": "It Rough - Chicken Lips Remix",
+                "album": "It Rough 2013"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Voices Of The Ancient - Original Mix",
+                "album": "Voices Of The Ancient"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Trip - Original Mix",
+                "album": "Trip"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "My Feeling",
+                "album": "Sehnsucht"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Sehnsucht",
+                "album": "Sehnsucht"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Zulu",
+                "album": "Powers of Ten"
+            },
+            {
+                "artist": "Pan-Pot",
+                "name": "Fugitives - Joseph Capriati Remix",
+                "album": "The Other Remixes"
+            },
+            {
+                "artist": "Alan Fitzpatrick",
+                "name": "Trance, Init?",
+                "album": "Brian's Proper Dun One"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Our Journey",
+                "album": "Our Journey EP"
+            },
+            {
+                "artist": "Kaiserdisco",
+                "name": "Black Light",
+                "album": "Black Light"
+            },
+            {
+                "artist": "Amelie Lens",
+                "name": "Contradiction",
+                "album": "Contradiction"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Singularity",
+                "album": "Powers of Ten"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Repeat - Original Mix",
+                "album": "Trip"
+            },
+            {
+                "artist": "Julian Jeweil",
+                "name": "Foundation",
+                "album": "Destination"
+            },
+            {
+                "artist": "Enrico Sangiuliano",
+                "name": "The Feeling Of Being In This Place",
+                "album": "Alone in this Place EP"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Maelstrom",
+                "album": "Wisdom EP"
+            },
+            {
+                "artist": "Sam Paganini",
+                "name": "Rave",
+                "album": "Satellite"
+            },
+            {
+                "artist": "Jay Lumen",
+                "name": "Octaves - Original Mix",
+                "album": "Octaves EP"
+            },
+            {
+                "artist": "Koen Groeneveld",
+                "name": "Aibeeza",
+                "album": "Koen Groeneveld Presents Abzolut Ibiza 2017"
+            },
+            {
+                "artist": "Layton Giordani",
+                "name": "Tigerlilly",
+                "album": "Where It Begins"
+            },
+            {
+                "artist": "The Reactivitz",
+                "name": "Techno Home - Original Mix",
+                "album": "Rhythm Distrikt 13"
+            },
+            {
+                "artist": "Technasia",
+                "name": "Suga - Original Mix",
+                "album": "Suga"
+            },
+            {
+                "artist": "Dustin Zahn",
+                "name": "Stranger To Stability (Len Fake Podium Mix)",
+                "album": "Wax:On Compilation Series Vol 1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,507 @@
+[
+    {
+        "name": "IDM/Downtempo",
+        "songs": [
+            {
+                "artist": "Bonobo",
+                "name": "Recurring",
+                "album": "Days To Come"
+            },
+            {
+                "artist": "Tycho",
+                "name": "Past Is Prologue",
+                "album": "Past Is Prologue"
+            },
+            {
+                "artist": "Hol Baumann",
+                "name": "Hours",
+                "album": "[ Human ]"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Monday - Paracetamol",
+                "album": "A Strangely Isolated Place"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Suddenly The Trees Are Giving Way",
+                "album": "Far Away Trains Passing By"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Here Today, Gone Tomorrow",
+                "album": "Goodbye"
+            },
+            {
+                "artist": "Joey Fehrenbach",
+                "name": "Behold",
+                "album": "Mellowdrama"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Stars (Edit)",
+                "album": "Stars EP"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "Concept 16",
+                "album": "Still Life"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Nobody's Home",
+                "album": "Far Away Trains Passing By"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "S Equals Zero",
+                "album": "Frozen In Motion"
+            },
+            {
+                "artist": "umami",
+                "name": "Amb001c",
+                "album": "Theme For Travel"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "Concept 10",
+                "album": "Still Life"
+            },
+            {
+                "artist": "Eastern Sun and John Kelley",
+                "name": "Rapture at Sea",
+                "album": "Groove Closet: Downtempo Bedroom Beats from Ball of Waxx"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "Disappearing Light",
+                "album": "Frozen In Motion"
+            },
+            {
+                "artist": "Boy Robot",
+                "name": "Live In Vanilla",
+                "album": "Rotten Cocktails"
+            },
+            {
+                "artist": "Bluetech",
+                "name": "Oleander - Phutureprimitive Symbiotic Remix",
+                "album": "Kumharas Ibiza Vol. 6"
+            },
+            {
+                "artist": "The Lushlife Project",
+                "name": "Wurlitzer",
+                "album": "Budapest Eskimos"
+            },
+            {
+                "artist": "Carbon Based Lifeforms",
+                "name": "MOS 6581",
+                "album": "Fahrenheit Project Part Three"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Phase 05 - When the Worlds Collide",
+                "album": "Until We Meet the Sky"
+            },
+            {
+                "artist": "Tycho",
+                "name": "Dictaphone’s Lament",
+                "album": "Past Is Prologue"
+            },
+            {
+                "artist": "Asura",
+                "name": "Atlantis Child",
+                "album": "360"
+            },
+            {
+                "artist": "Little People",
+                "name": "Moon",
+                "album": "Mickey Mouse Operation"
+            },
+            {
+                "artist": "Little People",
+                "name": "Intermezzo",
+                "album": "Mickey Mouse Operation"
+            },
+            {
+                "artist": "Cell",
+                "name": "Audio Deepest Night",
+                "album": "Fahrenheit Project Part Four"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Rain Geometrics",
+                "album": "Distances"
+            },
+            {
+                "artist": "Cell",
+                "name": "Brother",
+                "album": "Kumharas - Lounge Ibiza Vol.5"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Between Us And Them",
+                "album": "Far Away Trains Passing By"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Das Bungalow",
+                "album": "Movements"
+            },
+            {
+                "artist": "Androcell",
+                "name": "Atmos-Spheres",
+                "album": "Efflorescence"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "Decoder",
+                "album": "Decoder"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Blumenwiese Neben Autobahn",
+                "album": "Far Away Trains Passing By"
+            },
+            {
+                "artist": "Sinewave",
+                "name": "Star Tripping",
+                "album": "Unity Gain"
+            },
+            {
+                "artist": "Global Communication",
+                "name": "14:31",
+                "album": "76:14"
+            },
+            {
+                "artist": "Sinewave",
+                "name": "Love It Up",
+                "album": "Unity Gain"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Smoked",
+                "album": "And Yet It Moves"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Rain Geometries - Solar Fields Remix",
+                "album": "Portal Of Perceptions"
+            },
+            {
+                "artist": "General Midi",
+                "name": "The Eastoner",
+                "album": "Midi Style"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Phase 09 - Sombrero",
+                "album": "Until We Meet the Sky"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Orientations (Above Towns Edit)",
+                "album": "Ephemeris"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Stars (Kunstlerpaar Dub By Andrew Prinz Of Mahogany)",
+                "album": "Stars EP"
+            },
+            {
+                "artist": "Sinewave",
+                "name": "A Ton Of Automations",
+                "album": "Unity Gain"
+            },
+            {
+                "artist": "Sinewave",
+                "name": "Wizard Of Ahhhs",
+                "album": "Unity Gain"
+            },
+            {
+                "artist": "Sinewave",
+                "name": "3rd Density Blues",
+                "album": "Unity Gain"
+            },
+            {
+                "artist": "Sinewave",
+                "name": "Ape-Shaped on the Scene",
+                "album": "Unity Gain"
+            },
+            {
+                "artist": "AES DANA",
+                "name": "Anthrazit",
+                "album": "Perimeters"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Dust",
+                "album": "Movements"
+            },
+            {
+                "artist": "AES DANA",
+                "name": "Lysistrata - Album Edit",
+                "album": "Leylines"
+            },
+            {
+                "artist": "Hol Baumann",
+                "name": "Radio Bombay",
+                "album": "[ Human ]"
+            },
+            {
+                "artist": "Hol Baumann",
+                "name": "[ Human ]",
+                "album": "[ Human ]"
+            },
+            {
+                "artist": "Hol Baumann",
+                "name": "A forgotten ritual",
+                "album": "[ Human ]"
+            },
+            {
+                "artist": "Eastern Sun",
+                "name": "Days Gone By",
+                "album": "We Are One"
+            },
+            {
+                "artist": "Hibernation",
+                "name": "Hibernation",
+                "album": "Natural Born Chillers 2 (Remixes)"
+            },
+            {
+                "artist": "Cell",
+                "name": "Hanging Masses",
+                "album": "Hanging Masses"
+            },
+            {
+                "artist": "Tycho",
+                "name": "Cloud Generator",
+                "album": "Past Is Prologue"
+            },
+            {
+                "artist": "Carbon Based Lifeforms",
+                "name": "Init",
+                "album": "Interloper"
+            },
+            {
+                "artist": "Global Communication",
+                "name": "12:18",
+                "album": "76:14"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Stars",
+                "album": "Goodbye"
+            },
+            {
+                "artist": "Solar Quest",
+                "name": "Singtree",
+                "album": "Orgship"
+            },
+            {
+                "artist": "B. Fleischmann",
+                "name": "Static Grate",
+                "album": "The Humbucking Coil"
+            },
+            {
+                "artist": "Global Communication",
+                "name": "8:07",
+                "album": "76:14"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Dayvan Cowboy",
+                "album": "The Campfire Headphase"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Kid For Today",
+                "album": "In A Beautiful Place Out In The Country"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Left Side Drive",
+                "album": "Trans Canada Highway"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Together-together Monkeys",
+                "album": "And Yet It Moves"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "How it all works",
+                "album": "And Yet It Moves"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Deep Grammar",
+                "album": "And Yet It Moves"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Darkened Signals",
+                "album": "Distorting the Hertzian Wave"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Replacing the fuel rods at SL-1",
+                "album": "Huge Humans"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Hoary Shroud of Oblivion",
+                "album": "Huge Humans"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Apparent Trails",
+                "album": "A Declared State of Belligerence"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Moral Panic",
+                "album": "Distorting the Hertzian Wave"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "Keeping One's Attention",
+                "album": "Brotherhood of Good Explosions"
+            },
+            {
+                "artist": "Tycho",
+                "name": "A Walk",
+                "album": "Dive (Deluxe Version)"
+            },
+            {
+                "artist": "Tycho",
+                "name": "Coastal Brake",
+                "album": "Dive (Deluxe Version)"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Something Heavens",
+                "album": "Ephemeris"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Phase 06 - Dialogue with a River",
+                "album": "Until We Meet the Sky"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Phase 08 - Night Traffic City",
+                "album": "Until We Meet the Sky"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Phase 10 - Last Step in Vacuum",
+                "album": "Until We Meet the Sky"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "In Motion",
+                "album": "Random Friday"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Swoosh",
+                "album": "Random Friday"
+            },
+            {
+                "artist": "Asura",
+                "name": "El Hai",
+                "album": "360"
+            },
+            {
+                "artist": "Asura",
+                "name": "Le Dernier Voyage",
+                "album": "360"
+            },
+            {
+                "artist": "Williamson",
+                "name": "Rubber",
+                "album": "A Few Things To Hear Before We All Blow Up"
+            },
+            {
+                "artist": "AES DANA",
+                "name": "Antimatter (ante)",
+                "album": "Perimeters"
+            },
+            {
+                "artist": "AES DANA",
+                "name": "Blossom",
+                "album": "Leylines"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Never Be The Same",
+                "album": "Goodbye"
+            },
+            {
+                "artist": "Cell",
+                "name": "Universal Sunrise",
+                "album": "Hanging Masses"
+            },
+            {
+                "artist": "Robert Rich",
+                "name": "Somnium",
+                "album": "Fahrenheit Project Part Two"
+            },
+            {
+                "artist": "AES DANA",
+                "name": "Iris Rotation",
+                "album": "Memory Shell"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Orientations part 2 (Ephemeride 15.43°)",
+                "album": "Ephemeris"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Encounter",
+                "album": "Monsters"
+            },
+            {
+                "artist": "Spunkshine",
+                "name": "There WILL be Cake!",
+                "album": "Huge Humans"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Roygbiv",
+                "album": "Everything Is Nice: The Matador Records 10th Anniversary Anthology"
+            },
+            {
+                "artist": "Subheim",
+                "name": "One Step Before The Exit - Remix By Flaque",
+                "album": "Approach"
+            },
+            {
+                "artist": "Solar Fields",
+                "name": "Circles of Motion",
+                "album": "Movements"
+            },
+            {
+                "artist": "Joey Fehrenbach",
+                "name": "Edison Cylinder",
+                "album": "Don't Wake Me"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Intro",
+                "album": "Live at Glastonbury Festival 2005"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Diagrams",
+                "album": "Ephemeris"
+            },
+            {
+                "artist": "H.U.V.A. Network",
+                "name": "Distances",
+                "album": "Distances"
+            }
+        ]
+    }
+]

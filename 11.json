@@ -1,0 +1,492 @@
+[
+    {
+        "name": "Altar",
+        "songs": [
+            {
+                "artist": "Michael Kiwanuka",
+                "name": "Final Days - Bonobo Remix",
+                "album": "Final Days (Bonobo Remix)"
+            },
+            {
+                "artist": "HAAi",
+                "name": "Head Above The Parakeets",
+                "album": "Put Your Head Above The Parakeets"
+            },
+            {
+                "artist": "Rival Consoles",
+                "name": "Sudden Awareness of Now",
+                "album": "Sudden Awareness of Now"
+            },
+            {
+                "artist": "Tiga",
+                "name": "Love Minus Zero",
+                "album": "Love Minus Zero"
+            },
+            {
+                "artist": "KUU",
+                "name": "How Could I Ever (feat. Shungudzo)",
+                "album": "How Could I Ever (feat. Shungudzo)"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Last",
+                "album": "Last"
+            },
+            {
+                "artist": "Maya Jane Coles",
+                "name": "Would You Kill (4 Me)?",
+                "album": "Would You Kill (4 Me)?"
+            },
+            {
+                "artist": "BRONSON",
+                "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Edit",
+                "album": "DAWN"
+            },
+            {
+                "artist": "Sub Focus",
+                "name": "Just Hold On - Sub Focus & Wilkinson",
+                "album": "Just Hold On (Sub Focus & Wilkinson)"
+            },
+            {
+                "artist": "Alewya",
+                "name": "Sweating (Honey Dijon Remix) - Edit",
+                "album": "Sweating (Honey Dijon Remix)"
+            },
+            {
+                "artist": "Nils Hoffmann",
+                "name": "Wherever You Are - Tinlicker Remix Edit",
+                "album": "OIABM Remixes - Part One"
+            },
+            {
+                "artist": "Lane 8",
+                "name": "Run",
+                "album": "Run"
+            },
+            {
+                "artist": "Jayda G",
+                "name": "Are U Down",
+                "album": "Both Of Us / Are U Down"
+            },
+            {
+                "artist": "KAYTRANADA",
+                "name": "Look Easy",
+                "album": "Look Easy"
+            },
+            {
+                "artist": "Galcher Lustwerk",
+                "name": "Proof",
+                "album": "Proof"
+            },
+            {
+                "artist": "Disclosure",
+                "name": "My High (Edit)",
+                "album": "My High"
+            },
+            {
+                "artist": "LA Priest",
+                "name": "What Moves - Soulwax Remix",
+                "album": "What Moves (Soulwax Remix)"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "On",
+                "album": "On"
+            },
+            {
+                "artist": "Hot Since 82",
+                "name": "Eye of the Storm",
+                "album": "Eye of the Storm"
+            },
+            {
+                "artist": "박혜진 Park Hye Jin",
+                "name": "Can you",
+                "album": "How can I"
+            },
+            {
+                "artist": "Moby",
+                "name": "My Only Love - Modeselektor Remix",
+                "album": "My Only Love (Modeselektor Remix)"
+            },
+            {
+                "artist": "Nihiloxica",
+                "name": "Endongo",
+                "album": "Nihiloxica"
+            },
+            {
+                "artist": "Kush Jones",
+                "name": "Earth Note",
+                "album": "EP"
+            },
+            {
+                "artist": "Jamie xx",
+                "name": "Idontknow",
+                "album": "Idontknow"
+            },
+            {
+                "artist": "Max Cooper",
+                "name": "Swarm",
+                "album": "Swarm"
+            },
+            {
+                "artist": "CINTHIE",
+                "name": "No One Can Take You from Me",
+                "album": "Skylines - Citylights"
+            },
+            {
+                "artist": "Fakear",
+                "name": "Sekoia",
+                "album": "Sekoia"
+            },
+            {
+                "artist": "Romare",
+                "name": "The River - Edit",
+                "album": "The River"
+            },
+            {
+                "artist": "GAIKA",
+                "name": "Of Saints",
+                "album": "Seguridad"
+            },
+            {
+                "artist": "Flume",
+                "name": "The Difference - Jon Hopkins Remix",
+                "album": "The Difference (Jon Hopkins Remix)"
+            },
+            {
+                "artist": "Pangaea",
+                "name": "Like This - Edit",
+                "album": "Like This (Edit)"
+            },
+            {
+                "artist": "Amtrac",
+                "name": "No Place (feat. Lali Puna) - Jacques Greene Remix",
+                "album": "No Place (Remixes) (feat. Lali Puna)"
+            },
+            {
+                "artist": "Radio Slave",
+                "name": "Stay Out All Night",
+                "album": "Stay Out All Night"
+            },
+            {
+                "artist": "Kaitlyn Aurelia Smith",
+                "name": "Lagoon",
+                "album": "Lagoon"
+            },
+            {
+                "artist": "Sudan Archives",
+                "name": "Glorious (Nídia Remix)",
+                "album": "Glorious (Nídia Remix)"
+            },
+            {
+                "artist": "Elkka",
+                "name": "I. Miss. Raving.",
+                "album": "I. Miss. Raving."
+            },
+            {
+                "artist": "AKA ORANGE",
+                "name": "System",
+                "album": "System"
+            },
+            {
+                "artist": "Detroit Swindle",
+                "name": "Coffee in the Morning - Radio Edit",
+                "album": "Coffee in the Morning EP"
+            },
+            {
+                "artist": "Arca",
+                "name": "Watch",
+                "album": "KiCk i"
+            },
+            {
+                "artist": "Tom VR",
+                "name": "Acheless - Edit",
+                "album": "Acheless"
+            },
+            {
+                "artist": "Throwing Snow",
+                "name": "Snowing Throw - The Folly of Pangloss",
+                "album": "Snowing Throw - The Folly of Pangloss"
+            },
+            {
+                "artist": "Tenesha The Wordsmith",
+                "name": "I Dream So Loud",
+                "album": "Josey In Space"
+            },
+            {
+                "artist": "SHOSH",
+                "name": "Get Down",
+                "album": "Get Down"
+            },
+            {
+                "artist": "Charlotte de Witte",
+                "name": "Ensemble",
+                "album": "Return To Nowhere EP"
+            },
+            {
+                "artist": "Paul Epworth",
+                "name": "Love Galaxy (Guy Gerber's Don't F**k with Cats Remix) [Edit] (feat. Lil Silva)",
+                "album": "Love Galaxy (Guy Gerber's Don't F**k with Cats Remix) [Edit] (feat. Lil Silva)"
+            },
+            {
+                "artist": "Richy Ahmed",
+                "name": "Bad Boy",
+                "album": "Bad Boy/Italo 80"
+            },
+            {
+                "artist": "Special Request",
+                "name": "Family Doggo",
+                "album": "Spectral Frequency - EP"
+            },
+            {
+                "artist": "Pearson Sound",
+                "name": "Alien Mode",
+                "album": "Alien Mode"
+            },
+            {
+                "artist": "DJ BORING",
+                "name": "Stockholm Syndrome",
+                "album": "Like Water"
+            },
+            {
+                "artist": "salute",
+                "name": "Matasa",
+                "album": "Matasa"
+            },
+            {
+                "artist": "Model Man",
+                "name": "Why?",
+                "album": "Why?"
+            },
+            {
+                "artist": "Joe Turner",
+                "name": "Malibak",
+                "album": "Malibak"
+            },
+            {
+                "artist": "Caribou",
+                "name": "Never Come Back - Four Tet Remix",
+                "album": "Never Come Back (Four Tet Remix)"
+            },
+            {
+                "artist": "Jaymie Silk",
+                "name": "Same for Me",
+                "album": "Club Mermaid"
+            },
+            {
+                "artist": "Thylacine",
+                "name": "Satie I",
+                "album": "Satie I"
+            },
+            {
+                "artist": "Roska",
+                "name": "Colossal",
+                "album": "Colossal"
+            },
+            {
+                "artist": "Ellen Allien",
+                "name": "In Music I Trust",
+                "album": "Auraa"
+            },
+            {
+                "artist": "March 13",
+                "name": "Best in Me",
+                "album": "Best in Me"
+            },
+            {
+                "artist": "Machine Woman",
+                "name": "Gift of admiration and gratitude",
+                "album": "Pleasant Stay But I Wont Come Back"
+            },
+            {
+                "artist": "9th House",
+                "name": "Lyra - Dusky Remix",
+                "album": "Lyra (Dusky Remix)"
+            },
+            {
+                "artist": "Robyn",
+                "name": "Honey - Avalon Emerson's Deep Current Reroll",
+                "album": "Honey (Avalon Emerson's Deep Current Reroll)"
+            },
+            {
+                "artist": "Session Victim",
+                "name": "Needledrop (Laurence Guy Remix)",
+                "album": "Needledrop (Laurence Guy Remix)"
+            },
+            {
+                "artist": "Poté",
+                "name": "Close",
+                "album": "Rose, Vol. 2"
+            },
+            {
+                "artist": "Air Tapes",
+                "name": "Northern Spiral",
+                "album": "Northern Spiral"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "The Great Consumer",
+                "album": "The Great Consumer / Remind You"
+            },
+            {
+                "artist": "Lxury",
+                "name": "Do This Forever",
+                "album": "No Real Rush"
+            },
+            {
+                "artist": "Moon Boots",
+                "name": "Together Forever",
+                "album": "Pure Moons Vol. 1"
+            },
+            {
+                "artist": "Clams Casino",
+                "name": "I'm God",
+                "album": "Instrumental Relics"
+            },
+            {
+                "artist": "Arca",
+                "name": "Calor",
+                "album": "KiCk i"
+            },
+            {
+                "artist": "Aurora Halal",
+                "name": "Joey",
+                "album": "Joey"
+            },
+            {
+                "artist": "Cubicolor",
+                "name": "Wake Me Up - Tale Of Us Remix",
+                "album": "Wake Me Up (Tale Of Us Remix)"
+            },
+            {
+                "artist": "Coco Bryce",
+                "name": "Ma Bae Be Luv",
+                "album": "Ma Bae Be Luv"
+            },
+            {
+                "artist": "Luttrell",
+                "name": "My Friend The Sun - Digitalism sound.wav Remix",
+                "album": "Lucky Ones (The Remixes: Part 2)"
+            },
+            {
+                "artist": "Bearcubs",
+                "name": "Même Langue (feat. MUNYA)",
+                "album": "Early Hours"
+            },
+            {
+                "artist": "Loods",
+                "name": "Wasted",
+                "album": "Wasted"
+            },
+            {
+                "artist": "Ikonika",
+                "name": "Your Body",
+                "album": "Your Body"
+            },
+            {
+                "artist": "Black Coffee",
+                "name": "SBCNCSLY",
+                "album": "SBCNCSLY"
+            },
+            {
+                "artist": "upsammy",
+                "name": "Growing Out of the Plastic Box",
+                "album": "Zoom"
+            },
+            {
+                "artist": "Durante",
+                "name": "13 Voices",
+                "album": "13 Voices EP"
+            },
+            {
+                "artist": "Nite Fleit",
+                "name": "Penguin March",
+                "album": "Steel City Dance Discs Volume 15"
+            },
+            {
+                "artist": "박혜진 Park Hye Jin",
+                "name": "Like this",
+                "album": "Like this"
+            },
+            {
+                "artist": "Loco Dice",
+                "name": "Sweet Nectar Blossom",
+                "album": "Sweet Nectar Blossom"
+            },
+            {
+                "artist": "Tony Njoku",
+                "name": "BSD YRSLF",
+                "album": "Justine"
+            },
+            {
+                "artist": "Demuja",
+                "name": "Nancy",
+                "album": "Touch of Nancy"
+            },
+            {
+                "artist": "Bklava",
+                "name": "Slow Down",
+                "album": "Take Time / Slow Down"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Atlas",
+                "album": "Atlas"
+            },
+            {
+                "artist": "Hector Plimmer",
+                "name": "Wall Street - Matthew Herbert's Street Dub",
+                "album": "Wall Street (Matthew Herbert's Street Dub)"
+            },
+            {
+                "artist": "Scuba",
+                "name": "Never Forget - Effy Remix",
+                "album": "Never Forget (Remixes)"
+            },
+            {
+                "artist": "Shy One",
+                "name": "Route II Romeos",
+                "album": "Route II Romeos"
+            },
+            {
+                "artist": "Tibasko",
+                "name": "Solum",
+                "album": "Solum"
+            },
+            {
+                "artist": "Coldcut",
+                "name": "Timber - Maceo Plex Remix",
+                "album": "Timber"
+            },
+            {
+                "artist": "Anja Schneider",
+                "name": "Mitte",
+                "album": "Seduction"
+            },
+            {
+                "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
+                "name": "೧ູ࿃ूੂ༽oooooo(ଳծູ ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡| ̲̲͡ π̲̲͡͡ ɵੂ≢)_̴I",
+                "album": "ooo ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ oʅ͡͡͡͡͡͡͡͡͡͡͡( ؞ৢ؞ؙؖ⁽⁾˜ัิีึื์๎้็๋๊⦁0 ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ ఠీੂ೧ູ࿃ूੂ"
+            },
+            {
+                "artist": "India Jordan",
+                "name": "For You",
+                "album": "For You"
+            },
+            {
+                "artist": "Hessian",
+                "name": "Yours Sincerely",
+                "album": "Yours Sincerely"
+            },
+            {
+                "artist": "Nic Fanciulli",
+                "name": "Focus",
+                "album": "Focus"
+            },
+            {
+                "artist": "Kilder",
+                "name": "Backwards",
+                "album": "Backwards"
+            }
+        ]
+    }
+]

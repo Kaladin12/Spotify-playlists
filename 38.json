@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Microhouse",
+        "songs": [
+            {
+                "artist": "Baraso",
+                "name": "Pre Sego - Original Mix",
+                "album": "Pre Sego EP"
+            },
+            {
+                "artist": "Baraso",
+                "name": "Dub Solution - Original Mix",
+                "album": "Do It Again"
+            },
+            {
+                "artist": "Boo Williams",
+                "name": "Make Some Noise",
+                "album": "Home Town Chicago"
+            },
+            {
+                "artist": "Archie Hamilton",
+                "name": "The Universe",
+                "album": "Skytrain to Nania"
+            },
+            {
+                "artist": "REda daRE",
+                "name": "We Used To",
+                "album": "Music Makes Me High"
+            },
+            {
+                "artist": "REda daRE",
+                "name": "Manimal Death",
+                "album": "Music Makes Me High"
+            },
+            {
+                "artist": "REda daRE",
+                "name": "Music Makes Me High",
+                "album": "Music Makes Me High"
+            },
+            {
+                "artist": "REda daRE",
+                "name": "Rdna",
+                "album": "Music Makes Me High"
+            },
+            {
+                "artist": "REda daRE",
+                "name": "Grand Pas - Original Mix",
+                "album": "Death Raw Ep"
+            },
+            {
+                "artist": "iO (Mulen)",
+                "name": "Bass Control",
+                "album": "Criminal Stuff"
+            },
+            {
+                "artist": "Fabe",
+                "name": "Kim On Gin - Original Mix",
+                "album": "Square Town Story EP"
+            },
+            {
+                "artist": "Fabe",
+                "name": "Kim On Gin - Enzo Siragusa & Seb Zito Remix",
+                "album": "Square Town Story EP"
+            },
+            {
+                "artist": "JTH",
+                "name": "Something - Original Mix",
+                "album": "The Insular"
+            },
+            {
+                "artist": "Flow",
+                "name": "Put My Shit On Wax - Original Mix",
+                "album": "Peace Of Mind"
+            },
+            {
+                "artist": "Black Loops",
+                "name": "Cassette 5.1 - Ed Herbst Remix",
+                "album": "Dreams"
+            },
+            {
+                "artist": "Mike Gill",
+                "name": "The Message",
+                "album": "Coppin a Feel"
+            },
+            {
+                "artist": "DiSKOP",
+                "name": "Energy",
+                "album": "Disk 01"
+            },
+            {
+                "artist": "Dan Evtimov",
+                "name": "Peche",
+                "album": "3 Years Anniversary"
+            },
+            {
+                "artist": "2Vilas",
+                "name": "Bilbo",
+                "album": "3 Years Anniversary"
+            },
+            {
+                "artist": "Seb Zito",
+                "name": "Burns",
+                "album": "My Sound"
+            },
+            {
+                "artist": "Fabe",
+                "name": "All City Brother - Original Mix",
+                "album": "Square Town Story EP"
+            },
+            {
+                "artist": "Cab Drivers",
+                "name": "Taxi Funk",
+                "album": "Taxi Funk / Bon Bon"
+            },
+            {
+                "artist": "Livio",
+                "name": "Tul Astia - Original Mix",
+                "album": "Here & There"
+            },
+            {
+                "artist": "Jack Wickham",
+                "name": "Siras",
+                "album": "Collection 3"
+            },
+            {
+                "artist": "Mihai Popoviciu",
+                "name": "Central HK - Original Mix",
+                "album": "The Unexpected Truth"
+            },
+            {
+                "artist": "Janeret",
+                "name": "Equinoxe",
+                "album": "Nation House: Chalutier du Havre"
+            },
+            {
+                "artist": "Ho Do Ri",
+                "name": "K For The Models",
+                "album": "Lost In Betty's Ford EP"
+            },
+            {
+                "artist": "Ho Do Ri",
+                "name": "Elotrans",
+                "album": "Lost In Betty's Ford EP"
+            },
+            {
+                "artist": "Ho Do Ri",
+                "name": "Back Problems",
+                "album": "Lost In Betty's Ford EP"
+            },
+            {
+                "artist": "iO (Mulen)",
+                "name": "Criminal Stuff",
+                "album": "Criminal Stuff"
+            },
+            {
+                "artist": "Fabe (Ger)",
+                "name": "Square Walk",
+                "album": "Life Is Audio"
+            },
+            {
+                "artist": "Inland Knights",
+                "name": "Hot Soup",
+                "album": "Inland Bites"
+            },
+            {
+                "artist": "Enzo Siragusa",
+                "name": "Transcend - Original Mix",
+                "album": "Dubinnovation"
+            },
+            {
+                "artist": "Max Jacobson",
+                "name": "Shambles - Archie Hamilton Remix",
+                "album": "Into Orbit"
+            },
+            {
+                "artist": "ADMNTi",
+                "name": "Auxerre",
+                "album": "VA COMPILATION VOL II"
+            },
+            {
+                "artist": "Ben Rau",
+                "name": "She's A Replicant - Afriqua Remix",
+                "album": "The Replicant EP"
+            },
+            {
+                "artist": "Enzo Siragusa",
+                "name": "Lil Ley",
+                "album": "Woonie Trax"
+            },
+            {
+                "artist": "Enzo Siragusa",
+                "name": "Blue Notes",
+                "album": "Woonie Trax"
+            },
+            {
+                "artist": "Rhadow",
+                "name": "Fragments",
+                "album": "Fragments / Xrated"
+            },
+            {
+                "artist": "Rhadow",
+                "name": "Xrated",
+                "album": "Fragments / Xrated"
+            },
+            {
+                "artist": "Prodot",
+                "name": "Wink - No Rules (UK) Remix",
+                "album": "Strix EP"
+            },
+            {
+                "artist": "Prodot",
+                "name": "Wink - Original Mix",
+                "album": "Strix EP"
+            },
+            {
+                "artist": "Prodot",
+                "name": "Strix - Original Mix",
+                "album": "Strix EP"
+            },
+            {
+                "artist": "Giash",
+                "name": "How About No",
+                "album": "Look Back, Vol. 2"
+            },
+            {
+                "artist": "Noha",
+                "name": "Loopo Di Mare",
+                "album": "Cat EP"
+            },
+            {
+                "artist": "Noha",
+                "name": "Cat - Archie Hamilton Remix",
+                "album": "Cat EP"
+            },
+            {
+                "artist": "Janeret",
+                "name": "Air",
+                "album": "Memories, Pt. II"
+            },
+            {
+                "artist": "Code Deploy",
+                "name": "Hope",
+                "album": "Memories, Pt. II"
+            },
+            {
+                "artist": "Julian Alexander",
+                "name": "Point of View",
+                "album": "AO45"
+            },
+            {
+                "artist": "Smoud Beats",
+                "name": "02 - Alessio Viggiano Brain Interpretation",
+                "album": "Gruvs"
+            },
+            {
+                "artist": "Smoud Beats",
+                "name": "02",
+                "album": "Gruvs"
+            },
+            {
+                "artist": "Smoud Beats",
+                "name": "03",
+                "album": "Gruvs"
+            },
+            {
+                "artist": "Lost.Act",
+                "name": "Alpha",
+                "album": "Nuts N' Stuff Vol.1"
+            },
+            {
+                "artist": "Hostom",
+                "name": "Hostom003, pt. 2",
+                "album": "Hostom003"
+            },
+            {
+                "artist": "Hostom",
+                "name": "Hostom ZZZ, pt. 3",
+                "album": "Hostom ZZZ"
+            },
+            {
+                "artist": "Hostom",
+                "name": "Hostom ZZZ, pt. 1",
+                "album": "Hostom ZZZ"
+            },
+            {
+                "artist": "Hostom",
+                "name": "Hostom001, pt. 2",
+                "album": "Hostom001"
+            },
+            {
+                "artist": "Lost.Act",
+                "name": "Make It Better",
+                "album": "Better Things"
+            },
+            {
+                "artist": "Lost.Act & Mishel A",
+                "name": "Lab - Original Mix",
+                "album": "DU DA LINE EP"
+            },
+            {
+                "artist": "Dimitris Anagnostou",
+                "name": "Seafish",
+                "album": "Abstract Thinking"
+            },
+            {
+                "artist": "Varhat",
+                "name": "Yond",
+                "album": "VRHT222"
+            },
+            {
+                "artist": "Varhat",
+                "name": "Quattro, pt. 1",
+                "album": "Quattro"
+            },
+            {
+                "artist": "Varhat",
+                "name": "Quattro, pt. 2",
+                "album": "Quattro"
+            },
+            {
+                "artist": "Varhat",
+                "name": "Bān",
+                "album": "VRHT222"
+            },
+            {
+                "artist": "Moon Man",
+                "name": "Moon Patrol",
+                "album": "Lucky Star Ship"
+            },
+            {
+                "artist": "Varhat",
+                "name": "Distract",
+                "album": "Distract"
+            },
+            {
+                "artist": "Hostom",
+                "name": "Hostom ZZZ, pt. 2",
+                "album": "Hostom ZZZ"
+            },
+            {
+                "artist": "Hostom",
+                "name": "Hostom002, pt. 1",
+                "album": "Hostom002"
+            },
+            {
+                "artist": "Subb-an",
+                "name": "Self Control",
+                "album": "Self Control/Only Now"
+            },
+            {
+                "artist": "Enzo Siragusa",
+                "name": "Playdem",
+                "album": "Playdem"
+            },
+            {
+                "artist": "Jordy Sánchez",
+                "name": "Moment",
+                "album": "Moment"
+            },
+            {
+                "artist": "Andrey Loud",
+                "name": "Soul Plate",
+                "album": "VA Best Of Innocent Music Deep Vol.3"
+            },
+            {
+                "artist": "Smoud Beats",
+                "name": "Funk You",
+                "album": "City Tales"
+            },
+            {
+                "artist": "Archie Hamilton",
+                "name": "Dos Equis - Original Mix",
+                "album": "Wild Thing EP"
+            },
+            {
+                "artist": "Flow",
+                "name": "Keep Comin Back - Original Mix",
+                "album": "Low Pressings 50"
+            },
+            {
+                "artist": "Fresh & Low",
+                "name": "New Life",
+                "album": "Little 'I'"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOI006 A",
+                "album": "MOI006"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOI001 B",
+                "album": "MOI001"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOI001 A",
+                "album": "MOI001"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOI004 B",
+                "album": "MOI004"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOI005 B",
+                "album": "MOI005"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOi 07 A",
+                "album": "MOI 07"
+            },
+            {
+                "artist": "Moi",
+                "name": "MOi 07 B",
+                "album": "MOI 07"
+            },
+            {
+                "artist": "Sebo K",
+                "name": "Foliage Patterns",
+                "album": "Brock Wild"
+            },
+            {
+                "artist": "Viktor Udvari",
+                "name": "Varazslat",
+                "album": "Second Chapter"
+            },
+            {
+                "artist": "Player One (Ravi McArthur)",
+                "name": "Another Crap Night Out in Eltham",
+                "album": "Different Stokes EP"
+            },
+            {
+                "artist": "DiSKOP",
+                "name": "Bloomer",
+                "album": "Disk 02"
+            },
+            {
+                "artist": "Morey",
+                "name": "Flute - Side B",
+                "album": "Flute"
+            },
+            {
+                "artist": "The Shamen",
+                "name": "Make It Mine - Moby's Deep Mix",
+                "album": "Hystericool: The Best of the Alternate Mixes"
+            },
+            {
+                "artist": "Guti",
+                "name": "Nuevo - Enzo Siragusa Remix",
+                "album": "Volver"
+            },
+            {
+                "artist": "Brett Jacobs",
+                "name": "1999",
+                "album": "Hund005"
+            },
+            {
+                "artist": "Bodeler",
+                "name": "Philypop",
+                "album": "Mandar All Day 001"
+            },
+            {
+                "artist": "Michael James",
+                "name": "H15",
+                "album": "The Story Unfolds"
+            },
+            {
+                "artist": "ADMNTi",
+                "name": "A'ight",
+                "album": "4 Years of Arupa Music"
+            },
+            {
+                "artist": "Smoud Beats",
+                "name": "Audio Art",
+                "album": "Audio Art"
+            },
+            {
+                "artist": "Philipp Lichtblau",
+                "name": "Movin' - Lee Burton Remix",
+                "album": "We Are Movin'"
+            },
+            {
+                "artist": "Niko Maxen",
+                "name": "Sigma",
+                "album": "Sigma Ep"
+            },
+            {
+                "artist": "Niko Maxen",
+                "name": "Delta",
+                "album": "Sigma Ep"
+            },
+            {
+                "artist": "Niko Maxen",
+                "name": "Theta",
+                "album": "Sigma Ep"
+            },
+            {
+                "artist": "Niko Maxen",
+                "name": "Gamma",
+                "album": "Sigma Ep"
+            }
+        ]
+    }
+]

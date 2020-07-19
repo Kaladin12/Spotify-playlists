@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Dark Techno Gems",
+        "songs": [
+            {
+                "artist": "Monomotion",
+                "name": "Opacity",
+                "album": "Leaving"
+            },
+            {
+                "artist": "René Bourgeois",
+                "name": "4 my RECORDZ 2016",
+                "album": "4 My Recordz 2016 EP"
+            },
+            {
+                "artist": "Anturage",
+                "name": "Moon River",
+                "album": "Crop Circles EP"
+            },
+            {
+                "artist": "Michael Mayer",
+                "name": "For You - DJ Koze Club Mix",
+                "album": "For You (DJ Koze Remixes)"
+            },
+            {
+                "artist": "Rico Puestel",
+                "name": "Andrew Geoffrey K",
+                "album": "Ponsactrilau Turns 2"
+            },
+            {
+                "artist": "Giolì",
+                "name": "Echo of the Woods",
+                "album": "Echo of the Woods"
+            },
+            {
+                "artist": "FractaLL",
+                "name": "Take Over",
+                "album": "Take Over"
+            },
+            {
+                "artist": "Yoann Feynman",
+                "name": "Noir",
+                "album": "Noir"
+            },
+            {
+                "artist": "Landside",
+                "name": "Still There",
+                "album": "Landside, Pt. 1"
+            },
+            {
+                "artist": "Kasper Bjørke",
+                "name": "Klint - Thomas Von Party Remix",
+                "album": "Klint"
+            },
+            {
+                "artist": "Nocow",
+                "name": "Moonlight Flit",
+                "album": "Ruins Tape"
+            },
+            {
+                "artist": "Koen Groeneveld",
+                "name": "Macadamia",
+                "album": "Ballaststoffe E.P."
+            },
+            {
+                "artist": "MEUTE",
+                "name": "Kerberos",
+                "album": "Kerberos"
+            },
+            {
+                "artist": "Kellerkind",
+                "name": "Shakti Pan (feat. Sven)",
+                "album": "Kellerkind - Fideles"
+            },
+            {
+                "artist": "Mr. Fingers",
+                "name": "Qwazars",
+                "album": "Outer Acid EP"
+            }
+        ]
+    }
+]

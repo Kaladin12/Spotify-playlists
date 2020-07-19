@@ -1,0 +1,507 @@
+[
+    {
+        "name": "another world",
+        "songs": [
+            {
+                "artist": "Aphex Twin",
+                "name": "Digeridoo",
+                "album": "Classics"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Flaphead",
+                "album": "Classics"
+            },
+            {
+                "artist": "Boston 168",
+                "name": "Terror Acid - Original Mix",
+                "album": "Black Hole"
+            },
+            {
+                "artist": "Ellen Allien",
+                "name": "Love Distortion - Introversion Remix",
+                "album": "Alientronic Remixes 1"
+            },
+            {
+                "artist": "Hodge",
+                "name": "Ghost of Akina - Rainbow Edition",
+                "album": "Shadows In Blue"
+            },
+            {
+                "artist": "I Hate Models",
+                "name": "Warehouse Memories",
+                "album": "Warehouse Memories"
+            },
+            {
+                "artist": "I Hate Models",
+                "name": "Daydream",
+                "album": "Warehouse Memories"
+            },
+            {
+                "artist": "Jayson Wynters",
+                "name": "Into The Void",
+                "album": "Industrial Espionage"
+            },
+            {
+                "artist": "Klangkuenstler",
+                "name": "Supernova",
+                "album": "Outworld 001"
+            },
+            {
+                "artist": "Kmyle",
+                "name": "Telepathic Synchrony",
+                "album": "Northern Landscapes"
+            },
+            {
+                "artist": "Krtm",
+                "name": "Purple Fucking Head - Original Mix",
+                "album": "Consumer (The Worst Of KRTM)"
+            },
+            {
+                "artist": "Lars Huismann",
+                "name": "Nothing to Lose - Original Mix",
+                "album": "Juggernaut EP"
+            },
+            {
+                "artist": "Lars Huismann",
+                "name": "First Contact",
+                "album": "Renaissance"
+            },
+            {
+                "artist": "Lars Huismann",
+                "name": "Critical Mass",
+                "album": "Renaissance"
+            },
+            {
+                "artist": "Luigi Tozzi",
+                "name": "Black Market",
+                "album": "Tender Is The Night"
+            },
+            {
+                "artist": "Maceo Plex",
+                "name": "Mutant DX",
+                "album": "Mutant 1"
+            },
+            {
+                "artist": "Marcel Dettmann",
+                "name": "Bad Boy",
+                "album": "Phantom Studies"
+            },
+            {
+                "artist": "Marcelus",
+                "name": "Perception",
+                "album": "EP1"
+            },
+            {
+                "artist": "Oliver Huntemann",
+                "name": "Dark Passenger",
+                "album": "Paranoia"
+            },
+            {
+                "artist": "Oscar Mulero",
+                "name": "Like A Wolf",
+                "album": "Like A Wolf / Horses / In A Silent Way"
+            },
+            {
+                "artist": "Pleasurekraft",
+                "name": "Main Sequence",
+                "album": "Love in the Age of Machines"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Es zieht mich",
+                "album": "Dahinter das Gesicht"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Aus dem Hals der Flasche",
+                "album": "Dahinter das Gesicht"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Fokus",
+                "album": "Dahinter das Gesicht"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Durch die Haare die Stirn",
+                "album": "Dahinter das Gesicht"
+            },
+            {
+                "artist": "Skober",
+                "name": "Solar Power",
+                "album": "Solar Power"
+            },
+            {
+                "artist": "Stiv Hey",
+                "name": "Atlantis",
+                "album": "Waves of Light"
+            },
+            {
+                "artist": "Tommy Holohan",
+                "name": "Inter Dimensional Hardcore Business",
+                "album": "The World Of Monnom Black"
+            },
+            {
+                "artist": "UVB",
+                "name": "Mixtion - Original Mix",
+                "album": "What I've Learned EP"
+            },
+            {
+                "artist": "Boston 168",
+                "name": "Oblivion",
+                "album": "Oblivion"
+            },
+            {
+                "artist": "Shifted",
+                "name": "Control",
+                "album": "Control"
+            },
+            {
+                "artist": "Keith Carnal",
+                "name": "Untold",
+                "album": "Archives (10 Years Affin)"
+            },
+            {
+                "artist": "Rebekah",
+                "name": "Code Black - Slam Remix",
+                "album": "Fear Paralysis (The Remixes)"
+            },
+            {
+                "artist": "Dax J",
+                "name": "Protect The Prophecy",
+                "album": "Shades Of Black LP"
+            },
+            {
+                "artist": "Introversion",
+                "name": "Dystopia",
+                "album": "Dystopia"
+            },
+            {
+                "artist": "Niki Istrefi",
+                "name": "Red Armor",
+                "album": "EUROMANTIC001"
+            },
+            {
+                "artist": "Remco Beekwilder",
+                "name": "Irregular Acid - Original Mix",
+                "album": "10th Planet EP"
+            },
+            {
+                "artist": "Under Black Helmet",
+                "name": "Have You Ever Had a Dream",
+                "album": "Mute"
+            },
+            {
+                "artist": "SHDW",
+                "name": "Die weiße Rose",
+                "album": "Die weiße Rose"
+            },
+            {
+                "artist": "Claro Intelecto",
+                "name": "New Dawn",
+                "album": "Warehouse Sessions"
+            },
+            {
+                "artist": "Tapefeed",
+                "name": "777",
+                "album": "Relative Disparity"
+            },
+            {
+                "artist": "Obscure Shape",
+                "name": "Die Illusion",
+                "album": "Die Illusion"
+            },
+            {
+                "artist": "KAS:ST",
+                "name": "Road To Nowhere",
+                "album": "Road To Nowhere"
+            },
+            {
+                "artist": "Hadone",
+                "name": "Wade The Revenge",
+                "album": "They Will Come EP"
+            },
+            {
+                "artist": "Héctor Oaks",
+                "name": "Uno A",
+                "album": "Uno"
+            },
+            {
+                "artist": "Viper Diva",
+                "name": "Born to Be Slytherin - Tbilisi Mix",
+                "album": "Born To Be Slytherin"
+            },
+            {
+                "artist": "Lars Huismann",
+                "name": "Cassini",
+                "album": "Cyclops EP"
+            },
+            {
+                "artist": "Regal",
+                "name": "Fuck Making Love - Hadone Remix",
+                "album": "Ego Wars"
+            },
+            {
+                "artist": "Yan Cook",
+                "name": "Strategist",
+                "album": "XX LP"
+            },
+            {
+                "artist": "Dubiosity",
+                "name": "Binaural Recordings",
+                "album": "Arcanum EP"
+            },
+            {
+                "artist": "Keith Carnal",
+                "name": "Racidence",
+                "album": "Aluminium"
+            },
+            {
+                "artist": "Boston 168",
+                "name": "707 Sing - Original Mix",
+                "album": "Revelation"
+            },
+            {
+                "artist": "Boston 168",
+                "name": "Cosmic Radiation - Original Mix",
+                "album": "Black Hole"
+            },
+            {
+                "artist": "Johannes Heil",
+                "name": "Exile 007 B2",
+                "album": "EXILE 007"
+            },
+            {
+                "artist": "FraKtur",
+                "name": "DSM-5",
+                "album": "Anima EP"
+            },
+            {
+                "artist": "Hadone",
+                "name": "Taming the Passion",
+                "album": "A Lot of Chaos"
+            },
+            {
+                "artist": "Amotik",
+                "name": "Chautis - Anthony Linell Remix",
+                "album": "Vistār Remixes"
+            },
+            {
+                "artist": "Slam",
+                "name": "Inversion",
+                "album": "Inversion EP"
+            },
+            {
+                "artist": "Slam",
+                "name": "Pantera",
+                "album": "Constructivism"
+            },
+            {
+                "artist": "Boston 168",
+                "name": "Nightcall",
+                "album": "Oblivion"
+            },
+            {
+                "artist": "Boston 168",
+                "name": "Split String",
+                "album": "Oblivion"
+            },
+            {
+                "artist": "David Löhlein",
+                "name": "Six Nine",
+                "album": "Vision I - Nysa"
+            },
+            {
+                "artist": "David Löhlein",
+                "name": "Ilyane",
+                "album": "Seyla EP"
+            },
+            {
+                "artist": "Rene Wise",
+                "name": "M37",
+                "album": "Hinder EP"
+            },
+            {
+                "artist": "Kirk Degiorgio",
+                "name": "The Interest",
+                "album": "Ben Sims pres. Tribology"
+            },
+            {
+                "artist": "Héctor Oaks",
+                "name": "Uno B",
+                "album": "Uno"
+            },
+            {
+                "artist": "Shed",
+                "name": "Seelower Höhen",
+                "album": "Oderbruch"
+            },
+            {
+                "artist": "Basic Channel",
+                "name": "Phylyps Trak",
+                "album": "Bcd-2"
+            },
+            {
+                "artist": "Steve Parker",
+                "name": "Interplanetary Dust",
+                "album": "Interplanetary Dust LP"
+            },
+            {
+                "artist": "Blawan",
+                "name": "993",
+                "album": "Nutrition"
+            },
+            {
+                "artist": "WNDRLST",
+                "name": "You're Dreaming into Something",
+                "album": "You're Dreaming into Something"
+            },
+            {
+                "artist": "WNDRLST",
+                "name": "Omnipotence Paradox",
+                "album": "Omnipotence Paradox"
+            },
+            {
+                "artist": "ØRGIE",
+                "name": "Saroumane",
+                "album": "Skull Factory"
+            },
+            {
+                "artist": "ØRGIE",
+                "name": "Venison Custodian",
+                "album": "Venison Custodian"
+            },
+            {
+                "artist": "Tim Tama",
+                "name": "The Wars Of The Roses",
+                "album": "A Taste Of The Heart"
+            },
+            {
+                "artist": "JKS",
+                "name": "Burnside",
+                "album": "Burnside"
+            },
+            {
+                "artist": "Krtm",
+                "name": "Touch Me - Original Mix",
+                "album": "Consumer (The Worst Of KRTM)"
+            },
+            {
+                "artist": "Shlømo",
+                "name": "XV3",
+                "album": "ARTS V - Five years of Arts"
+            },
+            {
+                "artist": "Ryuji Takeuchi",
+                "name": "Ying Yang - Original Mix",
+                "album": "The Night Is Long That Never Finds The Day EP"
+            },
+            {
+                "artist": "Tim Tama",
+                "name": "Teflon Love",
+                "album": "A Taste Of The Heart"
+            },
+            {
+                "artist": "Stanislav Tolkachev",
+                "name": "Apexcordis",
+                "album": "When you are not at home"
+            },
+            {
+                "artist": "Stanislav Tolkachev",
+                "name": "Bring",
+                "album": "When you are not at home"
+            },
+            {
+                "artist": "Stanislav Tolkachev",
+                "name": "Proof",
+                "album": "When you are not at home"
+            },
+            {
+                "artist": "Tim Tama",
+                "name": "Something True",
+                "album": "Wave Of Nostalgia EP"
+            },
+            {
+                "artist": "Obscure Shape",
+                "name": "Himmel Und Erde - Original Mix",
+                "album": "Himmel Und Erde EP"
+            },
+            {
+                "artist": "Tim Tama",
+                "name": "Tension I",
+                "album": "TAR18"
+            },
+            {
+                "artist": "I Hate Models",
+                "name": "State Of Control - Original Mix",
+                "album": "State Of Control EP"
+            },
+            {
+                "artist": "Dax J",
+                "name": "Devine Right",
+                "album": "Shades Of Black LP"
+            },
+            {
+                "artist": "Anetha",
+                "name": "Candy from Strangers",
+                "album": "Don't Rush to Grow Up"
+            },
+            {
+                "artist": "Tim Tama",
+                "name": "Wave Of Nostalgia",
+                "album": "Wave Of Nostalgia EP"
+            },
+            {
+                "artist": "Karenn",
+                "name": "Shoes Off",
+                "album": "Music Sounds Better With Shoe"
+            },
+            {
+                "artist": "Shed",
+                "name": "B1 (Anfang und Ende)",
+                "album": "Oderbruch"
+            },
+            {
+                "artist": "Shlømo",
+                "name": "Obsession",
+                "album": "Vanished Breath EP"
+            },
+            {
+                "artist": "Yan Cook",
+                "name": "Sand",
+                "album": "Graphite EP"
+            },
+            {
+                "artist": "Shlømo",
+                "name": "Obsession - Oscar Mulero Remix",
+                "album": "Shlømo Remixed"
+            },
+            {
+                "artist": "Vladimir Dubyshkin",
+                "name": "Pigeon Epilepsy",
+                "album": "Cheerful Pessimist"
+            },
+            {
+                "artist": "Peryl",
+                "name": "Protestaktion - Niki Istrefi Remix",
+                "album": "Rebellion EP"
+            },
+            {
+                "artist": "Viper Diva",
+                "name": "Hold Me Back",
+                "album": "Born To Be Slytherin"
+            },
+            {
+                "artist": "MRD",
+                "name": "whiteflower",
+                "album": "FLOWERS OF FLESH AND BLOOD"
+            },
+            {
+                "artist": "Peryl",
+                "name": "Protestaktion",
+                "album": "Rebellion EP"
+            }
+        ]
+    }
+]

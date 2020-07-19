@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Hauntology",
+        "songs": [
+            {
+                "artist": "Burial",
+                "name": "In Mcdonalds",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "Setting Sail to Unknown Shores",
+                "album": "The Unexpected Death of a Time-Traveling Friend"
+            },
+            {
+                "artist": "Yasume",
+                "name": "Rengoku (Condensed)",
+                "album": "Where We're From The Birds Sing A Pretty Song"
+            },
+            {
+                "artist": "Belbury Poly",
+                "name": "The Willows",
+                "album": "The Willows"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ghost Hardware",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "Haze Ascending Over 249 Square Miles of Concrete and Dust",
+                "album": "Music for an Empty Metropolis"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Seven Forty Seven",
+                "album": "Warp20 (Unheard)"
+            },
+            {
+                "artist": "Nmesh",
+                "name": "Favorite Places",
+                "album": "Dream Sequins®"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Amo Bishop Roden",
+                "album": "In A Beautiful Place Out In The Country"
+            },
+            {
+                "artist": "Nicolas Jaar",
+                "name": "Folie à deux",
+                "album": "Pomegranates"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "Scavenger",
+                "album": "Music for an Empty Metropolis"
+            },
+            {
+                "artist": "Neil Young",
+                "name": "Organ Solo",
+                "album": "Dead Man: A Film By Jim Jarmusch (Music From And Inspired By The Motion Picture)"
+            },
+            {
+                "artist": "Plaid",
+                "name": "Melifer",
+                "album": "The Digging Remedy"
+            },
+            {
+                "artist": "Air",
+                "name": "Modular Mix",
+                "album": "Premiers Symptômes"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Detroit Part 1",
+                "album": "No Better Time Than Now"
+            },
+            {
+                "artist": "Angelo Badalamenti",
+                "name": "Twin Peaks Theme - Instrumental",
+                "album": "Soundtrack From Twin Peaks"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "Snow in August",
+                "album": "Music for an Empty Metropolis"
+            },
+            {
+                "artist": "Bonobo",
+                "name": "Silver",
+                "album": "Animal Magic"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "#3",
+                "album": "Selected Ambient Works Volume II"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Everything You Do Is A Balloon",
+                "album": "Hi Scores"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Music Is Math",
+                "album": "Geogaddi"
+            },
+            {
+                "artist": "Brian Eno",
+                "name": "An Ending (Ascent) - Remastered 2005",
+                "album": "Apollo"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Nothing Is Real",
+                "album": "Tomorrow's Harvest"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Semena Mertvykh",
+                "album": "Tomorrow's Harvest"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Molfsee",
+                "album": "Far Away Trains Passing By"
+            },
+            {
+                "artist": "William Basinski",
+                "name": "Mono No Aware 1.1",
+                "album": "Selva Oscura"
+            },
+            {
+                "artist": "Pye Corner Audio",
+                "name": "Lost Ways",
+                "album": "Stasis"
+            },
+            {
+                "artist": "Autechre",
+                "name": "444",
+                "album": "Incunabula"
+            },
+            {
+                "artist": "Rumpistol",
+                "name": "Morgenfugl",
+                "album": "Rumpistol"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "aisatsana [102]",
+                "album": "Syro"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Vespa",
+                "album": "Bicep"
+            },
+            {
+                "artist": "Brainwaltzera",
+                "name": "Bad Endgar",
+                "album": "Epi-Log EP"
+            },
+            {
+                "artist": "µ-Ziq",
+                "name": "Mushroom Compost",
+                "album": "Lunatic Harness"
+            },
+            {
+                "artist": "Brainwaltzera",
+                "name": "Tims",
+                "album": "The Kids Are AI"
+            },
+            {
+                "artist": "Brainwaltzera",
+                "name": "mixolydian transition 18",
+                "album": "Poly-Ana"
+            },
+            {
+                "artist": "Shlohmo",
+                "name": "Watching a Video",
+                "album": "The End"
+            },
+            {
+                "artist": "Amon Tobin",
+                "name": "Switch",
+                "album": "Permutation"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "Acid Rain on Broken Rooftops",
+                "album": "Music for an Empty Metropolis"
+            },
+            {
+                "artist": "xxyyxx",
+                "name": "Never Leave",
+                "album": "Xxyyxx"
+            },
+            {
+                "artist": "Röyksopp",
+                "name": "In Space",
+                "album": "Melody A.M."
+            },
+            {
+                "artist": "Angelo Badalamenti",
+                "name": "Main Title Theme (Mulholland Drive)",
+                "album": "Cannes, Amours, Rêves et Passions"
+            },
+            {
+                "artist": "Den Sorte Skole",
+                "name": "Arca Hymn",
+                "album": "Symphony No.II for Sampler and Chamber Orchestra"
+            },
+            {
+                "artist": "Matt Elliott",
+                "name": "Also Ran",
+                "album": "The Mess We Made"
+            },
+            {
+                "artist": "Moth Equals",
+                "name": "Cordiform",
+                "album": "One Tusk"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "The Simulation",
+                "album": "Quantum Computer Deep Dream"
+            },
+            {
+                "artist": "Forest Swords",
+                "name": "The Highest Flood",
+                "album": "Compassion"
+            },
+            {
+                "artist": "Moth Equals",
+                "name": "The Heavens Opened and Closed",
+                "album": "One Tusk"
+            },
+            {
+                "artist": "xxyyxx",
+                "name": "Dmt",
+                "album": "Xxyyxx"
+            },
+            {
+                "artist": "Burial",
+                "name": "Near Dark",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "In Time Prison",
+                "album": "The Unexpected Death of a Time-Traveling Friend"
+            },
+            {
+                "artist": "Biosphere",
+                "name": "Ballerina",
+                "album": "Substrata + Man with a Movie Camera"
+            },
+            {
+                "artist": "Eli Keszler",
+                "name": "We Live In Pathetic Temporal Urgency",
+                "album": "Stadium"
+            },
+            {
+                "artist": "Isan",
+                "name": "Amber Button",
+                "album": "Plans Drawn In Pencil"
+            },
+            {
+                "artist": "Burial",
+                "name": "State Forest",
+                "album": "Claustro / State Forest"
+            },
+            {
+                "artist": "Brian Eno",
+                "name": "Deep Blue Day - Remastered 2005",
+                "album": "Apollo"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Aquarius",
+                "album": "Music Has The Right To Children"
+            },
+            {
+                "artist": "Moth Equals",
+                "name": "Swimming in the Drink",
+                "album": "Sick Puppy"
+            },
+            {
+                "artist": "Tryphème",
+                "name": "Les Yeux de la Grandesse",
+                "album": "Online Dating"
+            },
+            {
+                "artist": "Brainwaltzera",
+                "name": "day aft8r [the_greyz]",
+                "album": "Poly-Ana"
+            },
+            {
+                "artist": "Plaid",
+                "name": "Zamami",
+                "album": "Double Figure"
+            },
+            {
+                "artist": "Yasume",
+                "name": "2112 Crescent Heights",
+                "album": "Where We're From The Birds Sing A Pretty Song"
+            },
+            {
+                "artist": "The Advisory Circle",
+                "name": "Mogadon Coffee Morning",
+                "album": "Other Channels"
+            },
+            {
+                "artist": "Ørdop Wolkenscheidt",
+                "name": "Elegy for the Hivemind",
+                "album": "Elegy for the Hivemind"
+            },
+            {
+                "artist": "Tryphème",
+                "name": "Acid Dream",
+                "album": "Online Dating"
+            },
+            {
+                "artist": "Matt Elliott",
+                "name": "The Mess We Made",
+                "album": "The Mess We Made"
+            },
+            {
+                "artist": "Moth Equals",
+                "name": "His Story Repeats Itself",
+                "album": "Dreamcoat"
+            },
+            {
+                "artist": "Röyksopp",
+                "name": "A Higher Place",
+                "album": "Melody A.M."
+            },
+            {
+                "artist": "Bibio",
+                "name": "Saint Christopher",
+                "album": "Mind Bokeh"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "An Eagle In Your Mind",
+                "album": "Music Has The Right To Children"
+            },
+            {
+                "artist": "Telefon Tel Aviv",
+                "name": "Fahrenheit Fair Enough",
+                "album": "Fahrenheit Fair Enough"
+            },
+            {
+                "artist": "King Of Woolworths",
+                "name": "Delia Derbyshire",
+                "album": "L'illustration Musicale"
+            },
+            {
+                "artist": "Flutterspot",
+                "name": "Softening distortions",
+                "album": "Suitable for a desire to share"
+            },
+            {
+                "artist": "Ochre",
+                "name": "Revolver",
+                "album": "A Midsummer Nice Dream"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "Detroit People Mover",
+                "album": "Be Up A Hello"
+            },
+            {
+                "artist": "Steve Hauschildt",
+                "name": "Phantox",
+                "album": "Dissolvi"
+            },
+            {
+                "artist": "Metamatics",
+                "name": "Giant Sunflowers Swaying In The Wind",
+                "album": "From Death To Passwords"
+            },
+            {
+                "artist": "Casino Versus Japan",
+                "name": "It's Very Sunny",
+                "album": "Go Hawaii"
+            }
+        ]
+    }
+]

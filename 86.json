@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Berghain Music",
+        "songs": [
+            {
+                "artist": "Marcel Dettmann",
+                "name": "Landscape - Answer Code Request Remix",
+                "album": "Landscape"
+            },
+            {
+                "artist": "Marcel Fengler",
+                "name": "Hidden Empire",
+                "album": "Sphinx"
+            },
+            {
+                "artist": "Nitzer Ebb",
+                "name": "Let Your Body Learn",
+                "album": "That Total Age"
+            },
+            {
+                "artist": "Oscar Mulero",
+                "name": "Like A Wolf",
+                "album": "Like A Wolf / Horses / In A Silent Way"
+            },
+            {
+                "artist": "Oscar Mulero",
+                "name": "In A Silent Way",
+                "album": "Like A Wolf / Horses / In A Silent Way"
+            },
+            {
+                "artist": "Marcelus",
+                "name": "Shape",
+                "album": "EP 2"
+            },
+            {
+                "artist": "Marcelus",
+                "name": "24/7",
+                "album": "Inertia #2"
+            },
+            {
+                "artist": "Marcelus",
+                "name": "Friction",
+                "album": "EP1"
+            },
+            {
+                "artist": "Marcelus",
+                "name": "Perception",
+                "album": "EP1"
+            },
+            {
+                "artist": "Truncate",
+                "name": "Contrasts - Developer Remix",
+                "album": "Contrasts"
+            },
+            {
+                "artist": "Monoloc",
+                "name": "Nohouse - Original Mix",
+                "album": "Nohouse"
+            },
+            {
+                "artist": "Thomas Schumacher",
+                "name": "Schall",
+                "album": "Schall & Rauch"
+            },
+            {
+                "artist": "Psyk",
+                "name": "Clown",
+                "album": "Richie Hawtin Presents Sounds From Can Elles"
+            },
+            {
+                "artist": "Psyk",
+                "name": "Lapse - Original Mix",
+                "album": "Quimic EP"
+            },
+            {
+                "artist": "Psyk",
+                "name": "Quimic - Original Mix",
+                "album": "Quimic EP"
+            },
+            {
+                "artist": "Sigha",
+                "name": "Between Here & Yesterday",
+                "album": "I Am Apathy, I Am Submission"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Suunta",
+                "album": "Kosmos EP"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Quantum Mechanics (Quantum Physics)",
+                "album": "Quantum Mechanics EP"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Linear Function",
+                "album": "Quantum Mechanics EP"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Melankolkutus",
+                "album": "Superkaapo EP"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Sekoteko",
+                "album": "Superkaapo EP"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Wormhole",
+                "album": "Dark Matter EP"
+            },
+            {
+                "artist": "Samuli Kemppi",
+                "name": "Metal Space - Original Mix",
+                "album": "Deep Space Helsinki EP"
+            },
+            {
+                "artist": "Area Forty_One",
+                "name": "Raindrop Prelude",
+                "album": "Discharging Clouds"
+            },
+            {
+                "artist": "Gary Beck",
+                "name": "Samsima",
+                "album": "Samsima / Get Down"
+            },
+            {
+                "artist": "Gary Beck",
+                "name": "Get Down",
+                "album": "Samsima / Get Down"
+            },
+            {
+                "artist": "Byetone",
+                "name": "Opal",
+                "album": "Symeta"
+            },
+            {
+                "artist": "Marcus Mixx",
+                "name": "Without Makeup (Ron Hardy Mix)",
+                "album": "Without Makeup/The Spell"
+            },
+            {
+                "artist": "Morphology",
+                "name": "Abscence Of Matter (Hardfloor Remix)",
+                "album": "Uranias Mirror Remixes"
+            },
+            {
+                "artist": "Tim Xavier",
+                "name": "Speeding Around The Universe - Dustin Zahn Monolith Remix",
+                "album": "Speeding Around The Universe"
+            },
+            {
+                "artist": "Black Strobe",
+                "name": "I’m A Man (Audion’s Donation mix)",
+                "album": "I’m A Man"
+            },
+            {
+                "artist": "Slam",
+                "name": "Stepback",
+                "album": "Dancefloor Peaks"
+            },
+            {
+                "artist": "Freq",
+                "name": "Xirtam",
+                "album": "Heaven 2.0"
+            },
+            {
+                "artist": "Massive Attack",
+                "name": "Unfinished Sympathy - 2006 Digital Remaster",
+                "album": "Bite Size Massive Attack"
+            },
+            {
+                "artist": "Liaisons Dangereuses",
+                "name": "Los Ninos del Parque (12\" Mix)",
+                "album": "Disco Not Disco (1974-1986)"
+            },
+            {
+                "artist": "Shifted",
+                "name": "Resurface",
+                "album": "Control"
+            },
+            {
+                "artist": "Shifted",
+                "name": "Spire",
+                "album": "Parallel Series 2"
+            },
+            {
+                "artist": "Shifted",
+                "name": "Drifting Over",
+                "album": "Control"
+            },
+            {
+                "artist": "Peace Division",
+                "name": "Blacklight Sleaze",
+                "album": "One Night In London"
+            },
+            {
+                "artist": "Peace Division",
+                "name": "Blacklight Sleaze (Radio Slave Vocal Mix)",
+                "album": "Blacklight Sleaze (Radio Slave Mixes)"
+            },
+            {
+                "artist": "Reference",
+                "name": "Best Night in Detroit",
+                "album": "Aeonian - EP"
+            },
+            {
+                "artist": "Francois K",
+                "name": "The Road of Life - Quiet Village Sound Factory",
+                "album": "The Road of Life"
+            },
+            {
+                "artist": "Lucy",
+                "name": "Kalachakra - DVS1 Eyes Closed Remix",
+                "album": "Kalachakra EP"
+            },
+            {
+                "artist": "Darko Esser",
+                "name": "Clean Slate - DVS1 Remix",
+                "album": "Clean Slate"
+            },
+            {
+                "artist": "Jeroen Search, Markus Suckut",
+                "name": "JSMS 1.0 - Original Mix",
+                "album": "SPC K"
+            },
+            {
+                "artist": "Jeroen Search, Markus Suckut",
+                "name": "JSMS 4.3 - Original Mix",
+                "album": "SPC K"
+            },
+            {
+                "artist": "Ø [Phase]",
+                "name": "Binary Opposition - Process 2",
+                "album": "Binary Opposition"
+            },
+            {
+                "artist": "Ø [Phase]",
+                "name": "Morodem - Original Version",
+                "album": "Morodem (Ben Sims Remixes)"
+            },
+            {
+                "artist": "Len Faki",
+                "name": "Mekong Delta - Original Mix",
+                "album": "Rainbow Delta / Mekong Delta"
+            },
+            {
+                "artist": "Samuel L Session",
+                "name": "Can You Relate - Main Mix",
+                "album": "Resume"
+            },
+            {
+                "artist": "Syncom Data",
+                "name": "Beyond the Stars - Speedy J Remix",
+                "album": "Beyond the Stars (Remixes)"
+            },
+            {
+                "artist": "Christian Smith, John Selway",
+                "name": "Total Departure - Original Mix",
+                "album": "Total Departure"
+            },
+            {
+                "artist": "Dubfire",
+                "name": "RibCage - Original Mix 1",
+                "album": "RibCage - EP"
+            },
+            {
+                "artist": "2000 And One",
+                "name": "Tropical Melons",
+                "album": "15 Years Fuse"
+            },
+            {
+                "artist": "Matt O'Brien",
+                "name": "Serotone - Version",
+                "album": "Serotone"
+            },
+            {
+                "artist": "Tadeo",
+                "name": "Reflection Nebula 056n",
+                "album": "Contacto"
+            },
+            {
+                "artist": "Joey Beltram",
+                "name": "Striking Distance - Original Mix",
+                "album": "The Scorpion EP"
+            },
+            {
+                "artist": "Staffan Linzatti",
+                "name": "2401 Penitent Tangent - Original Mix",
+                "album": "No Strange Waters Part One"
+            },
+            {
+                "artist": "Francesco Tristano",
+                "name": "Idiosynkrasia - Ben Klock Remix",
+                "album": "Idiosynkrasia (Remixes)"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "October",
+                "album": "October"
+            },
+            {
+                "artist": "O/V/R",
+                "name": "Post Traumatic Son - Ben Klock Vibe Mix",
+                "album": "Post Traumatic Son"
+            },
+            {
+                "artist": "Ben Klock, Marcel Dettmann",
+                "name": "Dawning - Original Mix",
+                "album": "Dawning/Dead Man Watches The Clock"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "Czeslawa - Original Mix",
+                "album": "Czeslawa / Warszawa"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "Subzero - Original Mix 1",
+                "album": "Before One EP"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "Underneath - Original Mix 1",
+                "album": "One"
+            },
+            {
+                "artist": "Steve Rachmad",
+                "name": "Virton Upgraded - Ben Klock Remix A",
+                "album": "Virton Upgraded (Ben Klock Remixes)"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "Coney Island",
+                "album": "One"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "Goodly Sin",
+                "album": "One"
+            },
+            {
+                "artist": "Ben Klock",
+                "name": "Check For Pulse",
+                "album": "One"
+            },
+            {
+                "artist": "Marcel Fengler",
+                "name": "Playground - Original Mix",
+                "album": "Playground / Early Glow"
+            },
+            {
+                "artist": "Marcel Fengler",
+                "name": "Early Glow - Original Mix 1",
+                "album": "Playground / Early Glow"
+            },
+            {
+                "artist": "Marcel Fengler",
+                "name": "Gridlock - Original Mix",
+                "album": "Twisted Bleach EP"
+            },
+            {
+                "artist": "Staffan Linzatti",
+                "name": "See - Original Mix 2",
+                "album": "The World Ends With You"
+            },
+            {
+                "artist": "A. Mochi",
+                "name": "Dark Matter - Original Mix",
+                "album": "Primodial Soup Part 3"
+            },
+            {
+                "artist": "Andy Toth",
+                "name": "Isotope Teleportation - Original Mix",
+                "album": "Panama Red"
+            },
+            {
+                "artist": "Audio Injection",
+                "name": "Toggle - Head Version By Par Grindvik",
+                "album": "Toggle EP"
+            },
+            {
+                "artist": "Ben Sims",
+                "name": "The Afterparty (Original Mix)",
+                "album": "Smoke & Mirrors"
+            },
+            {
+                "artist": "Crowdpleaser",
+                "name": "Last (Elin remix)",
+                "album": "2006 Remixes Part 3"
+            },
+            {
+                "artist": "Emika",
+                "name": "Count Backwards - Marcel Dettmann Remix",
+                "album": "Count Backwards"
+            },
+            {
+                "artist": "EQD",
+                "name": "Equalized #002 A",
+                "album": "I Love Techno 2011"
+            },
+            {
+                "artist": "Gesloten Cirkel",
+                "name": "Yamagic",
+                "album": "Moustache Techno Series 001"
+            },
+            {
+                "artist": "James Ruskin",
+                "name": "Erotic Misery",
+                "album": "Erotic Misery"
+            },
+            {
+                "artist": "James Ruskin",
+                "name": "The Future that Was",
+                "album": "Erotic Misery"
+            },
+            {
+                "artist": "Mark Broom",
+                "name": "Hostage",
+                "album": "No Time Soon"
+            },
+            {
+                "artist": "James Ruskin",
+                "name": "Solution",
+                "album": "The Outsider"
+            },
+            {
+                "artist": "James Ruskin",
+                "name": "Merz",
+                "album": "EPM 10"
+            },
+            {
+                "artist": "Mark Broom",
+                "name": "No Time Soon",
+                "album": "No Time Soon"
+            },
+            {
+                "artist": "Giorgos Gatzigristos",
+                "name": "Cartridged - Original Mix",
+                "album": "Draft"
+            },
+            {
+                "artist": "iori",
+                "name": "Lapis 1",
+                "album": "Lapis EP"
+            },
+            {
+                "artist": "iori",
+                "name": "Magnetic",
+                "album": "Unknown Places EP"
+            },
+            {
+                "artist": "iori",
+                "name": "Unknown Place",
+                "album": "Unknown Places EP"
+            },
+            {
+                "artist": "iori",
+                "name": "Urge",
+                "album": "Galaxy / Urge"
+            },
+            {
+                "artist": "Joel Mull, Dustin Zahn",
+                "name": "Bossa Nossa - Pan-Pot Vocal Edit 2",
+                "album": "Close Your Eyes Remixes"
+            },
+            {
+                "artist": "Xhin",
+                "name": "Fixing The Error",
+                "album": "Fixing The Error / Link"
+            },
+            {
+                "artist": "Xhin",
+                "name": "Link",
+                "album": "Fixing The Error / Link"
+            },
+            {
+                "artist": "Xhin",
+                "name": "Blade Moth",
+                "album": "Plexus / Blade Moth"
+            },
+            {
+                "artist": "Perc, Passarella Death Squad",
+                "name": "Temperature's Rising - Original Mix 1",
+                "album": "Balance 016 EP2"
+            },
+            {
+                "artist": "Perc",
+                "name": "Antifunk - Original Mix",
+                "album": "Antifunk / Purple"
+            },
+            {
+                "artist": "Joey Beltram",
+                "name": "Energy Flash",
+                "album": "Classics"
+            },
+            {
+                "artist": "Jark Prongo",
+                "name": "Movin' Thru Your System - Dave Clarke Remix",
+                "album": "Movin' Thru Your System"
+            }
+        ]
+    }
+]

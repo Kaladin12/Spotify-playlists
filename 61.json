@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Downstep",
+        "songs": [
+            {
+                "artist": "Felix Laband",
+                "name": "Black Shoes",
+                "album": "Dark Days Exit"
+            },
+            {
+                "artist": "Forest Swords",
+                "name": "Hjurt",
+                "album": "Dagger Paths (Remastered and Extended Version)"
+            },
+            {
+                "artist": "Amon Tobin",
+                "name": "Goto 10",
+                "album": "ISAM"
+            },
+            {
+                "artist": "Igorrr",
+                "name": "Barbecue",
+                "album": "Maigre - EP"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Home Recording",
+                "album": "Cold Spring Fault Less Youth"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Made To Stray",
+                "album": "Cold Spring Fault Less Youth"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Sullen Ground",
+                "album": "Cold Spring Fault Less Youth"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Would Know",
+                "album": "Crooks & Lovers"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Adriatic",
+                "album": "Crooks & Lovers"
+            },
+            {
+                "artist": "Burial",
+                "name": "Untrue",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Skream",
+                "name": "Exothermic Reaction",
+                "album": "Exothermic Reaction"
+            },
+            {
+                "artist": "Skream",
+                "name": "Rutten",
+                "album": "Skream!"
+            },
+            {
+                "artist": "Benjha",
+                "name": "Gravity",
+                "album": "Trust"
+            },
+            {
+                "artist": "Burial",
+                "name": "Prayer",
+                "album": "Burial"
+            },
+            {
+                "artist": "LV",
+                "name": "Work",
+                "album": "Sebenza"
+            },
+            {
+                "artist": "LV",
+                "name": "Zulu Compurar",
+                "album": "Sebenza (Bonus Track Version)"
+            },
+            {
+                "artist": "LV",
+                "name": "Nothing Like Us",
+                "album": "Sebenza (Bonus Track Version)"
+            },
+            {
+                "artist": "LV",
+                "name": "Safe and Sound",
+                "album": "Sebenza"
+            },
+            {
+                "artist": "LV",
+                "name": "Uthando Lwaka",
+                "album": "Sebenza"
+            },
+            {
+                "artist": "Sepalcure",
+                "name": "Pencil Pimp",
+                "album": "Sepalcure"
+            },
+            {
+                "artist": "Stubborn Heart",
+                "name": "Two Times a Maybe",
+                "album": "Stubborn Heart"
+            },
+            {
+                "artist": "Stubborn Heart",
+                "name": "Blow",
+                "album": "Stubborn Heart"
+            },
+            {
+                "artist": "Jackson And His Computer Band",
+                "name": "Dead Living Things",
+                "album": "Glow"
+            },
+            {
+                "artist": "Yakamoto Kotzuga",
+                "name": "About Me",
+                "album": "Lost Keys & Stolen Kisses"
+            },
+            {
+                "artist": "Dntel",
+                "name": "Anywhere Anyone - Remastered",
+                "album": "Life Is Full of Possibilities (Deluxe Edition)"
+            },
+            {
+                "artist": "Burial",
+                "name": "Stolen Dog",
+                "album": "Street Halo"
+            },
+            {
+                "artist": "Burial",
+                "name": "Gutted",
+                "album": "Burial"
+            },
+            {
+                "artist": "Kimyan Law",
+                "name": "Run Ames",
+                "album": "Coeur Calme"
+            },
+            {
+                "artist": "Jafu",
+                "name": "No More",
+                "album": "No More"
+            },
+            {
+                "artist": "Jam City",
+                "name": "Crisis",
+                "album": "Dream A Garden"
+            },
+            {
+                "artist": "Jam City",
+                "name": "Black Friday",
+                "album": "Dream A Garden"
+            },
+            {
+                "artist": "Haraket",
+                "name": "Taint - King Krule & Jamie Isaac Remix",
+                "album": "Taint & Attgo"
+            },
+            {
+                "artist": "SBTRKT",
+                "name": "Heatwave",
+                "album": "SBTRKT"
+            },
+            {
+                "artist": "SBTRKT",
+                "name": "Ready Set Loop",
+                "album": "SBTRKT"
+            },
+            {
+                "artist": "Balam Acab",
+                "name": "Spent Lives",
+                "album": "Child Death"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Before I Move Off",
+                "album": "Crooks & Lovers"
+            },
+            {
+                "artist": "Sekuoia",
+                "name": "Broke",
+                "album": "Reset Heart - EP"
+            },
+            {
+                "artist": "Lapalux",
+                "name": "Without You",
+                "album": "Nostalchic"
+            },
+            {
+                "artist": "Zomby",
+                "name": "As Darkness Falls",
+                "album": "With Love"
+            },
+            {
+                "artist": "Holy Other",
+                "name": "Love Some1",
+                "album": "Held"
+            },
+            {
+                "artist": "Holy Other",
+                "name": "U Now",
+                "album": "Held"
+            },
+            {
+                "artist": "Sekuoia",
+                "name": "Can't Be Loved - Remastered Version",
+                "album": "Trips (Remastered Version)"
+            },
+            {
+                "artist": "WIFE",
+                "name": "Bodies",
+                "album": "Stoic EP"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Silver Lining",
+                "album": "No Better Time Than Now"
+            },
+            {
+                "artist": "Turtle",
+                "name": "The Opposite of Low",
+                "album": "Who Knows EP"
+            },
+            {
+                "artist": "Downliners Sekt",
+                "name": "Soul débris",
+                "album": "Silent Ascent"
+            },
+            {
+                "artist": "Cloud Boat",
+                "name": "Lions On the Beach",
+                "album": "Book of Hours"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "At Least",
+                "album": "Sketch on Glass"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Sketch on Glass",
+                "album": "Sketch on Glass"
+            },
+            {
+                "artist": "Pixelord",
+                "name": "Kiwi Dream",
+                "album": "Puzzles"
+            },
+            {
+                "artist": "Diplo",
+                "name": "Works",
+                "album": "Florida"
+            },
+            {
+                "artist": "James Blake",
+                "name": "Fall Creek Boys Choir",
+                "album": "James Blake"
+            },
+            {
+                "artist": "James Blake",
+                "name": "You Know Your Youth",
+                "album": "James Blake"
+            },
+            {
+                "artist": "James Blake",
+                "name": "Limit To Your Love",
+                "album": "James Blake"
+            },
+            {
+                "artist": "Anchorsong",
+                "name": "Before The Apple Falls",
+                "album": "Chapters"
+            },
+            {
+                "artist": "Samaris",
+                "name": "Góða tungl",
+                "album": "Samaris"
+            },
+            {
+                "artist": "Scuba",
+                "name": "Minerals",
+                "album": "Triangulation"
+            },
+            {
+                "artist": "Scuba",
+                "name": "Three Sided Shape",
+                "album": "Triangulation"
+            },
+            {
+                "artist": "Deadboy",
+                "name": "YYVH",
+                "album": "Return - EP"
+            },
+            {
+                "artist": "Deadboy",
+                "name": "Sad Sniper",
+                "album": "White Magick - EP"
+            },
+            {
+                "artist": "Gil Scott-Heron",
+                "name": "Running",
+                "album": "We're New Here"
+            },
+            {
+                "artist": "Gil Scott-Heron",
+                "name": "Ur Soul and Mine",
+                "album": "We're New Here"
+            },
+            {
+                "artist": "Gil Scott-Heron",
+                "name": "NY Is Killing Me",
+                "album": "We're New Here"
+            },
+            {
+                "artist": "Ultraísta",
+                "name": "Smalltalk - Four Tet Remix",
+                "album": "Ultraísta Remixes"
+            },
+            {
+                "artist": "Hiatus",
+                "name": "Returning",
+                "album": "Parklands"
+            },
+            {
+                "artist": "Forest Swords",
+                "name": "The Weight Of Gold",
+                "album": "Engravings"
+            },
+            {
+                "artist": "Forest Swords",
+                "name": "Thor's Stone",
+                "album": "Engravings"
+            },
+            {
+                "artist": "The Range",
+                "name": "Regular",
+                "album": "Potential"
+            },
+            {
+                "artist": "Ital Tek",
+                "name": "Aquamarine",
+                "album": "Hollowed"
+            },
+            {
+                "artist": "Commodo",
+                "name": "Pea Souper",
+                "album": "How What Time"
+            },
+            {
+                "artist": "Logan Takahashi",
+                "name": "Rekr",
+                "album": "Rekr"
+            },
+            {
+                "artist": "Jamie Isaac",
+                "name": "Find the Words - JI Edit",
+                "album": "Loose Grip Mixtape"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "Kontenjaz",
+                "album": "Damogen Furies"
+            },
+            {
+                "artist": "Gold Panda",
+                "name": "You",
+                "album": "Lucky Shiner"
+            },
+            {
+                "artist": "Gold Panda",
+                "name": "Quitter’s Raga",
+                "album": "Companion"
+            },
+            {
+                "artist": "Funckarma",
+                "name": "Kiel",
+                "album": "Part 4 EP"
+            },
+            {
+                "artist": "Lil Silva",
+                "name": "First Mark",
+                "album": "Mabel EP"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Cuckoo",
+                "album": "Broken Soul Jamboree"
+            },
+            {
+                "artist": "Vessel",
+                "name": "Drowned in Water and Light",
+                "album": "Punish, Honey"
+            },
+            {
+                "artist": "Vessel",
+                "name": "Anima",
+                "album": "Punish, Honey"
+            },
+            {
+                "artist": "Shlohmo",
+                "name": "Rained the Whole Time",
+                "album": "Vacation - Single"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Brocken Spectre",
+                "album": "Broken Soul Jamboree"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Reality Harshness Defender",
+                "album": "Broken Soul Jamboree"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Table Flipping",
+                "album": "Forward Escape"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Gulch",
+                "album": "Forward Escape"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Life Raft for a Death Trip",
+                "album": "Forward Escape"
+            },
+            {
+                "artist": "Tipper",
+                "name": "Rip Cord",
+                "album": "Forward Escape"
+            },
+            {
+                "artist": "Gang Colours",
+                "name": "Heavy Petting",
+                "album": "The Keychain Collection"
+            },
+            {
+                "artist": "Gang Colours",
+                "name": "Forgive Me?",
+                "album": "The Keychain Collection"
+            },
+            {
+                "artist": "Gang Colours",
+                "name": "Tissues & Fivers",
+                "album": "The Keychain Collection"
+            },
+            {
+                "artist": "Downliners Sekt",
+                "name": "Silent Ascent",
+                "album": "Silent Ascent"
+            },
+            {
+                "artist": "We Will Fail",
+                "name": "Third",
+                "album": "Hand That Heals / Hand That Bites"
+            },
+            {
+                "artist": "Silk Road Assassins",
+                "name": "Shaded",
+                "album": "Reflection Spaces"
+            },
+            {
+                "artist": "Dino Sabatini",
+                "name": "The Unexpected",
+                "album": "Omonimo"
+            },
+            {
+                "artist": "DJ Signify",
+                "name": "Vanessa",
+                "album": "Of Cities"
+            },
+            {
+                "artist": "Burial",
+                "name": "Crackle Blues - Burial Remix",
+                "album": "Lata / Crackle Blues (Original + Burial remix)"
+            },
+            {
+                "artist": "Blackdown",
+                "name": "Crackle Blues",
+                "album": "Lata / Crackle Blues (Original + Burial remix)"
+            },
+            {
+                "artist": "Burial",
+                "name": "Come Down to Us",
+                "album": "Rival Dealer"
+            },
+            {
+                "artist": "BABYTEETH",
+                "name": "Swim High",
+                "album": "Faded"
+            },
+            {
+                "artist": "Andy Stott",
+                "name": "Valentine - Andy Stott Remix",
+                "album": "Valentine (Andy Stott Remix)"
+            }
+        ]
+    }
+]

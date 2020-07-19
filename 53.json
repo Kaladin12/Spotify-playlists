@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Atmospheric Rave",
+        "songs": [
+            {
+                "artist": "Oxia",
+                "name": "Domino",
+                "album": "Electro Addict (Vintage Edition)"
+            },
+            {
+                "artist": "Odd Parents",
+                "name": "Learn To Fly - Maceo's Flight Home Mix",
+                "album": "Teach The Wind"
+            },
+            {
+                "artist": "Recondite",
+                "name": "Levo",
+                "album": "Iffy"
+            },
+            {
+                "artist": "Durante",
+                "name": "Split Wick",
+                "album": "Unraveled"
+            },
+            {
+                "artist": "Pjotr G",
+                "name": "Cirle In A World Of Squares",
+                "album": "Meridian EP"
+            },
+            {
+                "artist": "Herbert",
+                "name": "It's Only - DJ Koze Remix",
+                "album": "My Orphaned Son / It's Only"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Nices Wölkchen",
+                "album": "Amygdala"
+            },
+            {
+                "artist": "Moderat",
+                "name": "Running - Shed Remix",
+                "album": "Running (Shed Remix)"
+            },
+            {
+                "artist": "Maceo Plex",
+                "name": "Conjure Dreams",
+                "album": "Conjure Infinity"
+            },
+            {
+                "artist": "Sam Paganini",
+                "name": "Rave",
+                "album": "Satellite"
+            },
+            {
+                "artist": "ANNA",
+                "name": "The Dansant",
+                "album": "Speicher 101"
+            },
+            {
+                "artist": "deadmau5",
+                "name": "Faxing Berlin",
+                "album": "At Play"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Singularity",
+                "album": "Powers of Ten"
+            },
+            {
+                "artist": "Maceo Plex",
+                "name": "Mutant Radio - Original Mix",
+                "album": "Mutant 2"
+            },
+            {
+                "artist": "Caribou",
+                "name": "Can't Do Without You - Tale of Us & Mano Le Tough Remix",
+                "album": "Our Love (Expanded Edition)"
+            },
+            {
+                "artist": "DeVante",
+                "name": "Estranged",
+                "album": "Estranged"
+            },
+            {
+                "artist": "Solee",
+                "name": "Phoenix - Unique Repeat Remix",
+                "album": "Phoenix (Remixes)"
+            },
+            {
+                "artist": "Röyksopp",
+                "name": "Sordid Affair - Maceo Plex Remix",
+                "album": "Sordid Affair Remixes"
+            },
+            {
+                "artist": "Oliver Schories",
+                "name": "One More Dance, Jules",
+                "album": "Herzensangelegenheit"
+            },
+            {
+                "artist": "Howling",
+                "name": "Howling - Âme Remix",
+                "album": "Howling (Âme Remix)"
+            },
+            {
+                "artist": "Session Victim",
+                "name": "Hyuwee (Kosi Remix) - mixed",
+                "album": "DJ-Kicks (DJ Koze) [Mixed Tracks]"
+            },
+            {
+                "artist": "Tom Trago",
+                "name": "Hidden Heart of Gold - Original Mix",
+                "album": "Hidden Heart of Gold"
+            },
+            {
+                "artist": "Robag Wruhme",
+                "name": "Veddel Baav",
+                "album": "Wuzzelbud FF"
+            },
+            {
+                "artist": "Recondite",
+                "name": "Warg",
+                "album": "Update"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Track ID Anyone?",
+                "album": "Amygdala"
+            },
+            {
+                "artist": "Marek Hemmann",
+                "name": "Zunder",
+                "album": "Bittersweet"
+            },
+            {
+                "artist": "Very Addictive",
+                "name": "Spiral",
+                "album": "Spiral"
+            },
+            {
+                "artist": "NTO",
+                "name": "Trauma - Worakls Remix",
+                "album": "Hungry 5 (The Best of 5 Years)"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Durch die Haare die Stirn",
+                "album": "Dahinter das Gesicht"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Burn with Me (Victoria Edit)",
+                "album": "Music for the Motion Picture Victoria (Bonus Track Version)"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Collider",
+                "album": "Immunity"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Open Eye Signal",
+                "album": "Immunity"
+            },
+            {
+                "artist": "Marcel Dettmann",
+                "name": "Phantom Studies",
+                "album": "Phantom Studies"
+            },
+            {
+                "artist": "Pachanga Boys",
+                "name": "Time",
+                "album": "Girlcatcher"
+            },
+            {
+                "artist": "DAVID AUGUST",
+                "name": "Epikur - Original",
+                "album": "Epikur EP"
+            },
+            {
+                "artist": "Recondite",
+                "name": "Phalanx",
+                "album": "Update"
+            },
+            {
+                "artist": "The Field",
+                "name": "The More I Do - Thomas Fehlmann Mix",
+                "album": "Total 10"
+            },
+            {
+                "artist": "Mano Le Tough",
+                "name": "Half Closed Eyes",
+                "album": "Trails"
+            },
+            {
+                "artist": "Popof",
+                "name": "Confusion - Original",
+                "album": "Confusion EP"
+            },
+            {
+                "artist": "Röyksopp",
+                "name": "Sordid Affair - Watermat Remix",
+                "album": "Sordid Affair Remixes"
+            },
+            {
+                "artist": "DUST",
+                "name": "C U in Hell",
+                "album": "C U in Hell"
+            },
+            {
+                "artist": "Guy J",
+                "name": "Nirvana",
+                "album": "The Trees, the Sea & the Sun"
+            },
+            {
+                "artist": "Gallago",
+                "name": "Lifeboat",
+                "album": "Lifeboat"
+            },
+            {
+                "artist": "Autotune",
+                "name": "Stripes & Strings",
+                "album": "Blade Runner"
+            },
+            {
+                "artist": "Baltra",
+                "name": "Fade Away (Vocal)",
+                "album": "Knowes Universal Broadcast (Seg. 1)"
+            },
+            {
+                "artist": "Joyhauser",
+                "name": "Galaxy Phase - Original Mix",
+                "album": "Pleasurekraft presents: Monolith Series Volume 2"
+            },
+            {
+                "artist": "Agents Of Time",
+                "name": "Polina",
+                "album": "Polina"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Part Eight",
+                "album": "Part Eight"
+            },
+            {
+                "artist": "Tale Of Us",
+                "name": "Nova",
+                "album": "Realm Of Consciousness Pt. III"
+            },
+            {
+                "artist": "Pisetzky",
+                "name": "Off The Map - Locked Groove Remix",
+                "album": "Off The Map"
+            },
+            {
+                "artist": "Elpine",
+                "name": "Terrasect - Original Mix",
+                "album": "Veil"
+            },
+            {
+                "artist": "Amotik",
+                "name": "Barah",
+                "album": "Amotik 004"
+            },
+            {
+                "artist": "KAS:ST",
+                "name": "What I Like About You Is What I Imagine",
+                "album": "Various Artists"
+            },
+            {
+                "artist": "nthng",
+                "name": "It Never Ends",
+                "album": "It Never Ends"
+            },
+            {
+                "artist": "Jimi Jules",
+                "name": "Abandoned Soul - Recondite Remix",
+                "album": "Midnight Juggernaut EP"
+            },
+            {
+                "artist": "Oliver Huntemann",
+                "name": "Doppelgänger - Marco Resmann Remix",
+                "album": "Propaganda Remixes, Pt. 2"
+            },
+            {
+                "artist": "Aleksandir",
+                "name": "Yamaha",
+                "album": "Yamaha"
+            },
+            {
+                "artist": "Ben Böhmer",
+                "name": "After Earth",
+                "album": "Morning Falls EP"
+            },
+            {
+                "artist": "M.A.N.D.Y.",
+                "name": "Hi End - Rework",
+                "album": "Hi End"
+            },
+            {
+                "artist": "Mind Against",
+                "name": "Avalon",
+                "album": "Avalon"
+            },
+            {
+                "artist": "Recondite",
+                "name": "Pour",
+                "album": "Silk"
+            },
+            {
+                "artist": "Hundreds",
+                "name": "Aftermath - Robags Berchem Duff NB",
+                "album": "Aftermath Remixes"
+            },
+            {
+                "artist": "Silque",
+                "name": "Fête",
+                "album": "Fête"
+            },
+            {
+                "artist": "ELAX",
+                "name": "Reaktor",
+                "album": "Four To The Floor 12"
+            },
+            {
+                "artist": "Shlømo",
+                "name": "Burned Hand - Emmanuel Remix",
+                "album": "The Rapture"
+            },
+            {
+                "artist": "HVOB",
+                "name": "Panama",
+                "album": "Rocco"
+            },
+            {
+                "artist": "Foreign Material",
+                "name": "Theia",
+                "album": "Theophaneia"
+            },
+            {
+                "artist": "Dominik Eulberg",
+                "name": "H2O (Hot Chip Remix (Vocal Edit))",
+                "album": "Diorama Remixes pt 2"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Wir",
+                "album": "Powers of Ten"
+            },
+            {
+                "artist": "All Living Things",
+                "name": "Rave Culture",
+                "album": "Spirits / Rave Culture"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "HAL",
+                "album": "HAL, Still So High, First Blood"
+            },
+            {
+                "artist": "Dominik Eulberg",
+                "name": "Dream Machine",
+                "album": "Dream Machine"
+            },
+            {
+                "artist": "COMPUTER DATA",
+                "name": "Alles",
+                "album": "Alles"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Emerald Rush - Solomun Remix (Edit)",
+                "album": "Emerald Rush (Solomun Remix)"
+            },
+            {
+                "artist": "COMPUTER DATA",
+                "name": "Healing",
+                "album": "Emotional Shift"
+            },
+            {
+                "artist": "Benjamin Taylor",
+                "name": "Uncorked",
+                "album": "Kclab"
+            },
+            {
+                "artist": "ANNA",
+                "name": "Hidden Beauties",
+                "album": "Speicher 101"
+            },
+            {
+                "artist": "Ten Walls",
+                "name": "Sparta - Original Mix",
+                "album": "Sparta"
+            },
+            {
+                "artist": "Kris Davis",
+                "name": "Petroleum",
+                "album": "Livingroom Techno 6"
+            },
+            {
+                "artist": "Schacke",
+                "name": "Automated Lover",
+                "album": "Kulør 001"
+            },
+            {
+                "artist": "Autotune",
+                "name": "Blade Runner",
+                "album": "Blade Runner"
+            },
+            {
+                "artist": "Patrice Bäumel",
+                "name": "Surge",
+                "album": "Speicher 89"
+            },
+            {
+                "artist": "The Soft Moon",
+                "name": "Desertion - Phase Fatale Remix",
+                "album": "Deeper Remixed"
+            },
+            {
+                "artist": "Benjamin Taylor",
+                "name": "Gate",
+                "album": "Kclab"
+            },
+            {
+                "artist": "Very Addictive",
+                "name": "In the Dark",
+                "album": "In The Dark"
+            },
+            {
+                "artist": "MRD",
+                "name": "Stamtjønna",
+                "album": "Sublimation"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "U",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "Maceo Plex",
+                "name": "Solitary Daze",
+                "album": "Solitary Daze"
+            },
+            {
+                "artist": "Eli Brown",
+                "name": "Come Together - Extended Mix",
+                "album": "Come Together"
+            },
+            {
+                "artist": "Maxim Lany",
+                "name": "People Of The Night",
+                "album": "People Of The Night"
+            },
+            {
+                "artist": "Thylacine",
+                "name": "Moskva",
+                "album": "Transsiberian"
+            },
+            {
+                "artist": "CJ Bolland",
+                "name": "Camargue 2019 - Enrico Sangiuliano Remix",
+                "album": "Camargue 2019"
+            },
+            {
+                "artist": "Regal",
+                "name": "Fenix - Amelie Lens Remix",
+                "album": "Involve 020"
+            },
+            {
+                "artist": "ANNA",
+                "name": "Artha",
+                "album": "Artha"
+            },
+            {
+                "artist": "Adam Beyer",
+                "name": "Your Mind",
+                "album": "Your Mind"
+            },
+            {
+                "artist": "Mathame",
+                "name": "Skywalking",
+                "album": "Skywalking"
+            },
+            {
+                "artist": "Slam",
+                "name": "Vapour",
+                "album": "Soma Track Series Vol. 5"
+            },
+            {
+                "artist": "Kink",
+                "name": "Perth",
+                "album": "Playground"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Kerberos Revisited - Solomun & Johannes Brecht Remix",
+                "album": "Kerberos (Remixes)"
+            },
+            {
+                "artist": "Spektre",
+                "name": "Thinking About You ft Juliet Fox - Original Mix",
+                "album": "Thinking About You"
+            }
+        ]
+    }
+]

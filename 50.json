@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Sound Design",
+        "songs": [
+            {
+                "artist": "Radiohead",
+                "name": "Everything In Its Right Place",
+                "album": "Kid A"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Evening Side - Oneohtrix Point Never Edit",
+                "album": "Evening Side (Oneohtrix Point Never Edit)"
+            },
+            {
+                "artist": "Jai Paul",
+                "name": "BTSTU - Edit",
+                "album": "BTSTU (Edit)"
+            },
+            {
+                "artist": "Tame Impala",
+                "name": "Alter Ego",
+                "album": "InnerSpeaker"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Weird Fishes/ Arpeggi",
+                "album": "In Rainbows"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Artificial Death In The West",
+                "album": "No Love Deep Web"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Neon Pattern Drum",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Nicolas Jaar",
+                "name": "Space Is Only Noise If You Can See",
+                "album": "Space Is Only Noise"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Blue Train Lines",
+                "album": "Blue Train Lines"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Runway J",
+                "album": "Fashion Week"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Xtal",
+                "album": "Selected Ambient Works 85-92"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Circle",
+                "album": "Contact Note"
+            },
+            {
+                "artist": "Tame Impala",
+                "name": "Be Above It",
+                "album": "Lonerism"
+            },
+            {
+                "artist": "Mssingno",
+                "name": "Xe2",
+                "album": "MssingNo EP"
+            },
+            {
+                "artist": "Jamie xx",
+                "name": "Sleep Sound",
+                "album": "Girl/Sleep Sound"
+            },
+            {
+                "artist": "Jamie xx",
+                "name": "Gosh",
+                "album": "In Colour"
+            },
+            {
+                "artist": "Mac DeMarco",
+                "name": "Moonlight on the River",
+                "album": "This Old Dog"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ghost Hardware",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Moderat",
+                "name": "The Mark - Interlude",
+                "album": "II"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Polynomial-C",
+                "album": "Xylem Tube EP"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Present Tense",
+                "album": "A Moon Shaped Pool"
+            },
+            {
+                "artist": "Gorillaz",
+                "name": "Empire Ants (feat. Little Dragon)",
+                "album": "Plastic Beach"
+            },
+            {
+                "artist": "Sasha",
+                "name": "Linepulse",
+                "album": "Late Night Tales presents Sasha: Scene Delete"
+            },
+            {
+                "artist": "Melody's Echo Chamber",
+                "name": "I Follow You",
+                "album": "Melody's Echo Chamber"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Open Eye Signal",
+                "album": "Immunity"
+            },
+            {
+                "artist": "James Blake",
+                "name": "Retrograde",
+                "album": "Overgrown"
+            },
+            {
+                "artist": "Tame Impala",
+                "name": "Why Won't They Talk To Me?",
+                "album": "Lonerism"
+            },
+            {
+                "artist": "Rustie",
+                "name": "Peace Upzzz",
+                "album": "EVENIFUDONTBELIEVE"
+            },
+            {
+                "artist": "Tame Impala",
+                "name": "Alter Ego",
+                "album": "InnerSpeaker (Collector's Edition)"
+            },
+            {
+                "artist": "Oneohtrix Point Never",
+                "name": "Boring Angel",
+                "album": "R Plus Seven"
+            },
+            {
+                "artist": "Massive Attack",
+                "name": "Paradise Circus",
+                "album": "Heligoland"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "House Of Cards",
+                "album": "In Rainbows"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Hot Head",
+                "album": "Bottomless Pit"
+            },
+            {
+                "artist": "Crystal Castles",
+                "name": "Plague",
+                "album": "(III)"
+            },
+            {
+                "artist": "Greg Haines",
+                "name": "So It Goes",
+                "album": "Where We Were"
+            },
+            {
+                "artist": "The xx",
+                "name": "Fantasy",
+                "album": "xx"
+            },
+            {
+                "artist": "Tom Middleton",
+                "name": "Sea Of Glass - Jon Hopkins Remix",
+                "album": "Café del Mar, Vol. 20"
+            },
+            {
+                "artist": "Autechre",
+                "name": "VLetrmx",
+                "album": "Garbage"
+            },
+            {
+                "artist": "Arca",
+                "name": "Saunter",
+                "album": "Arca"
+            },
+            {
+                "artist": "Herbert",
+                "name": "It's Only - DJ Koze Remix",
+                "album": "My Orphaned Son / It's Only"
+            },
+            {
+                "artist": "RÜFÜS DU SOL",
+                "name": "Innerbloom",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Pyramid Song",
+                "album": "Amnesiac"
+            },
+            {
+                "artist": "Pink Floyd",
+                "name": "Shine On You Crazy Diamond, Pts. 1-5 - 2011 Remastered Version",
+                "album": "Wish You Were Here (2011 Remastered Version)"
+            },
+            {
+                "artist": "Death Grips",
+                "name": "Guillotine",
+                "album": "Guillotine - Single"
+            },
+            {
+                "artist": "JJ DOOM",
+                "name": "Bookfiend (feat. Clams Casino) - Clams Casino Version",
+                "album": "Bookhead EP"
+            },
+            {
+                "artist": "OVERWERK",
+                "name": "Create",
+                "album": "Canon"
+            },
+            {
+                "artist": "The Chemical Brothers",
+                "name": "Another World",
+                "album": "Further"
+            },
+            {
+                "artist": "Pink Floyd",
+                "name": "Breathe (In The Air) - 2011 Remastered Version",
+                "album": "The Dark Side Of The Moon (2011 Remastered Version)"
+            },
+            {
+                "artist": "Chrome Sparks",
+                "name": "Goddess",
+                "album": "Goddess"
+            },
+            {
+                "artist": "Lorn",
+                "name": "Acid Rain",
+                "album": "The Maze to Nowhere"
+            },
+            {
+                "artist": "Younger Brother",
+                "name": "Train",
+                "album": "Vaccine"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Marilyn",
+                "album": "Love What Survives"
+            },
+            {
+                "artist": "Eprom",
+                "name": "Drone Warfare",
+                "album": "Drone Warfare"
+            },
+            {
+                "artist": "Daft Punk",
+                "name": "Solar Sailer",
+                "album": "TRON: Legacy"
+            },
+            {
+                "artist": "Teebs",
+                "name": "Why Like This?",
+                "album": "Ardour"
+            },
+            {
+                "artist": "Teebs",
+                "name": "SOTM",
+                "album": "E s t a r a"
+            },
+            {
+                "artist": "AZEL PHARA",
+                "name": "Tump",
+                "album": "Pump"
+            },
+            {
+                "artist": "Gil Scott-Heron",
+                "name": "NY Is Killing Me",
+                "album": "We're New Here"
+            },
+            {
+                "artist": "Lapalux",
+                "name": "Don't Mean A Thing",
+                "album": "Lustmore"
+            },
+            {
+                "artist": "Clams Casino",
+                "name": "Into the Fire - Instrumental",
+                "album": "32 Levels (Deluxe)"
+            },
+            {
+                "artist": "The Field",
+                "name": "Everybody´s Got To Learn Sometime",
+                "album": "Yesterday and Today"
+            },
+            {
+                "artist": "Blockhead",
+                "name": "The Music Scene",
+                "album": "The Music Scene"
+            },
+            {
+                "artist": "xxyyxx",
+                "name": "About You",
+                "album": "Xxyyxx"
+            },
+            {
+                "artist": "Beck",
+                "name": "Broken Drum - Remixed By Boards Of Canada",
+                "album": "Guerolito"
+            },
+            {
+                "artist": "Flume",
+                "name": "Hyperreal",
+                "album": "Hyperreal"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Everything Connected - Edit",
+                "album": "Everything Connected"
+            },
+            {
+                "artist": "Mica Levi",
+                "name": "Vanity",
+                "album": "Jackie (Original Motion Picture Soundtrack)"
+            },
+            {
+                "artist": "The Voidz",
+                "name": "Leave It In My Dreams",
+                "album": "Virtue"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Space Song",
+                "album": "Depression Cherry"
+            },
+            {
+                "artist": "Tame Impala",
+                "name": "Eventually",
+                "album": "Currents"
+            },
+            {
+                "artist": "Beach House",
+                "name": "PPP",
+                "album": "Depression Cherry"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Nude",
+                "album": "In Rainbows"
+            },
+            {
+                "artist": "Mssingno",
+                "name": "124th",
+                "album": "MssingNo EP"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Luminous Beings",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Popof",
+                "name": "Confusion - Original",
+                "album": "Confusion EP"
+            },
+            {
+                "artist": "Clams Casino",
+                "name": "Gorilla",
+                "album": "Rainforest"
+            },
+            {
+                "artist": "Shpongle",
+                "name": "Divine Moments of Truth - 2017 Remaster",
+                "album": "Are You Shpongled? (2017 Remaster)"
+            },
+            {
+                "artist": "Mr. Fingers",
+                "name": "Mystery Of Love",
+                "album": "Amnesia"
+            },
+            {
+                "artist": "Tame Impala",
+                "name": "It Is Not Meant To Be",
+                "album": "InnerSpeaker"
+            },
+            {
+                "artist": "alt-J",
+                "name": "3WW",
+                "album": "3WW"
+            },
+            {
+                "artist": "Gud",
+                "name": "Forever 2001",
+                "album": "Beautiful, Wonderful"
+            },
+            {
+                "artist": "Petit Prince",
+                "name": "Demi tour",
+                "album": "Deux mille dix"
+            },
+            {
+                "artist": "Teebs",
+                "name": "The Endless",
+                "album": "E s t a r a"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Bike",
+                "album": "Incunabula"
+            },
+            {
+                "artist": "Bonzai",
+                "name": "Bodhrán",
+                "album": "Lunacy - EP"
+            },
+            {
+                "artist": "James Dashow",
+                "name": "Oedipus Orca - Theme From \"Oedipus Orca\"",
+                "album": "Oedipus Orca / Una spirale di nebbia (Original Motion Picture Soundracks From \"Oedipus Orca\" and \"Una spirale di nebbia\")"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Lion - Jamie XX Remix",
+                "album": "Pink Remixes"
+            },
+            {
+                "artist": "Nathan Fake",
+                "name": "The Sky Was Pink - Holden Remix",
+                "album": "The Sky Was Pink"
+            },
+            {
+                "artist": "Modeselektor",
+                "name": "Shipwreck",
+                "album": "Monkeytown"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Nein König Nein",
+                "album": "Seeing Aliens"
+            },
+            {
+                "artist": "Floating Points",
+                "name": "King Bromeliad",
+                "album": "King Bromeliad / Montparnasse"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Einn",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Agoria",
+                "name": "Panta Rei (Jon Hopkins remix)",
+                "album": "Panta Rei (remixes) - EP"
+            },
+            {
+                "artist": "James Blake",
+                "name": "I'll Come Too",
+                "album": "Assume Form"
+            },
+            {
+                "artist": "Point Point",
+                "name": "Life in Grey",
+                "album": "Contrastive Focus Reduplication"
+            },
+            {
+                "artist": "Flume",
+                "name": "Ecdysis",
+                "album": "Hi This Is Flume (Mixtape)"
+            },
+            {
+                "artist": "Flume",
+                "name": "Wormhole",
+                "album": "Hi This Is Flume (Mixtape)"
+            },
+            {
+                "artist": "Jai Paul",
+                "name": "Desert River - Unfinished",
+                "album": "Leak 04-13 (Bait Ones)"
+            },
+            {
+                "artist": "RefraQ",
+                "name": "RUK",
+                "album": "RUK"
+            },
+            {
+                "artist": "Eprom",
+                "name": "Hurricane",
+                "album": "Halflife"
+            }
+        ]
+    }
+]

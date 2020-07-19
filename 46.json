@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Parts of Techno",
+        "songs": [
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Sky and Sand",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "No Goodbye",
+                "album": "No Goodbye"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Azure",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Dockyard",
+                "album": "Self"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Aaron",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Tom Walker",
+                "name": "To Get Down - Original mix",
+                "album": "To Get Down"
+            },
+            {
+                "artist": "Aparde",
+                "name": "Loom",
+                "album": "Loom"
+            },
+            {
+                "artist": "Kalipo",
+                "name": "Banana Garden",
+                "album": "Wanderer"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "A Forest",
+                "album": "A Forest"
+            },
+            {
+                "artist": "Rampue",
+                "name": "Sonne Park und Sterni",
+                "album": "Sonne Park und Sterni"
+            },
+            {
+                "artist": "Nils Hoffmann",
+                "name": "Balloons - Radio Edit",
+                "album": "Balloons"
+            },
+            {
+                "artist": "Stefano Ritteri",
+                "name": "A Different Happiness",
+                "album": "A Different Happiness"
+            },
+            {
+                "artist": "Youandewan",
+                "name": "1988 - Original Mix",
+                "album": "Luca Ricci Presents: Aenaria Chill Wmc '09 @ Night"
+            },
+            {
+                "artist": "Oliver Schories",
+                "name": "Sunset - Joris Delacroix Remix",
+                "album": "Sunset"
+            },
+            {
+                "artist": "Chus & Ceballos",
+                "name": "The Sun",
+                "album": "The Sun"
+            },
+            {
+                "artist": "Fritz Kalkbrenner",
+                "name": "Facing the Sun",
+                "album": "Here Today Gone Tomorrow"
+            },
+            {
+                "artist": "Time",
+                "name": "Not Alone",
+                "album": "Not Alone"
+            },
+            {
+                "artist": "Jonas Mantey",
+                "name": "Sie ist Schön",
+                "album": "Schneeweiss Presented by Oliver Koletzki"
+            },
+            {
+                "artist": "Lexer",
+                "name": "My Princess",
+                "album": "My Princess"
+            },
+            {
+                "artist": "RÜFÜS DU SOL",
+                "name": "Innerbloom",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Lexer",
+                "name": "Cologne Nights",
+                "album": "Against the Current"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "HAL",
+                "album": "HAL, Still So High, First Blood"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "1983",
+                "album": "1983"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Battery Park",
+                "album": "7"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Papercut Pilot",
+                "album": "7"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Cylence 412",
+                "album": "7"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Böxig leise",
+                "album": "Icke wieder"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Train",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Feed Your Head - Radio Edit",
+                "album": "Feed Your Head (Radio Edit)"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Cloud Rider",
+                "album": "7"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Plätscher",
+                "album": "Plätscher"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Square 1",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Kleines Bubu - Simina Grigoriu's Mrs Kalkbrenner Remix",
+                "album": "X"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Bappedekkel",
+                "album": "1977"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Grau",
+                "album": "1989"
+            },
+            {
+                "artist": "Analog Sol",
+                "name": "Trinidad Dreams",
+                "album": "Trinidad Dreams"
+            },
+            {
+                "artist": "Landside",
+                "name": "Still There",
+                "album": "Landside, Pt. 1"
+            },
+            {
+                "artist": "Jesper Ryom",
+                "name": "Apolune",
+                "album": "Aviator EP"
+            },
+            {
+                "artist": "Monika Kruse",
+                "name": "Highway No. 4 - Skober Remix",
+                "album": "Passengers 2016"
+            },
+            {
+                "artist": "&ME",
+                "name": "Trilogy",
+                "album": "Trilogy"
+            },
+            {
+                "artist": "&ME",
+                "name": "Woods",
+                "album": "Trilogy"
+            },
+            {
+                "artist": "Egbert",
+                "name": "Elektriciteit - Original Mix",
+                "album": "Wild EP"
+            },
+            {
+                "artist": "Dirk Sid Eno",
+                "name": "Morgens In Odonien",
+                "album": "Morgens In Odonien"
+            },
+            {
+                "artist": "Jesper Ryom",
+                "name": "Aviator",
+                "album": "Aviator EP"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Jestrüpp",
+                "album": "Icke wieder"
+            },
+            {
+                "artist": "Kalipo",
+                "name": "Crossing Wisła",
+                "album": "Wanderer"
+            },
+            {
+                "artist": "Noir",
+                "name": "Keep Up",
+                "album": "Messiah"
+            },
+            {
+                "artist": "Dominik Eulberg",
+                "name": "Dream Machine",
+                "album": "Dream Machine"
+            },
+            {
+                "artist": "Dominik Eulberg",
+                "name": "Sansula - Max Cooper's \"Lost in Sound\" Mix",
+                "album": "Sensorika"
+            },
+            {
+                "artist": "2raumwohnung",
+                "name": "Wir werden sehen - Paul Kalkbrenner Remix",
+                "album": "Lasso - Remixe"
+            },
+            {
+                "artist": "Bernstein (CH)",
+                "name": "Spirited Away",
+                "album": "Babel"
+            },
+            {
+                "artist": "Red Axes",
+                "name": "Sun My Sweet Sun - Konstantin Sibold Afro Tech Mix",
+                "album": "Sun My Sweet Sun Remix"
+            },
+            {
+                "artist": "Bongbeck",
+                "name": "Winter Sleep - Kalipo Remix",
+                "album": "Winter Sleep (Remixes)"
+            },
+            {
+                "artist": "Butch",
+                "name": "The Spirit feat. Hohberg - Adriatique's 7am Remix",
+                "album": "Songs About Unconsciousness"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Grey",
+                "album": "Speicher 93"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Loreley",
+                "album": "1977"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Goldfisch",
+                "album": "1977"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "The Road feat. Gregor Schwellenbach",
+                "album": "1983"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Opa",
+                "album": "1977"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Felix",
+                "album": "1977"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Two Birds",
+                "album": "1983"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Oma",
+                "album": "1977"
+            },
+            {
+                "artist": "Solomun",
+                "name": "After Rain comes Sun",
+                "album": "Dance Baby"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Aura",
+                "album": "Bicep"
+            },
+            {
+                "artist": "Melokind",
+                "name": "Purple Clouds",
+                "album": "I Cant Stop"
+            },
+            {
+                "artist": "Compuphonic",
+                "name": "Dolce",
+                "album": "My Love"
+            },
+            {
+                "artist": "Julian Wassermann",
+                "name": "Lyra",
+                "album": "Lyra"
+            },
+            {
+                "artist": "Moses Mehdi",
+                "name": "Chorweiler Romance - Dole & Kom Remix",
+                "album": "Them Emotions"
+            },
+            {
+                "artist": "Zimmer",
+                "name": "Moonrise",
+                "album": "Coming of Age"
+            },
+            {
+                "artist": "Ron Flatter",
+                "name": "Apricot",
+                "album": "Legiano"
+            },
+            {
+                "artist": "Niconé",
+                "name": "Caje (Album Edit) - Orginal Version",
+                "album": "Romantic Thrills"
+            },
+            {
+                "artist": "Sascha Braemer",
+                "name": "People - Original Version",
+                "album": "People"
+            },
+            {
+                "artist": "Konstantin Sibold",
+                "name": "Madeleine - Original Mix",
+                "album": "Secret Weapons EP Part 5"
+            },
+            {
+                "artist": "Guy Gerber",
+                "name": "What To Do - &ME Remix",
+                "album": "What To Do (Remixes)"
+            },
+            {
+                "artist": "Kollektiv Ost",
+                "name": "Love",
+                "album": "Show Me Love"
+            },
+            {
+                "artist": "Niconé",
+                "name": "Hands On Transparent",
+                "album": "SSFW #1B"
+            },
+            {
+                "artist": "Nathan Behrens",
+                "name": "Don't Stop Me Now",
+                "album": "Don't Stop Me Now"
+            },
+            {
+                "artist": "Junge & Mädchen",
+                "name": "Bei Meyer's im Garten - Sascha Braemer Remix",
+                "album": "Bei Meyers Im Garten"
+            },
+            {
+                "artist": "Niconé",
+                "name": "Can't Sing",
+                "album": "Can't Can't"
+            },
+            {
+                "artist": "Koelle",
+                "name": "Behind My Thoughts",
+                "album": "Lost Tribe EP"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Tone & Timber",
+                "album": "7"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Channel Isle",
+                "album": "7"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Apollo",
+                "album": "Everyday"
+            },
+            {
+                "artist": "Anthony Rother",
+                "name": "Father - Original",
+                "album": "Popkiller"
+            },
+            {
+                "artist": "Anthony Rother",
+                "name": "Disco Light",
+                "album": "Popkiller 2"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Absynthe",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Gabriel Vitel",
+                "name": "Mind Doodles",
+                "album": "Mind Doodles"
+            },
+            {
+                "artist": "Klangkarussell",
+                "name": "Hey Maria - Elderbrook Remix",
+                "album": "Hey Maria - EP"
+            },
+            {
+                "artist": "Santé",
+                "name": "Homegirl - feat. Lorenzo Hall",
+                "album": "Homegirl (feat. Lorenzo Hall)"
+            },
+            {
+                "artist": "Julian Wassermann",
+                "name": "Monopterus",
+                "album": "Monopterus"
+            },
+            {
+                "artist": "Stereoclip",
+                "name": "Dance Machine - Original Mix",
+                "album": "Dance Machine"
+            },
+            {
+                "artist": "Anthony Rother",
+                "name": "Mother",
+                "album": "Popkiller 2"
+            },
+            {
+                "artist": "Anthony Rother",
+                "name": "Disco Light - Original",
+                "album": "Disco Light"
+            },
+            {
+                "artist": "GHEIST",
+                "name": "Frequent Tendencies",
+                "album": "Frequent Tendencies"
+            },
+            {
+                "artist": "GHEIST",
+                "name": "Ueberall",
+                "album": "Ueberall"
+            },
+            {
+                "artist": "Nils Hoffmann",
+                "name": "Second Sun",
+                "album": "Second Sun"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Run",
+                "album": "U"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Bunny",
+                "album": "Wild"
+            },
+            {
+                "artist": "Sascha Funke",
+                "name": "Mango",
+                "album": "Mango"
+            },
+            {
+                "artist": "Oliver Schories",
+                "name": "One More Dance, Jules",
+                "album": "Herzensangelegenheit"
+            }
+        ]
+    }
+]

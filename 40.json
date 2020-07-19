@@ -1,0 +1,507 @@
+[
+    {
+        "name": "HOUSE",
+        "songs": [
+            {
+                "artist": "Ross from Friends",
+                "name": "Talk to Me You'll Understand",
+                "album": "You'll Understand"
+            },
+            {
+                "artist": "Ross from Friends",
+                "name": "Gettin' It Done",
+                "album": "You'll Understand"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Her Fantasy",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "I Never Dream",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Makabr",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "I Hope I Sleep Tonight",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "Ross from Friends",
+                "name": "Pale Blue Dot",
+                "album": "Family Portrait"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Little People (Black City)",
+                "album": "Black City"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Some Kind of Game",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "AL-90",
+                "name": "000903",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Ross from Friends",
+                "name": "Bootman",
+                "album": "You'll Understand"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Now U Got Me Hooked",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "U Hold Me Without Touch",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Black Sapphire",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Cityfade",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Spurv Edit",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Ross from Friends",
+                "name": "Project Cybersyn",
+                "album": "Family Portrait"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "This Old House Is All I Have",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Serpentarium",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Rave on U",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Change of Stages 13",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Such a Bad Way",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Prokhor Song",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Hopeless",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "LNRDCROY",
+                "name": "If Sylvia Built A House",
+                "album": "Much Less Normal"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "I Saw Her Kiss Him in Front of Me and I Was Like Wtf?",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "Too Late for U and M1",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "Time Spent Away From U",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "It's Just My Luv",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "How U Make Me Feel",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "Come Thru for U",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "DJ Seinfeld",
+                "name": "U",
+                "album": "Time Spent Away From U"
+            },
+            {
+                "artist": "AL-90",
+                "name": "Forefeeling",
+                "album": "Murmansk-60"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "S.O",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Arthur",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Anxi.",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Lucid",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Evolution",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Bird",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Throwing Lines",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "CBM",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "Keep Walking",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Kelly Lee Owens",
+                "name": "8",
+                "album": "Kelly Lee Owens"
+            },
+            {
+                "artist": "Actress",
+                "name": "Hubble",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Lost",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Futureproofing",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Bubble Butts and Equations",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Always Human",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Get Ohn - Fairlight Mix",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Maze",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Purrple Splazsh",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Senorita",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Let's Fly",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Wrong Potion",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Supreme Cunnilingus",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "The Kettle Men",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Actress",
+                "name": "Casanova",
+                "album": "Splazsh"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Your Biggest Fan",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Work It",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "The Psychologist",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Lara",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Day Dreaming",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "The Tunnel",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Workaholic Paranoid Bitch",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "So Right",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Burn Me",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "La chambre intérieure",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Release Your Body",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Air Rider",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Inside River",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Intension",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Saturday And Sunday",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Breaking The Star",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Everlasting",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Scene",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Respect To The Distance",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Awakening - Beatlesstrumental Version",
+                "album": "Special Life"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Color Of Feels",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Natural Source",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Hundred Million Lightyears",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Nobody Could Be Alone",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "We Were Born Here",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Holding A Baby",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Your Brillant Flowers",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "Life Goes On",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Kaito",
+                "name": "The Universe",
+                "album": "A Hundred Million Light Years"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Earthforms",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Headcage",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Fighting Is Futile",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Up & Out",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Overtime",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Get The Rhyme Right",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Ahead of Myself",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Do The Right Thing",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Shake Me",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Temptation",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "She's Just That Way",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Crimewaves",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "In The Middle (I Met You There) [feat. Jonny Pierce]",
+                "album": "Beams (Expanded Edition)"
+            },
+            {
+                "artist": "Matthew Dear",
+                "name": "Street Song",
+                "album": "Beams (Expanded Edition)"
+            }
+        ]
+    }
+]

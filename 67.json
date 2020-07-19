@@ -1,0 +1,507 @@
+[
+    {
+        "name": "BURIALESQUE",
+        "songs": [
+            {
+                "artist": "Burial",
+                "name": "Crackle Blues - Burial Remix",
+                "album": "Lata / Crackle Blues (Original + Burial remix)"
+            },
+            {
+                "artist": "Burial",
+                "name": "Lambeth",
+                "album": "Hyperdub 10.4"
+            },
+            {
+                "artist": "Burial",
+                "name": "Kindred",
+                "album": "Kindred EP"
+            },
+            {
+                "artist": "Burial",
+                "name": "Loner",
+                "album": "Kindred EP"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ashtray wasp",
+                "album": "Kindred EP"
+            },
+            {
+                "artist": "Burial",
+                "name": "Untitled",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Archangel",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Near Dark",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ghost Hardware",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Endorphin",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Etched Headplate",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "In McDonalds",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Untrue",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Shell of Light",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Dog Shelter",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Homeless",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "UK",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Raver",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Untitled",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Distant Lights",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Spaceape (feat. Spaceape)",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Wounder",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Night Bus",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Southern Comfort",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "U Hurt Me",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Gutted",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Forgive",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Broken Home",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Prayer",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Pirates",
+                "album": "Burial"
+            },
+            {
+                "artist": "Burial",
+                "name": "Rival Dealer",
+                "album": "Rival Dealer"
+            },
+            {
+                "artist": "Burial",
+                "name": "Hiders",
+                "album": "Rival Dealer"
+            },
+            {
+                "artist": "Burial",
+                "name": "Come Down To Us",
+                "album": "Rival Dealer"
+            },
+            {
+                "artist": "Burial",
+                "name": "Truant",
+                "album": "Truant"
+            },
+            {
+                "artist": "Burial",
+                "name": "Rough Sleeper",
+                "album": "Truant"
+            },
+            {
+                "artist": "Burial",
+                "name": "Street Halo",
+                "album": "Street Halo"
+            },
+            {
+                "artist": "Burial",
+                "name": "NYC",
+                "album": "Street Halo"
+            },
+            {
+                "artist": "Burial",
+                "name": "Stolen Dog",
+                "album": "Street Halo"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ghost Hardware",
+                "album": "Ghost Hardware"
+            },
+            {
+                "artist": "Burial",
+                "name": "Shutta",
+                "album": "Ghost Hardware"
+            },
+            {
+                "artist": "Burial",
+                "name": "Exit Woundz",
+                "album": "Ghost Hardware"
+            },
+            {
+                "artist": "Burial",
+                "name": "Distant Lights",
+                "album": "Distant Lights"
+            },
+            {
+                "artist": "Burial",
+                "name": "Pirates",
+                "album": "Distant Lights"
+            },
+            {
+                "artist": "Burial",
+                "name": "Gutted",
+                "album": "Distant Lights"
+            },
+            {
+                "artist": "Burial",
+                "name": "South London Boroughs",
+                "album": "South London Boroughs"
+            },
+            {
+                "artist": "Burial",
+                "name": "Southern Comfort",
+                "album": "South London Boroughs"
+            },
+            {
+                "artist": "Burial",
+                "name": "Broken Home",
+                "album": "South London Boroughs"
+            },
+            {
+                "artist": "Burial",
+                "name": "Nite Train",
+                "album": "South London Boroughs"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Hello",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Somewhere Inside",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Luna",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Finish Line",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Awakening",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Ruins 1996",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Far Beyond",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Elevator",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Northern Lights",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Endless Railway",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Take You Away",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Riniot",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Who Is It",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Chasing Ghosts",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Believer",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Talking To The Moon",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Y",
+                "album": "The Exclusives"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Senility - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Unfeeling - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Elegiac - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Main Question - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Goodbye - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Room 09 - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Stolen Child - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Home - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "I Miss You - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Tramp - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Lost Memory - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Gloom - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Backward - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "Unsound - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "You In Me - Original Mix",
+                "album": "Tramp"
+            },
+            {
+                "artist": "Volor Flex",
+                "name": "About You",
+                "album": "The Conspiracy"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Sun",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Mercury",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Venus",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Earth",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Mars",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Jupiter",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Saturn",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Uranus",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Neptune",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Pluto",
+                "album": "Opscope"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Yellow - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Orange - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Vinous - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Red - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Indigo - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Emerald - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Green - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "White - Original Mix",
+                "album": "The Voice of Color"
+            },
+            {
+                "artist": "Trampique",
+                "name": "Gray - Original Mix",
+                "album": "The Voice of Color"
+            }
+        ]
+    }
+]

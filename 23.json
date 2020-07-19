@@ -1,0 +1,507 @@
+[
+    {
+        "name": "The Sound of German Techno",
+        "songs": [
+            {
+                "artist": "Anja Schneider",
+                "name": "All I See - Radio Edit",
+                "album": "All I See (Radio Edit)"
+            },
+            {
+                "artist": "Pan-Pot",
+                "name": "Sleepless - Stephan Bodzin Remix",
+                "album": "The Other Remixes"
+            },
+            {
+                "artist": "Dominik Eulberg",
+                "name": "Dream Machine",
+                "album": "Dream Machine"
+            },
+            {
+                "artist": "Gregor Tresher",
+                "name": "A Thousand Nights - Original Mix",
+                "album": "A Thousand Nights"
+            },
+            {
+                "artist": "Extrawelt",
+                "name": "Soopertrack",
+                "album": "Soopertrack"
+            },
+            {
+                "artist": "Einmusik",
+                "name": "Dune Suave",
+                "album": "Einmusik / Lake Avalon"
+            },
+            {
+                "artist": "Kollektiv Turmstrasse",
+                "name": "Sorry I Am Late - Extended",
+                "album": "Sorry I Am Late (Extended)"
+            },
+            {
+                "artist": "Robert Babicz",
+                "name": "Alta Moda",
+                "album": "Let's Be Friends - Single"
+            },
+            {
+                "artist": "Marek Hemmann",
+                "name": "Gemini",
+                "album": "In Between"
+            },
+            {
+                "artist": "Stimming",
+                "name": "Bright Star - Sunset Mix",
+                "album": "Bright Star"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Singularity",
+                "album": "Powers of Ten"
+            },
+            {
+                "artist": "Oliver Huntemann",
+                "name": "Nordpol",
+                "album": "Nordpol / Südpol"
+            },
+            {
+                "artist": "Marc Romboy",
+                "name": "Atlas - Adriatique Remix",
+                "album": "Atlas (Remixes)"
+            },
+            {
+                "artist": "Thomas Schumacher",
+                "name": "Apollo",
+                "album": "Apollo"
+            },
+            {
+                "artist": "Sascha Funke",
+                "name": "Mango",
+                "album": "Mango"
+            },
+            {
+                "artist": "Oliver Koletzki",
+                "name": "No Man No Cry - Jimmy Sax Version",
+                "album": "No Man No Cry (Jimmy Sax Version)"
+            },
+            {
+                "artist": "Butch",
+                "name": "Countach - Kölsch Remix",
+                "album": "Countach"
+            },
+            {
+                "artist": "Booka Shade",
+                "name": "In White Rooms",
+                "album": "Movements"
+            },
+            {
+                "artist": "Boris Brejcha",
+                "name": "Gravity",
+                "album": "Gravity"
+            },
+            {
+                "artist": "Robag Wruhme",
+                "name": "Calma Calma",
+                "album": "Speicher 115"
+            },
+            {
+                "artist": "Martin Buttrich",
+                "name": "Northeast",
+                "album": "Northeast/Southwest"
+            },
+            {
+                "artist": "Âme",
+                "name": "No War - Ry X Remix",
+                "album": "Dream House Remixes Part III"
+            },
+            {
+                "artist": "Steve Bug",
+                "name": "Solid Maybe",
+                "album": "Solid Maybe"
+            },
+            {
+                "artist": "Format:B",
+                "name": "Chunky",
+                "album": "Chunky"
+            },
+            {
+                "artist": "Tigerskin",
+                "name": "Check Mate",
+                "album": "Reporting In"
+            },
+            {
+                "artist": "Sash!",
+                "name": "Ecuador - Original Radio Edit",
+                "album": "It's My Life"
+            },
+            {
+                "artist": "Matthias Tanzmann",
+                "name": "Crazy Circus - Paco Osuna Remix",
+                "album": "Crazy Circus (Paco Osuna Remix)"
+            },
+            {
+                "artist": "Ellen Allien",
+                "name": "Traum",
+                "album": "Auraa"
+            },
+            {
+                "artist": "Ruede Hagelstein",
+                "name": "Footprints feat. C.A.R.",
+                "album": "Apophenia"
+            },
+            {
+                "artist": "Solomun",
+                "name": "The Way Back",
+                "album": "Black Label #36"
+            },
+            {
+                "artist": "Gabriel Ananda",
+                "name": "Doppelwhipper - Marco Faraone Remix",
+                "album": "Doppelwhipper (Remixes)"
+            },
+            {
+                "artist": "Dapayk & Padberg",
+                "name": "Island feat. Caro - Nôze Remix",
+                "album": "Black Beauty Remixes, Pt.2"
+            },
+            {
+                "artist": "Namito",
+                "name": "Stone Flower - Original",
+                "album": "Stone Flower"
+            },
+            {
+                "artist": "Jam & Spoon",
+                "name": "Right in the Night (Fall in Love with Music)",
+                "album": "Tripomatic Fairytales 2001 (Deluxe Edition)"
+            },
+            {
+                "artist": "U96",
+                "name": "Das Boot",
+                "album": "Das Boot"
+            },
+            {
+                "artist": "Monika Kruse",
+                "name": "Solid State - Balthazar & JackRock Remix",
+                "album": "Monika Kruse @ Voodooamt – Solid State (Balthazar & JackRock Remix)"
+            },
+            {
+                "artist": "Mathew Jonson",
+                "name": "Kissing Your Eyes - Tale of Us Remix",
+                "album": "Blurry Remixes"
+            },
+            {
+                "artist": "Kai Tracid",
+                "name": "Liquid Skies",
+                "album": "Skywalker 1999"
+            },
+            {
+                "artist": "Marc Houle",
+                "name": "Where is Kittin?",
+                "album": "Where is Kittin?"
+            },
+            {
+                "artist": "Mark 'Oh",
+                "name": "United - Short Mix",
+                "album": "United"
+            },
+            {
+                "artist": "Dapayk solo",
+                "name": "Breaking The Clouds",
+                "album": "Breaking The Clouds"
+            },
+            {
+                "artist": "Mathias Kaden",
+                "name": "Soulmakers - Pulshar Remix",
+                "album": "Energetic (Remixes), Pt. 2"
+            },
+            {
+                "artist": "Rmb",
+                "name": "Spring 1996 - Video Mix",
+                "album": "Spring"
+            },
+            {
+                "artist": "Dune",
+                "name": "Hardcore Vibes",
+                "album": "Dune"
+            },
+            {
+                "artist": "Johannes Heil",
+                "name": "Exile 007 B2",
+                "album": "EXILE 007"
+            },
+            {
+                "artist": "Loco Dice",
+                "name": "Out Of Reach",
+                "album": "Love Letters"
+            },
+            {
+                "artist": "Der Dritte Raum",
+                "name": "Swing Bop - Acid Pauli's Kozmik Remix",
+                "album": "Swing Bop - Remixes"
+            },
+            {
+                "artist": "GummiHz",
+                "name": "Desire",
+                "album": "Futurism"
+            },
+            {
+                "artist": "Brooklyn Bounce",
+                "name": "Bass, Beats & Melody",
+                "album": "Restart"
+            },
+            {
+                "artist": "Tiefschwarz",
+                "name": "Corporate Butcher - Solomun Remix",
+                "album": "Solomun - Selected Remixes 2009 2015"
+            },
+            {
+                "artist": "Paffendorf",
+                "name": "Lalala Girl - Extended Version",
+                "album": "Lalala Girl"
+            },
+            {
+                "artist": "Fragma",
+                "name": "Everytime You Need Me - Radio Version",
+                "album": "Toca"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Pick Up",
+                "album": "Knock Knock"
+            },
+            {
+                "artist": "Talla 2XLC",
+                "name": "Bliss - Original Mix",
+                "album": "Bliss"
+            },
+            {
+                "artist": "Bukaddor & Fishbeck",
+                "name": "Riffpunk",
+                "album": "Bonusmeilen"
+            },
+            {
+                "artist": "Future Breeze",
+                "name": "Why Don´t You Dance With Me?",
+                "album": "Why?"
+            },
+            {
+                "artist": "Sunbeam",
+                "name": "Outside World",
+                "album": "Lightyears"
+            },
+            {
+                "artist": "Daniel Mehlhart",
+                "name": "Origami",
+                "album": "Taunus"
+            },
+            {
+                "artist": "Martin Eyerer",
+                "name": "Turn Turn Turn",
+                "album": "Struktur"
+            },
+            {
+                "artist": "Marek Bois",
+                "name": "The Norm",
+                "album": "Norm Tribes"
+            },
+            {
+                "artist": "Daso",
+                "name": "Meine",
+                "album": "Meine Idee EP"
+            },
+            {
+                "artist": "Paul Kalkbrenner",
+                "name": "Sky and Sand",
+                "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)"
+            },
+            {
+                "artist": "Lützenkirchen",
+                "name": "Paperboy (D-Nox & Beckers Remix)",
+                "album": "Paperboy"
+            },
+            {
+                "artist": "666",
+                "name": "ALARMA!",
+                "album": "Paradoxx (Platinum Edition)"
+            },
+            {
+                "artist": "Tomcraft",
+                "name": "Bagging Me",
+                "album": "Bagging Me"
+            },
+            {
+                "artist": "Martin Landsky",
+                "name": "1000 Miles - Harry Romero Remix",
+                "album": "1000 Miles (Harry Romero Remix) - 20 Years of Poker Flat"
+            },
+            {
+                "artist": "Fritz Kalkbrenner",
+                "name": "Kings & Queens",
+                "album": "True Colours"
+            },
+            {
+                "artist": "Guido Schneider",
+                "name": "Baccara",
+                "album": "Amnesia Ibiza - Underground 8"
+            },
+            {
+                "artist": "Cygnus X",
+                "name": "Superstring - Aftershock Remix",
+                "album": "Superstring (Aftershock Remix)"
+            },
+            {
+                "artist": "Sven Väth",
+                "name": "The Beauty & the Beast - Eric Prydz Re-edit",
+                "album": "The Beauty & the Beast (Eric Prydz Re-edit)"
+            },
+            {
+                "artist": "Energy 52",
+                "name": "Café Del Mar - Three 'n One Radio Edit",
+                "album": "Café Del Mar: The Best of the Remixes"
+            },
+            {
+                "artist": "Culture Beat",
+                "name": "Mr. Vain - Original Radio Edit",
+                "album": "Mr. Vain"
+            },
+            {
+                "artist": "Captain Hollywood Project",
+                "name": "More And More - Single Version",
+                "album": "Love Is Not Sex"
+            },
+            {
+                "artist": "Elektrochemie",
+                "name": "Pleasure Seeker vs. Me & I",
+                "album": "8 Years Get Physical Music"
+            },
+            {
+                "artist": "Moonbootica",
+                "name": "Hibernating (feat. Zoe Wees)",
+                "album": "Hibernating (feat. Zoe Wees)"
+            },
+            {
+                "artist": "Karotte",
+                "name": "All She Wants Is - Original Mix",
+                "album": "All She Wants Is"
+            },
+            {
+                "artist": "Maxx",
+                "name": "Get A Way",
+                "album": "To The Maxximum"
+            },
+            {
+                "artist": "Heinrichs & Hirtenfellner",
+                "name": "trauriger sonntag - Alfred Heinrichs Remix",
+                "album": "IREMIX"
+            },
+            {
+                "artist": "Scooter",
+                "name": "Bassdrum",
+                "album": "Bassdrum"
+            },
+            {
+                "artist": "Ricardo Villalobos",
+                "name": "Recat",
+                "album": "RE: ECM"
+            },
+            {
+                "artist": "Fuckpony",
+                "name": "Bongo Porn - Tale Of Us & Jay Haze Remix",
+                "album": "Social Experiment 003"
+            },
+            {
+                "artist": "E-Rotic",
+                "name": "Max Don´t Have Sex With Your Ex",
+                "album": "Sex Affairs"
+            },
+            {
+                "artist": "Catz 'n Dogz",
+                "name": "Revolution (feat. Nick Maurer)",
+                "album": "Inner Revolution"
+            },
+            {
+                "artist": "Captain Jack",
+                "name": "Captain Jack - Short Mix",
+                "album": "The Mission"
+            },
+            {
+                "artist": "DJ Shog",
+                "name": "In the Air Tonight - Sway Gray & Lookee Remix Edit",
+                "album": "In the Air Tonight"
+            },
+            {
+                "artist": "Mr. President",
+                "name": "Coco Jamboo",
+                "album": "We See The Same Sun"
+            },
+            {
+                "artist": "Dapayk",
+                "name": "Nangiria - Original Mix",
+                "album": "It Began in Africa, Vol. 2"
+            },
+            {
+                "artist": "York",
+                "name": "On The Beach - CRW Remix",
+                "album": "On The Beach"
+            },
+            {
+                "artist": "Chris Liebing",
+                "name": "Liquid Slow",
+                "album": "Liquid Slow EP"
+            },
+            {
+                "artist": "Dumonde",
+                "name": "Never Look Back - Radio Edit",
+                "album": "Never Look Back"
+            },
+            {
+                "artist": "SNAP!",
+                "name": "Rhythm Is A Dancer - 7\" Edit",
+                "album": "The Madman's Return"
+            },
+            {
+                "artist": "Paul Brtschitsch",
+                "name": "Money",
+                "album": "International Language of House, Vol. 1 - A Journey Into House"
+            },
+            {
+                "artist": "Axel Bartsch",
+                "name": "Prophetic Dreams - AKA AKA & Thalstroem Remix",
+                "album": "Prophetic Dreams"
+            },
+            {
+                "artist": "ATB",
+                "name": "9 PM (Till I Come) - Club Mix",
+                "album": "The Gallery - 18 Years Mixed By Judge Jules, Simon Patterson & Gavyn Mytchel"
+            },
+            {
+                "artist": "Cosmic Gate",
+                "name": "Exploration of Space - Radio Edit",
+                "album": "Exploration of Space"
+            },
+            {
+                "artist": "Groove Coverage",
+                "name": "Moonlight Shadow - Original Mix",
+                "album": "Moonlight Shadow"
+            },
+            {
+                "artist": "Exercise One",
+                "name": "Immersed",
+                "album": "Fantasy Camp"
+            },
+            {
+                "artist": "Westbam/ML",
+                "name": "Beatbox Rocker - Original",
+                "album": "Beatbox Rocker"
+            },
+            {
+                "artist": "Nalin & Kane",
+                "name": "Beachball - Vocal Radio Edit",
+                "album": "Beachball"
+            },
+            {
+                "artist": "Falko Brocksieper",
+                "name": "Frantic Formula - Original Mix",
+                "album": "Treibstoff Artist Bundle"
+            }
+        ]
+    }
+]

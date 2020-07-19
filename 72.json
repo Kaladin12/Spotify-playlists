@@ -1,0 +1,507 @@
+[
+    {
+        "name": "dub ambient / dub techno / melancholic / hypnotic",
+        "songs": [
+            {
+                "artist": "Yagya",
+                "name": "Gabriel (feat. Elísabet Eyþórs)",
+                "album": "The Inescapable Decay of My Heart"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Cold Hands",
+                "album": "The Inescapable Decay of My Heart"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Tears Will Fall (feat. Ellen Kristjánsdóttir)",
+                "album": "The Inescapable Decay of My Heart"
+            },
+            {
+                "artist": "Yagya",
+                "name": "The Phantom of Us",
+                "album": "The Inescapable Decay of My Heart"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Bright Moonlit Sky (feat. Esther Talia)",
+                "album": "The Inescapable Decay of My Heart"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Waiting for the Rain (feat. Ellen Kristjánsdóttir)",
+                "album": "The Inescapable Decay of My Heart"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 1",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 2",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 3",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 4",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 5",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 6",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 8",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 9",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 11",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 12",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Crepuscular Rays Over the Horizon",
+                "album": "Stars and Dust"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Motes in the Moonlight",
+                "album": "Stars and Dust"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Substorms On a Winter Night",
+                "album": "Stars and Dust"
+            },
+            {
+                "artist": "Yagya",
+                "name": "The Great Attractor",
+                "album": "Stars and Dust"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Laniakea's Redshift",
+                "album": "Stars and Dust"
+            },
+            {
+                "artist": "Yagya",
+                "name": "The Observable Universe",
+                "album": "Stars and Dust"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Einn",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Fimm",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Sex",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Sjö",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Átta",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Rigning Níu",
+                "album": "Rigning (2018)"
+            },
+            {
+                "artist": "Gidge",
+                "name": "You",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "I Fell In Love",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Dusk",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Fauna, Pt II",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Huldra",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Growth",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Norrland",
+                "album": "Autumn Bells"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Eyes Open",
+                "album": "LNLNN"
+            },
+            {
+                "artist": "Gidge",
+                "name": "White Curtains",
+                "album": "LNLNN"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Midra",
+                "album": "LNLNN"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Hope",
+                "album": "LNLNN"
+            },
+            {
+                "artist": "Gidge",
+                "name": "For Seoul Pt I",
+                "album": "For Seoul"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Lit",
+                "album": "LNLNN"
+            },
+            {
+                "artist": "Gidge",
+                "name": "Huldra - Other Version",
+                "album": "Huldra"
+            },
+            {
+                "artist": "Valentin Stip",
+                "name": "Aletheia",
+                "album": "Sigh"
+            },
+            {
+                "artist": "Valentin Stip",
+                "name": "Correlation",
+                "album": "Sigh"
+            },
+            {
+                "artist": "Valentin Stip",
+                "name": "Wit(z)",
+                "album": "Angst"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Swift Code",
+                "album": "A Forest"
+            },
+            {
+                "artist": "Martin Schulte",
+                "name": "same days",
+                "album": "Treasure"
+            },
+            {
+                "artist": "Viken Arman",
+                "name": "Close - Your Eyes",
+                "album": "Close (Your Eyes)"
+            },
+            {
+                "artist": "trentemøller",
+                "name": "Evil Dub",
+                "album": "The Last Resort"
+            },
+            {
+                "artist": "fugue",
+                "name": "Trails",
+                "album": "Trails"
+            },
+            {
+                "artist": "Forss",
+                "name": "Lux Aeterna",
+                "album": "Ecclesia"
+            },
+            {
+                "artist": "Forss",
+                "name": "Diligam",
+                "album": "Ecclesia"
+            },
+            {
+                "artist": "Forss",
+                "name": "Regulus",
+                "album": "Ecclesia"
+            },
+            {
+                "artist": "Lstn",
+                "name": "Coffee Time",
+                "album": "Reflection"
+            },
+            {
+                "artist": "Burnski",
+                "name": "Green Room",
+                "album": "DNA"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Myiami",
+                "album": "Mare"
+            },
+            {
+                "artist": "trentemøller",
+                "name": "Nightwalker",
+                "album": "The Last Resort"
+            },
+            {
+                "artist": "Dark Sky",
+                "name": "Angels",
+                "album": "Othona"
+            },
+            {
+                "artist": "Yagya",
+                "name": "The North Shore",
+                "album": "A Strangely Isolated Place / Europe"
+            },
+            {
+                "artist": "Lstn",
+                "name": "Called",
+                "album": "Called"
+            },
+            {
+                "artist": "Koelle",
+                "name": "Place in Mind",
+                "album": "All You Got EP"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Pigment - Christian Löffler Rework",
+                "album": "Mare Reworks"
+            },
+            {
+                "artist": "Robot Koch",
+                "name": "Heart as a River - Christian Löffler Remix",
+                "album": "Particle Fields Reimagined"
+            },
+            {
+                "artist": "Roger Goula",
+                "name": "Something About Silence - Christian Löffler Remix",
+                "album": "Something About Silence"
+            },
+            {
+                "artist": "Niklas Paschburg",
+                "name": "DAWN (Harnes Kretzer Remix)",
+                "album": "DAWN (Harnes Kretzer Remix)"
+            },
+            {
+                "artist": "Hior",
+                "name": "Get Blind",
+                "album": "Descent"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Neo",
+                "album": "Mare"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Mare (Robot Koch Remix)",
+                "album": "Mare Reworks"
+            },
+            {
+                "artist": "Grandbrothers",
+                "name": "Bloodflow - Christian Löffler Remix",
+                "album": "Bloodflow Remixes"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Lid (Steffen Kirchhoff Remix)",
+                "album": "Mare Reworks"
+            },
+            {
+                "artist": "Francis Harris",
+                "name": "Lean Back",
+                "album": "Minutes Of Sleep"
+            },
+            {
+                "artist": "Tale Of Us",
+                "name": "Notte senza fine - Kiasmos Remix",
+                "album": "Endless (Remixes)"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Thrown",
+                "album": "Kiasmos"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Jarred",
+                "album": "Blurred"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Paused",
+                "album": "Blurred"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Lit",
+                "album": "Kiasmos"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Held",
+                "album": "Kiasmos"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Thrown",
+                "album": "Kiasmos"
+            },
+            {
+                "artist": "Steffen Kirchhoff",
+                "name": "Mon Âme",
+                "album": "A New World"
+            },
+            {
+                "artist": "Alex Kaminski",
+                "name": "Bagaluten",
+                "album": "Wahrnehmungen"
+            },
+            {
+                "artist": "Alex Kaminski",
+                "name": "Möglichkeiten",
+                "album": "Wahrnehmungen"
+            },
+            {
+                "artist": "Rodrigo Gallardo",
+                "name": "Manquemapu - Original",
+                "album": "Summer Sol"
+            },
+            {
+                "artist": "Spaniol",
+                "name": "Ay",
+                "album": "Urban Cosmonaut Tales"
+            },
+            {
+                "artist": "Coss",
+                "name": "Kabuffeule",
+                "album": "Schleiermeier"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Drawn",
+                "album": "Swept"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Gaunt",
+                "album": "Swept"
+            },
+            {
+                "artist": "Frank & Tony",
+                "name": "Bring The Sun feat. Gry - Original Mix",
+                "album": "You Go Girl"
+            },
+            {
+                "artist": "AmuAmu",
+                "name": "Afiafi - Islandman Remix",
+                "album": "Afiafi"
+            },
+            {
+                "artist": "Monality",
+                "name": "East Wind",
+                "album": "East Wind"
+            },
+            {
+                "artist": "Monality",
+                "name": "Your Eyes Your Tears",
+                "album": "East Wind"
+            },
+            {
+                "artist": "Monality",
+                "name": "Your Eyes Your Tears (Subsky Remix)",
+                "album": "Your Eyes Your Tears"
+            },
+            {
+                "artist": "NINZE & OKAXY",
+                "name": "Constructions - Christopher Schwarzwalder Remix",
+                "album": "Cranes at Night"
+            },
+            {
+                "artist": "Lukas Endhardt",
+                "name": "Buteo Buteo",
+                "album": "Buteo EP"
+            },
+            {
+                "artist": "Lukas Endhardt",
+                "name": "Monsun",
+                "album": "Buteo EP"
+            },
+            {
+                "artist": "Boris Brejcha",
+                "name": "Lost Memory",
+                "album": "Lost Memory"
+            },
+            {
+                "artist": "Stavroz",
+                "name": "Should've Brought an Umbrella",
+                "album": "Silent Spring EP"
+            },
+            {
+                "artist": "Christian Löffler",
+                "name": "Nil",
+                "album": "Mare"
+            },
+            {
+                "artist": "Francis Harris",
+                "name": "Pensum",
+                "album": "Leland"
+            },
+            {
+                "artist": "Francis Harris",
+                "name": "Of the Field",
+                "album": "Leland"
+            },
+            {
+                "artist": "Be Svendsen",
+                "name": "Day 3",
+                "album": "Between a Smile and a Tear"
+            }
+        ]
+    }
+]

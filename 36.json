@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Electronic: Experimental & Abstract",
+        "songs": [
+            {
+                "artist": "Indigo",
+                "name": "Storm",
+                "album": "Storm EP"
+            },
+            {
+                "artist": "Kryptic Minds",
+                "name": "Reaching Through",
+                "album": "No Fear of Future"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Blue on Blue - Voodoo",
+                "album": "Future Foundations"
+            },
+            {
+                "artist": "Photek",
+                "name": "Into the 90's",
+                "album": "Natural Born Killa (2015 Remaster)"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Sex",
+                "album": "Portrait with Firewood"
+            },
+            {
+                "artist": "ZGTO",
+                "name": "Band Man",
+                "album": "A Piece of the Geto"
+            },
+            {
+                "artist": "Radiohead",
+                "name": "Idioteque",
+                "album": "Kid A"
+            },
+            {
+                "artist": "X-Altera",
+                "name": "Compound Extraprotus",
+                "album": "X-Altera"
+            },
+            {
+                "artist": "AFX",
+                "name": "NEOTEKT72",
+                "album": "orphaned deejay selek 2006-2008"
+            },
+            {
+                "artist": "Slikback",
+                "name": "Ascension",
+                "album": "Lasakaneku"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "What I Was Doing When I Was Doing What I Was Doing",
+                "album": "Plantain / What I Was Doing When I Was Doing What I Was Doing"
+            },
+            {
+                "artist": "Special Request",
+                "name": "Broken Dreams",
+                "album": "Soul Music"
+            },
+            {
+                "artist": "Machinedrum",
+                "name": "Infinite Us",
+                "album": "Vapor City"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Gyroscope",
+                "album": "Geogaddi"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Zoetrope",
+                "album": "In A Beautiful Place Out In The Country"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Tension",
+                "album": "St Martins"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Ode",
+                "album": "The Miracle"
+            },
+            {
+                "artist": "Skee Mask",
+                "name": "Flyby Vfr",
+                "album": "Compro"
+            },
+            {
+                "artist": "Telefon Tel Aviv",
+                "name": "Fahrenheit Fair Enough",
+                "album": "Fahrenheit Fair Enough"
+            },
+            {
+                "artist": "Telefon Tel Aviv",
+                "name": "Ttv",
+                "album": "Fahrenheit Fair Enough"
+            },
+            {
+                "artist": "The Electric 10",
+                "name": "Burning Hands",
+                "album": "Anything EP"
+            },
+            {
+                "artist": "The Electric 10",
+                "name": "Frequency Trip",
+                "album": "Anything EP"
+            },
+            {
+                "artist": "Steve Hauschildt",
+                "name": "Alienself",
+                "album": "Dissolvi"
+            },
+            {
+                "artist": "Steve Hauschildt",
+                "name": "Subtractive Skies",
+                "album": "Nonlin"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Tailing",
+                "album": "The Miracle"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "St Martins",
+                "album": "St Martins"
+            },
+            {
+                "artist": "Deadwalls",
+                "name": "Chapter III",
+                "album": "Exploring Virtual Spaces, Vol. 1"
+            },
+            {
+                "artist": "Florian Kupfer",
+                "name": "Feelin - Dub Mix",
+                "album": "Lifetrax"
+            },
+            {
+                "artist": "Dillinja",
+                "name": "Breathe",
+                "album": "One for the Trouble / Breathe"
+            },
+            {
+                "artist": "THUGWIDOW",
+                "name": "THE DEGRADING IDEA OF HOME",
+                "album": "Ambivalent Voices"
+            },
+            {
+                "artist": "THUGWIDOW",
+                "name": "Jesus H Fucking H Christ",
+                "album": "Ambivalent Voices"
+            },
+            {
+                "artist": "THUGWIDOW",
+                "name": "Ambivalent Voices",
+                "album": "Ambivalent Voices"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Baby",
+                "album": "Baby"
+            },
+            {
+                "artist": "Source Direct",
+                "name": "A Made Up Sound",
+                "album": "A Made Up Sound / The Cult"
+            },
+            {
+                "artist": "Equinox",
+                "name": "Do You Understand Me?",
+                "album": "Acid Rain V.I.P."
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Sometime I Share - Space Race, Pt. 3",
+                "album": "Space Race"
+            },
+            {
+                "artist": "Ivy Lab",
+                "name": "Thirsty",
+                "album": "Peninsula EP"
+            },
+            {
+                "artist": "MHYSA",
+                "name": "Spectrum",
+                "album": "Fantasii"
+            },
+            {
+                "artist": "Mark Pritchard",
+                "name": "Under The Sun",
+                "album": "Under The Sun"
+            },
+            {
+                "artist": "Smerz",
+                "name": "Half life",
+                "album": "Have fun"
+            },
+            {
+                "artist": "Cocktail Party Effect",
+                "name": "Flat Football",
+                "album": "Lemons EP"
+            },
+            {
+                "artist": "Ploy",
+                "name": "Unruly",
+                "album": "Unruly"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Hard to Say",
+                "album": "Hard to Say / Tournesol"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Tournesol",
+                "album": "Hard to Say / Tournesol"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Showreel, Pt. 2",
+                "album": "Broken Glass Arch"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Pusher",
+                "album": "Shigeto"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Alley Oop",
+                "album": "Shigeto"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "New Course",
+                "album": "Shigeto"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Jetsettin",
+                "album": "Shigeto"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Flim",
+                "album": "Come To Daddy"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Alberto Balsalm",
+                "album": "...I Care Because You Do"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Locked",
+                "album": "Pink"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Two Thousand and Seventeen",
+                "album": "New Energy"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Pulse",
+                "album": "Intermission"
+            },
+            {
+                "artist": "Shigeto",
+                "name": "Need Nobody",
+                "album": "Intermission"
+            },
+            {
+                "artist": "Burial",
+                "name": "Rodent",
+                "album": "Rodent"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ghost Hardware",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Burial",
+                "name": "Near Dark",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Yellow Calx",
+                "album": "Richard D. James Album"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "Beep Street",
+                "album": "Hard Normal Daddy"
+            },
+            {
+                "artist": "Lurka",
+                "name": "Stay Let's Together",
+                "album": "Stay Let's Together"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Untitled 9",
+                "album": "Struktur"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Induction",
+                "album": "Forgetting EP"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Roygbiv",
+                "album": "Music Has The Right To Children"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Everything You Do Is A Balloon",
+                "album": "Hi Scores"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "My Red Hot Car",
+                "album": "Go Plastic"
+            },
+            {
+                "artist": "Source Direct",
+                "name": "Stonekiller - 2017 Remaster",
+                "album": "Stonekiller / Web of Sin (2017 Remaster)"
+            },
+            {
+                "artist": "Amon Tobin",
+                "name": "Reanimator",
+                "album": "Permutation"
+            },
+            {
+                "artist": "Amon Tobin",
+                "name": "Sordid",
+                "album": "Permutation"
+            },
+            {
+                "artist": "Amon Tobin",
+                "name": "Bitter & Twistd",
+                "album": "Bricolage"
+            },
+            {
+                "artist": "Jacques Greene",
+                "name": "Nordschleife",
+                "album": "Nordschleife"
+            },
+            {
+                "artist": "Inge Weatherhead Breistein",
+                "name": "Corrosion Is a Natural Process",
+                "album": "Mind Vessel"
+            },
+            {
+                "artist": "Overmono",
+                "name": "Quadraluv",
+                "album": "Whities 019"
+            },
+            {
+                "artist": "Telefon Tel Aviv",
+                "name": "Sound in a Dark Room",
+                "album": "Map of What Is Effortless"
+            },
+            {
+                "artist": "Telefon Tel Aviv",
+                "name": "The Means Whereby Lovers Are Waylaid",
+                "album": "The Means Whereby Lovers Are Waylaid"
+            },
+            {
+                "artist": "Skee Mask",
+                "name": "Session Add",
+                "album": "Compro"
+            },
+            {
+                "artist": "Struction",
+                "name": "Strukture",
+                "album": "Struktur"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "Aquarium",
+                "album": "Views/Octopus EP"
+            },
+            {
+                "artist": "THUGWIDOW",
+                "name": "------------------------------convoluted",
+                "album": "I TRIED CALLING BUT YOUR PHONE MUST HAVE BEEN OFF"
+            },
+            {
+                "artist": "THUGWIDOW",
+                "name": "PLEASE PLEASE PLEASE",
+                "album": "I TRIED CALLING BUT YOUR PHONE MUST HAVE BEEN OFF"
+            },
+            {
+                "artist": "Piezo",
+                "name": "Tinned",
+                "album": "The Mandrake / Tinned"
+            },
+            {
+                "artist": "Grand Larsonie",
+                "name": "Moksha",
+                "album": "Moksha"
+            },
+            {
+                "artist": "Trrmà",
+                "name": "Shishapangma",
+                "album": "The Earth’s Relief"
+            },
+            {
+                "artist": "Force Placement",
+                "name": "Retinex",
+                "album": "Retinex"
+            },
+            {
+                "artist": "James Bangura",
+                "name": "Famille, Amant et Ami",
+                "album": "Bronx Metro EP"
+            },
+            {
+                "artist": "James Bangura",
+                "name": "2129",
+                "album": "James Bangura"
+            },
+            {
+                "artist": "DjRUM",
+                "name": "Plead With Me",
+                "album": "Plead With Me"
+            }
+        ]
+    }
+]

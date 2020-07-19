@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Future Garage",
+        "songs": [
+            {
+                "artist": "hidden jayeem",
+                "name": "I Held You",
+                "album": "Mainline"
+            },
+            {
+                "artist": "hidden jayeem",
+                "name": "Tell Me",
+                "album": "Mainline"
+            },
+            {
+                "artist": "hidden jayeem",
+                "name": "Mainline",
+                "album": "Mainline"
+            },
+            {
+                "artist": "hidden jayeem",
+                "name": "Hard to Find",
+                "album": "Mainline"
+            },
+            {
+                "artist": "hidden jayeem",
+                "name": "Loved Someone Remix",
+                "album": "Mainline"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Elixir",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Moodswing",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Dreamstone (feat. Coma)",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Dalliance (feat. Coma)",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Embrace",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Maelys",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Supernova",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Flowerchild",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Shadowed Doubt",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Gallows Hill",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Intruder",
+                "album": "Dreamstone"
+            },
+            {
+                "artist": "Asa",
+                "name": "Ebony - Sorrow Remix",
+                "album": "Arcane EP"
+            },
+            {
+                "artist": "Aether",
+                "name": "If You Had",
+                "album": "To Meet Is the Beginning of Parting"
+            },
+            {
+                "artist": "Aether",
+                "name": "To Meet Is the Beginning of Parting",
+                "album": "To Meet Is the Beginning of Parting"
+            },
+            {
+                "artist": "Aether",
+                "name": "Lost in Thought",
+                "album": "To Meet Is the Beginning of Parting"
+            },
+            {
+                "artist": "Aether",
+                "name": "Forget, Don't Forget",
+                "album": "To Meet Is the Beginning of Parting"
+            },
+            {
+                "artist": "Aether",
+                "name": "Empty Locket",
+                "album": "To Meet Is the Beginning of Parting"
+            },
+            {
+                "artist": "Aether",
+                "name": "Breathe",
+                "album": "To Meet Is the Beginning of Parting"
+            },
+            {
+                "artist": "Aether",
+                "name": "Bloom",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Aether",
+                "name": "Reverie",
+                "album": "Reverie"
+            },
+            {
+                "artist": "Aether",
+                "name": "About You - Original Mix",
+                "album": "Introvert"
+            },
+            {
+                "artist": "Aether",
+                "name": "Morfin - Original Mix",
+                "album": "Introvert"
+            },
+            {
+                "artist": "Aether",
+                "name": "Awakening",
+                "album": "V"
+            },
+            {
+                "artist": "Aether",
+                "name": "Valkyrie",
+                "album": "V"
+            },
+            {
+                "artist": "Aether",
+                "name": "Make a Wish",
+                "album": "Make a Wish"
+            },
+            {
+                "artist": "Aether",
+                "name": "Flower in Winter",
+                "album": "Flower in Winter"
+            },
+            {
+                "artist": "Aether",
+                "name": "You",
+                "album": "Nexus"
+            },
+            {
+                "artist": "Aether",
+                "name": "As She Wakes",
+                "album": "Nexus"
+            },
+            {
+                "artist": "Aether",
+                "name": "The Day We Met",
+                "album": "The Future We Used To Have"
+            },
+            {
+                "artist": "Aether",
+                "name": "The Future We Used To Have",
+                "album": "The Future We Used To Have"
+            },
+            {
+                "artist": "Aether",
+                "name": "Watching You Fake A Smile",
+                "album": "The Future We Used To Have"
+            },
+            {
+                "artist": "Aether",
+                "name": "Onsra",
+                "album": "The Future We Used To Have"
+            },
+            {
+                "artist": "Aether",
+                "name": "Reliquary",
+                "album": "As She Fell Through the Stars"
+            },
+            {
+                "artist": "Aether",
+                "name": "Dear Lillie",
+                "album": "Together by the Spirit Tree"
+            },
+            {
+                "artist": "Aether",
+                "name": "Reawaken",
+                "album": "Together by the Spirit Tree"
+            },
+            {
+                "artist": "Aether",
+                "name": "Nocturne",
+                "album": "Nocturne"
+            },
+            {
+                "artist": "Aether",
+                "name": "Catharsis",
+                "album": "Viraha"
+            },
+            {
+                "artist": "Aether",
+                "name": "Vale",
+                "album": "Viraha"
+            },
+            {
+                "artist": "Aether",
+                "name": "Iridescent",
+                "album": "Iridescent"
+            },
+            {
+                "artist": "Aether",
+                "name": "Clairvoyance",
+                "album": "Von"
+            },
+            {
+                "artist": "Aether",
+                "name": "Should Have Known",
+                "album": "Von"
+            },
+            {
+                "artist": "Aether",
+                "name": "Introvert",
+                "album": "Introvert EP"
+            },
+            {
+                "artist": "Aether",
+                "name": "About You",
+                "album": "Introvert EP"
+            },
+            {
+                "artist": "Aether",
+                "name": "Kenji",
+                "album": "Introvert EP"
+            },
+            {
+                "artist": "Aether",
+                "name": "Inside",
+                "album": "Introvert EP"
+            },
+            {
+                "artist": "Aether",
+                "name": "Elysia's Heart",
+                "album": "Elysia's Heart"
+            },
+            {
+                "artist": "Aether",
+                "name": "For You",
+                "album": "For You"
+            },
+            {
+                "artist": "Aether",
+                "name": "Evergreen",
+                "album": "Evergreen"
+            },
+            {
+                "artist": "Aether",
+                "name": "Shivers",
+                "album": "Shivers"
+            },
+            {
+                "artist": "Brimstone",
+                "name": "Predefined",
+                "album": "The intermediaries"
+            },
+            {
+                "artist": "La Soul",
+                "name": "Archangel",
+                "album": "The Secret Album"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Monochrome Dream",
+                "album": "Sorrow Archives"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Recluse",
+                "album": "Sorrow Archives"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Thinking of You",
+                "album": "Sorrow Archives"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Through the Night",
+                "album": "Sorrow Archives"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "U Let Me Down",
+                "album": "Sorrow Archives"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Trial & Tribulation",
+                "album": "Phantom E.P"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Draguta",
+                "album": "Draguta"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Want U Back",
+                "album": "The Twelve"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Reverie",
+                "album": "The Twelve"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Requiem",
+                "album": "Requiem"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Snowflake",
+                "album": "Art Is Dead"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Reaper",
+                "album": "Shinigami"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Shinigami",
+                "album": "Shinigami"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Witchcraft",
+                "album": "Shinigami"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Raindancer",
+                "album": "Shinigami"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Up & Down",
+                "album": "Shinigami"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Guardian",
+                "album": "Shinigami"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Arisen",
+                "album": "Arisen"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Qualm",
+                "album": "Qualm / Iscariot"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Iscariot",
+                "album": "Qualm / Iscariot"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Never Too Far",
+                "album": "Search of the Miraculous"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Lifedance",
+                "album": "Search of the Miraculous"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "No More Hesitation",
+                "album": "Search of the Miraculous"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Chronicle",
+                "album": "Hieroglyphics EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Cypher",
+                "album": "Hieroglyphics EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Lover's Charm",
+                "album": "Hieroglyphics EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Mourner",
+                "album": "Hieroglyphics EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Summer of Love",
+                "album": "Summer of Love EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "The Flighty Zeus",
+                "album": "Summer of Love EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Remininscence",
+                "album": "Broken Moments EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Dante's Journey",
+                "album": "Existence EP"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Existence",
+                "album": "Existence EP"
+            },
+            {
+                "artist": "Om Unit",
+                "name": "Nothing - Sorrow Remix",
+                "album": "Self (Remixes)"
+            },
+            {
+                "artist": "Submotion Orchestra",
+                "name": "In Gold - Sorrow Remix",
+                "album": "In Gold"
+            },
+            {
+                "artist": "Nowan",
+                "name": "Spirit - Sorrow Remix",
+                "album": "Osaka Sundown"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Distant Recall",
+                "album": "Project Mooncircle 10th Anniversary Compilation"
+            },
+            {
+                "artist": "Sorrow",
+                "name": "Siren's Echo",
+                "album": "Broken Bubble - Variety"
+            },
+            {
+                "artist": "Mr FijiWiji",
+                "name": "Yours Truly - Vacant Remix",
+                "album": "Yours Truly (The Remixes)"
+            },
+            {
+                "artist": "Vacant",
+                "name": "Flatline",
+                "album": "Origins"
+            },
+            {
+                "artist": "Vacant",
+                "name": "Ruins",
+                "album": "Origins"
+            },
+            {
+                "artist": "Vacant",
+                "name": "Origins",
+                "album": "Origins"
+            },
+            {
+                "artist": "Vacant",
+                "name": "Fearless",
+                "album": "Origins"
+            },
+            {
+                "artist": "Vacant",
+                "name": "Walkway",
+                "album": "Origins"
+            },
+            {
+                "artist": "Vacant",
+                "name": "Reality",
+                "album": "Origins"
+            }
+        ]
+    }
+]

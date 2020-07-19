@@ -1,0 +1,507 @@
+[
+    {
+        "name": "four tet & friends",
+        "songs": [
+            {
+                "artist": "Four Tet",
+                "name": "Locked",
+                "album": "Pink"
+            },
+            {
+                "artist": "Floating Points",
+                "name": "Nuits Sonores",
+                "album": "Nuits Sonores / Nectarines"
+            },
+            {
+                "artist": "Floating Points",
+                "name": "King Bromeliad",
+                "album": "King Bromeliad / Montparnasse"
+            },
+            {
+                "artist": "Floating Points",
+                "name": "Ratio - Edit",
+                "album": "Ratio (Radio Edit)"
+            },
+            {
+                "artist": "Floating Points",
+                "name": "ARP3",
+                "album": "Shadows"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "What's a Girl to Do",
+                "album": "A Girl Between Two Worlds"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Araya",
+                "album": "Araya"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Love Invaders",
+                "album": "Imaginary Lines"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Half Moon Rising",
+                "album": "A Girl Between Two Worlds"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Sooty Shearwater, King of Migration",
+                "album": "Imaginary Lines"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Emerald Rush",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Everything Connected",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Glue",
+                "album": "Bicep"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Aura",
+                "album": "Bicep"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Only of the Universe",
+                "album": "Imaginary Lines"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Open Eye Signal",
+                "album": "Immunity"
+            },
+            {
+                "artist": "Mano Le Tough",
+                "name": "Primative People - Tale Of Us Remix",
+                "album": "Changing Days Remixes"
+            },
+            {
+                "artist": "Fort Romeau",
+                "name": "Secrets & Lies",
+                "album": "Secrets & Lies"
+            },
+            {
+                "artist": "The Black Madonna",
+                "name": "We Can Never Be Apart",
+                "album": "Lady Of Sorrows"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Rise",
+                "album": "Stash"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "SW9 9SL",
+                "album": "New Energy"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Love Cry",
+                "album": "There Is Love in You (Expanded Edition)"
+            },
+            {
+                "artist": "Palms Trax",
+                "name": "Equation",
+                "album": "Equation"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Dahlia",
+                "album": "Dahlia Ep"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Opal - Four Tet Remix",
+                "album": "Opal (Four Tet Remix)"
+            },
+            {
+                "artist": "The Black Madonna",
+                "name": "He Is the Voice I Hear",
+                "album": "He Is the Voice I Hear"
+            },
+            {
+                "artist": "Palms Trax",
+                "name": "In Gold",
+                "album": "In Gold"
+            },
+            {
+                "artist": "Palms Trax",
+                "name": "Sumo Acid Crew",
+                "album": "In Gold"
+            },
+            {
+                "artist": "Marc Romboy",
+                "name": "Atlas - Adriatique Remix",
+                "album": "Atlas (Remixes)"
+            },
+            {
+                "artist": "Ten Walls",
+                "name": "Walking with Elephants",
+                "album": "Walking With Elephants"
+            },
+            {
+                "artist": "Eric Prydz",
+                "name": "Opus - Four Tet Remix",
+                "album": "Opus (Four Tet Remix)"
+            },
+            {
+                "artist": "The xx",
+                "name": "On Hold - Jamie xx Remix",
+                "album": "On Hold (Jamie xx Remix)"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Nova",
+                "album": "Will Saul presents: DJ-Kicks EP"
+            },
+            {
+                "artist": "Bonobo",
+                "name": "Recurring",
+                "album": "Nightlite"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Rain - Edit",
+                "album": "Rain EP"
+            },
+            {
+                "artist": "Joy Orbison",
+                "name": "Hyph Mngo",
+                "album": "Hyph Mngo"
+            },
+            {
+                "artist": "Palms Trax",
+                "name": "Outflight",
+                "album": "Dance 2017, Pt. 3"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Marilyn - Palms Trax Remix Radio Edit",
+                "album": "Marilyn (Palms Trax Remix)"
+            },
+            {
+                "artist": "Anthony Naples",
+                "name": "OTT",
+                "album": "OTT / ZTL"
+            },
+            {
+                "artist": "Todd Terje",
+                "name": "Jungelknugen - Four Tet Remix",
+                "album": "Jungelknugen (Remixes)"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Alberto Balsalm",
+                "album": "...I Care Because You Do"
+            },
+            {
+                "artist": "Joy Orbison",
+                "name": "The Shrew Would Have Cushioned The Blow",
+                "album": "The Shrew Would Have Cushioned The Blow"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Love Cry - Joy Orbison Remix",
+                "album": "There Is Love in You (Expanded Edition)"
+            },
+            {
+                "artist": "Leon Vynehall",
+                "name": "Paradisea",
+                "album": "Rojus (Designed To Dance)"
+            },
+            {
+                "artist": "Ejeca",
+                "name": "Jalek",
+                "album": "Contemplation EP"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Two Thousand and Seventeen",
+                "album": "New Energy"
+            },
+            {
+                "artist": "Pantha Du Prince",
+                "name": "Four Tet version of “Stick To My Side”",
+                "album": "XI versions of Black Noise"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Lush",
+                "album": "New Energy"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Just",
+                "album": "Just EP"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Fingerbib",
+                "album": "Richard D. James Album"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Sushi and Baklava",
+                "album": "A Girl Between Two Worlds"
+            },
+            {
+                "artist": "Fatima Yamaha",
+                "name": "Sazak Bay",
+                "album": "Imaginary Lines"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Everything Connected - Edit",
+                "album": "Everything Connected"
+            },
+            {
+                "artist": "Kölsch",
+                "name": "Grey",
+                "album": "Speicher 93"
+            },
+            {
+                "artist": "Simian Mobile Disco",
+                "name": "Sleep Deprivation",
+                "album": "Attack Decay Sustain Release"
+            },
+            {
+                "artist": "Stephan Bodzin",
+                "name": "Kerberos - Original Mix",
+                "album": "Kerberos & Styx"
+            },
+            {
+                "artist": "Pearson Sound",
+                "name": "Rubber Tree",
+                "album": "Pearson Sound"
+            },
+            {
+                "artist": "Maribou State",
+                "name": "Nervous Tics (feat. Holly Walker) - DJ Tennis Remix [Edit]",
+                "album": "Nervous Tics (feat. Holly Walker) (DJ Tennis Remix)"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "128 Harps - Anthony Naples Remix",
+                "album": "Pink Remixes"
+            },
+            {
+                "artist": "Anthony Naples",
+                "name": "Smacks",
+                "album": "Smacks"
+            },
+            {
+                "artist": "Anthony Naples",
+                "name": "Us Mix",
+                "album": "Us Mix"
+            },
+            {
+                "artist": "Lone",
+                "name": "Pulsar",
+                "album": "Pulsar"
+            },
+            {
+                "artist": "George FitzGerald",
+                "name": "Burns - Edit",
+                "album": "Burns (Edit)"
+            },
+            {
+                "artist": "Rhye",
+                "name": "Song For You - Jacques Greene Remix",
+                "album": "Song For You (Jacques Greene Remix)"
+            },
+            {
+                "artist": "Isaac Tichauer",
+                "name": "Higher Level - Bicep Remix",
+                "album": "Street Lessons Remixes EP"
+            },
+            {
+                "artist": "Charles Murdoch",
+                "name": "SSSS",
+                "album": "User Using"
+            },
+            {
+                "artist": "HWLS",
+                "name": "Epsilon",
+                "album": "EP02"
+            },
+            {
+                "artist": "Light Year",
+                "name": "Moderation - Original Mix",
+                "album": "Moderation"
+            },
+            {
+                "artist": "Sega Bodega",
+                "name": "3310",
+                "album": "Ess B"
+            },
+            {
+                "artist": "Daphni",
+                "name": "Face to Face",
+                "album": "Joli Mai"
+            },
+            {
+                "artist": "Bonobo",
+                "name": "Samurai",
+                "album": "Bambro Koyo Ganda"
+            },
+            {
+                "artist": "Bonobo",
+                "name": "No Reason",
+                "album": "Migration"
+            },
+            {
+                "artist": "Deep Desire",
+                "name": "Ascending",
+                "album": "Ascending"
+            },
+            {
+                "artist": "Bicep",
+                "name": "Winter",
+                "album": "313"
+            },
+            {
+                "artist": "Todd Terje",
+                "name": "Inspector Norse",
+                "album": "It's the Arps"
+            },
+            {
+                "artist": "Throwing Snow",
+                "name": "Paint By Numbers",
+                "album": "Axioms"
+            },
+            {
+                "artist": "George FitzGerald",
+                "name": "Roll Back - Single Mix",
+                "album": "Roll Back"
+            },
+            {
+                "artist": "Jacques Greene",
+                "name": "Convex Mirror",
+                "album": "Fever Focus"
+            },
+            {
+                "artist": "Joe Goddard",
+                "name": "Electric Lines",
+                "album": "Electric Lines (Bonus Edition)"
+            },
+            {
+                "artist": "Jacques Greene",
+                "name": "On Your Side - Full Version",
+                "album": "On Your Side"
+            },
+            {
+                "artist": "Daphni",
+                "name": "Tin",
+                "album": "Joli Mai"
+            },
+            {
+                "artist": "Daphni",
+                "name": "Ye Ye",
+                "album": "Jiaolong"
+            },
+            {
+                "artist": "Leon Vynehall",
+                "name": "Time",
+                "album": "Will Saul presents: DJ-Kicks EP"
+            },
+            {
+                "artist": "Maribou State",
+                "name": "Olivia",
+                "album": "Beginnings"
+            },
+            {
+                "artist": "Booka Shade",
+                "name": "In Velvet",
+                "album": "Rosebud"
+            },
+            {
+                "artist": "Stan Kolev",
+                "name": "Nu Moon",
+                "album": "Nu Moon"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Heliosphan",
+                "album": "Selected Ambient Works 85-92"
+            },
+            {
+                "artist": "Pantha Du Prince",
+                "name": "Bohemian Forest",
+                "album": "Black Noise"
+            },
+            {
+                "artist": "DJ Koze",
+                "name": "Planet Hase",
+                "album": "Knock Knock"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Apollo - Edit",
+                "album": "Essentials"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Together",
+                "album": "Essentials"
+            },
+            {
+                "artist": "Tourist",
+                "name": "Waves",
+                "album": "Essentials"
+            },
+            {
+                "artist": "George FitzGerald",
+                "name": "Burns - DJ Seinfeld Remix (Edit)",
+                "album": "Burns (DJ Seinfeld Remix)"
+            },
+            {
+                "artist": "Against All Logic",
+                "name": "Hopeless",
+                "album": "2012 - 2017"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Blurred",
+                "album": "Blurred"
+            },
+            {
+                "artist": "Bonobo",
+                "name": "Know You",
+                "album": "The North Borders"
+            },
+            {
+                "artist": "Bonobo",
+                "name": "Antenna",
+                "album": "The North Borders"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Lion",
+                "album": "Pink"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "128 Harps",
+                "album": "Pink"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Pyramid",
+                "album": "Pink"
+            }
+        ]
+    }
+]

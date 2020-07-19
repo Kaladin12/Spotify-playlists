@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Computer Programming",
+        "songs": [
+            {
+                "artist": "Loraine James",
+                "name": "Glitch Bitch",
+                "album": "For You and I"
+            },
+            {
+                "artist": "Andy Garvey",
+                "name": "Eternal Recurrence",
+                "album": "Eternal Recurrence"
+            },
+            {
+                "artist": "MagicFX",
+                "name": "Clarity",
+                "album": "Clarity"
+            },
+            {
+                "artist": "Beatrice Dillon",
+                "name": "Fluo",
+                "album": "Inkjet / Fluo"
+            },
+            {
+                "artist": "Tonic Walter",
+                "name": "A New World, Pt. 2",
+                "album": "A New World, Pt. 2"
+            },
+            {
+                "artist": "Nkisi",
+                "name": "I",
+                "album": "7 Directions"
+            },
+            {
+                "artist": "P.A.F.F.",
+                "name": "Paradise",
+                "album": "DETOUR"
+            },
+            {
+                "artist": "Kalbata",
+                "name": "The Town",
+                "album": "The Town"
+            },
+            {
+                "artist": "Marie Davidson",
+                "name": "Day Dreaming",
+                "album": "Working Class Woman"
+            },
+            {
+                "artist": "Bon-Psy",
+                "name": "Lucent",
+                "album": "Niya"
+            },
+            {
+                "artist": "Maya Jane Coles",
+                "name": "Don't Leave",
+                "album": "Don't Leave"
+            },
+            {
+                "artist": "Ex-Terrestrial",
+                "name": "Urth Man",
+                "album": "Urth Born"
+            },
+            {
+                "artist": "Lee Gamble",
+                "name": "Folding",
+                "album": "In a Paraventral Scale EP"
+            },
+            {
+                "artist": "Oneohtrix Point Never",
+                "name": "Love In The Time Of Lexapro",
+                "album": "Love In The Time Of Lexapro"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Southgate - DJ-Kicks",
+                "album": "Southgate"
+            },
+            {
+                "artist": "Darkstar",
+                "name": "Since There's Only You",
+                "album": "Since There's Only You"
+            },
+            {
+                "artist": "e k h o",
+                "name": "L'Alba Dei Morti",
+                "album": "La Baita"
+            },
+            {
+                "artist": "тпсб",
+                "name": "Matted Feathers",
+                "album": "Sekundenschlaf"
+            },
+            {
+                "artist": "Teebs",
+                "name": "Mapito",
+                "album": "OSCILLATIONS"
+            },
+            {
+                "artist": "Actress",
+                "name": "BLUE WINDOW",
+                "album": "AZD"
+            },
+            {
+                "artist": "Jon Hopkins",
+                "name": "Emerald Rush",
+                "album": "Singularity"
+            },
+            {
+                "artist": "Doon Kanda",
+                "name": "Molting",
+                "album": "Luna EP"
+            },
+            {
+                "artist": "Flame 1",
+                "name": "Fog",
+                "album": "Fog / Shrine"
+            },
+            {
+                "artist": "Goldie",
+                "name": "Inner City Life - Burial Remix",
+                "album": "Inner City Life 2017"
+            },
+            {
+                "artist": "Shlohmo",
+                "name": "Back House",
+                "album": "Bad Vibes: Rarities + Extras"
+            },
+            {
+                "artist": "Redshape",
+                "name": "Blink",
+                "album": "Blink"
+            },
+            {
+                "artist": "Ikonika",
+                "name": "Not",
+                "album": "Distractions"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Home Recording",
+                "album": "Cold Spring Fault Less Youth"
+            },
+            {
+                "artist": "Burial",
+                "name": "Rodent",
+                "album": "Rodent"
+            },
+            {
+                "artist": "Clark",
+                "name": "Silver Sun",
+                "album": "Flame Rave"
+            },
+            {
+                "artist": "Joy Orbison",
+                "name": "Hyph Mngo",
+                "album": "Hyph Mngo"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "Erase",
+                "album": "Fated"
+            },
+            {
+                "artist": "Maya Jane Coles",
+                "name": "Werk",
+                "album": "Weak / Werk"
+            },
+            {
+                "artist": "Actress",
+                "name": "Audio Track 5",
+                "album": "Audio Track 5"
+            },
+            {
+                "artist": "Nmesh",
+                "name": "心痛を受け入れます",
+                "album": "ロストエデンへのパス"
+            },
+            {
+                "artist": "Nicolas Jaar",
+                "name": "Fight",
+                "album": "Nymphs IV"
+            },
+            {
+                "artist": "Gold Panda",
+                "name": "Stolen Phone",
+                "album": "Kingdom"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Fall Out",
+                "album": "Cold Spring Fault Less Youth"
+            },
+            {
+                "artist": "Darkstar",
+                "name": "Deltaskelta",
+                "album": "Made To Measure"
+            },
+            {
+                "artist": "Remember",
+                "name": "Love Me",
+                "album": "Best of Dream Catalogue, 2814-2815"
+            },
+            {
+                "artist": "Mala",
+                "name": "Kotos",
+                "album": "Mirrors"
+            },
+            {
+                "artist": "Leon Vynehall",
+                "name": "English Oak (Chapter VII) - Edit",
+                "album": "English Oak"
+            },
+            {
+                "artist": "Dark Sky",
+                "name": "Shades",
+                "album": "Myriam"
+            },
+            {
+                "artist": "Working for a Nuclear Free City",
+                "name": "Je Suis Le Vent",
+                "album": "Businessmen & Ghosts"
+            },
+            {
+                "artist": "Sporting Life",
+                "name": "Space Jam Money",
+                "album": "Slam Dunk Vol. I"
+            },
+            {
+                "artist": "Working for a Nuclear Free City",
+                "name": "Float Bridges",
+                "album": "Jojo Burger Tempest"
+            },
+            {
+                "artist": "DJTL",
+                "name": "Deep House",
+                "album": "Mambos Levis D'Outro Mundo"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Taps",
+                "album": "Maybes"
+            },
+            {
+                "artist": "Pearson Sound",
+                "name": "Thaw Cycle",
+                "album": "Thaw Cycle"
+            },
+            {
+                "artist": "Burial",
+                "name": "Shell of Light",
+                "album": "Hyperdub 10.2"
+            },
+            {
+                "artist": "Clark",
+                "name": "Inf Inf Inf Inf",
+                "album": "A Badman Sound / Heath Town / Inf Inf Inf Inf"
+            },
+            {
+                "artist": "R23X",
+                "name": "Airship",
+                "album": "Best of Dream Catalogue, 2814-2815"
+            },
+            {
+                "artist": "Jacques Greene",
+                "name": "Arrow",
+                "album": "Concealer"
+            },
+            {
+                "artist": "LITE",
+                "name": "Between Us",
+                "album": "Installation"
+            },
+            {
+                "artist": "Marley Carroll",
+                "name": "Woodwork",
+                "album": "Woodwork"
+            },
+            {
+                "artist": "Cooly G",
+                "name": "Right Back",
+                "album": "Get It (Part 1)"
+            },
+            {
+                "artist": "Daniel Avery",
+                "name": "Sensation (Rrose Remix) - mixed",
+                "album": "DJ-Kicks (Daniel Avery) [Mixed Tracks]"
+            },
+            {
+                "artist": "サイバー '98",
+                "name": "Rain",
+                "album": "Best of Dream Catalogue, 2814-2815"
+            },
+            {
+                "artist": "Burial",
+                "name": "South London Boroughs",
+                "album": "South London Boroughs"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "N R 2",
+                "album": "NO REALITY"
+            },
+            {
+                "artist": "Laurel Halo",
+                "name": "Drift",
+                "album": "In Situ"
+            },
+            {
+                "artist": "t e l e p a t h テレパシー能力者",
+                "name": "柔らかい唇",
+                "album": "Best of Dream Catalogue, 2814-2815"
+            },
+            {
+                "artist": "Burial",
+                "name": "Etched Headplate",
+                "album": "Untrue"
+            },
+            {
+                "artist": "The Appleseed Cast",
+                "name": "Like a Locust",
+                "album": "Sagarmatha"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Break Well",
+                "album": "Cold Spring Fault Less Youth"
+            },
+            {
+                "artist": "Fatima Al Qadiri",
+                "name": "Aftermath",
+                "album": "Brute"
+            },
+            {
+                "artist": "Doon Kanda",
+                "name": "Axolotl",
+                "album": "Heart EP"
+            },
+            {
+                "artist": "Cooly G",
+                "name": "Narst",
+                "album": "Need You / Squeeze My Lime"
+            },
+            {
+                "artist": "Clark",
+                "name": "Springtime Linn",
+                "album": "Flame Rave"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "Light #5",
+                "album": "Fated"
+            },
+            {
+                "artist": "Burial",
+                "name": "Lambeth",
+                "album": "Hyperdub 10.4"
+            },
+            {
+                "artist": "Dean Blunt",
+                "name": "Urban",
+                "album": "Hyperdub 10.3"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "Let You",
+                "album": "Fated"
+            },
+            {
+                "artist": "Burial",
+                "name": "Loner",
+                "album": "Kindred EP"
+            },
+            {
+                "artist": "Bitcrush",
+                "name": "Drop Entitled",
+                "album": "In Distance"
+            },
+            {
+                "artist": "t e l e p a t h テレパシー能力者",
+                "name": "愛慕",
+                "album": "愛慕 / 悲哀"
+            },
+            {
+                "artist": "Port-Royal",
+                "name": "Eva Green",
+                "album": "2000-2010: The Golden Age of Consumerism"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "Medic",
+                "album": "Fated"
+            },
+            {
+                "artist": "Burial",
+                "name": "Kindred",
+                "album": "Kindred EP"
+            },
+            {
+                "artist": "Burial",
+                "name": "Shell of Light",
+                "album": "Untrue"
+            },
+            {
+                "artist": "２８１４",
+                "name": "恢复",
+                "album": "Best of Dream Catalogue, 2814-2815"
+            },
+            {
+                "artist": "Clark",
+                "name": "There’s A Distance In You",
+                "album": "Clark"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Ruby",
+                "album": "Crooks & Lovers"
+            },
+            {
+                "artist": "Gold Panda",
+                "name": "Brazil",
+                "album": "Half Of Where You Live"
+            },
+            {
+                "artist": "Teebs",
+                "name": "Piano Months",
+                "album": "E s t a r a"
+            },
+            {
+                "artist": "Darkstar",
+                "name": "Gold (John Roberts Remix)",
+                "album": "Hyperdub 10.4"
+            },
+            {
+                "artist": "Mount Kimbie",
+                "name": "Carbonated",
+                "album": "Crooks & Lovers"
+            },
+            {
+                "artist": "Actress",
+                "name": "THERE’S AN ANGEL IN THE SHOWER",
+                "album": "AZD"
+            },
+            {
+                "artist": "Koreless",
+                "name": "MTI",
+                "album": "4D"
+            },
+            {
+                "artist": "Burial",
+                "name": "Broken Home",
+                "album": "Burial"
+            },
+            {
+                "artist": "Walton",
+                "name": "City Of God",
+                "album": "Hyperdub 10.3"
+            },
+            {
+                "artist": "Teebs",
+                "name": "Verbena Tea with Rebekah Raff",
+                "album": "Collections 01"
+            },
+            {
+                "artist": "Carsten Jost",
+                "name": "Atlantis II",
+                "album": "Perishable Tactics"
+            },
+            {
+                "artist": "Nosaj Thing",
+                "name": "N R 5",
+                "album": "NO REALITY"
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Plastic People",
+                "album": "There Is Love In You"
+            },
+            {
+                "artist": "VAPERROR",
+                "name": "Transmission",
+                "album": "Best of Dream Catalogue, 2814-2815"
+            },
+            {
+                "artist": "Loraine James",
+                "name": "Hand Drops",
+                "album": "For You and I"
+            },
+            {
+                "artist": "toe",
+                "name": "Two Moons",
+                "album": "For Long Tomorrow"
+            },
+            {
+                "artist": "Daedelus",
+                "name": "Sawtooth EKG",
+                "album": "Denies the Day's Demise"
+            },
+            {
+                "artist": "Jan Jelinek",
+                "name": "Rock In The Video Age",
+                "album": "Loop-Finding-Jazz-Records"
+            }
+        ]
+    }
+]

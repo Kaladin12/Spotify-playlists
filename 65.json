@@ -1,0 +1,507 @@
+[
+    {
+        "name": "IDM",
+        "songs": [
+            {
+                "artist": "Aphex Twin",
+                "name": "On",
+                "album": "On"
+            },
+            {
+                "artist": "µ-Ziq",
+                "name": "Brace Yourself Jason",
+                "album": "Lunatic Harness"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Everything You Do Is A Balloon",
+                "album": "Hi Scores"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Bike",
+                "album": "Incunabula"
+            },
+            {
+                "artist": "Jega",
+                "name": "Geometry",
+                "album": "Geometry"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "A Journey To Reedham (7am Mix)",
+                "album": "Big Loada"
+            },
+            {
+                "artist": "Plaid",
+                "name": "Object Orient",
+                "album": "Bytes"
+            },
+            {
+                "artist": "Speedy J",
+                "name": "De-Orbit",
+                "album": "Artificial Intelligence"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Flutter",
+                "album": "Anti"
+            },
+            {
+                "artist": "Bola",
+                "name": "Vespers",
+                "album": "Mauver"
+            },
+            {
+                "artist": "The Black Dog",
+                "name": "Further Harm",
+                "album": "Spanners"
+            },
+            {
+                "artist": "Oval",
+                "name": "Aero Deck",
+                "album": "Systemisch"
+            },
+            {
+                "artist": "Pole",
+                "name": "Stadt",
+                "album": "1 2 3"
+            },
+            {
+                "artist": "Phonem",
+                "name": "Currents (220v Offshore)",
+                "album": "Hydro Electric"
+            },
+            {
+                "artist": "Brothomstates",
+                "name": "Viimo",
+                "album": "Claro"
+            },
+            {
+                "artist": "Casino Versus Japan",
+                "name": "Local Forecast",
+                "album": "Go Hawaii"
+            },
+            {
+                "artist": "Isan",
+                "name": "Paintchart",
+                "album": "Beautronics Plus"
+            },
+            {
+                "artist": "Mouse On Mars",
+                "name": "Bib",
+                "album": "Iaora Tahiti"
+            },
+            {
+                "artist": "B12",
+                "name": "Telefone 529",
+                "album": "Electro Soma"
+            },
+            {
+                "artist": "Jan Jelinek",
+                "name": "Tendency",
+                "album": "Loop-Finding-Jazz-Records"
+            },
+            {
+                "artist": "Gimmik",
+                "name": "Wavefiles",
+                "album": "Slow Motion Process"
+            },
+            {
+                "artist": "Two Lone Swordsmen",
+                "name": "As Worldly Pleasures Wave Goodbye….",
+                "album": "Stay Down"
+            },
+            {
+                "artist": "Monolake",
+                "name": "Macau",
+                "album": "Hongkong Remastered"
+            },
+            {
+                "artist": "Biosphere",
+                "name": "Midpoint",
+                "album": "Birmingham Frequencies"
+            },
+            {
+                "artist": "The Living Room",
+                "name": "Armchair Education",
+                "album": "The Living Room [Sampler] (feat. Orlando Voorn)"
+            },
+            {
+                "artist": "Neotropic",
+                "name": "Vacetious Blooms",
+                "album": "Funkungfusion"
+            },
+            {
+                "artist": "Murcof",
+                "name": "Memoria",
+                "album": "Martes"
+            },
+            {
+                "artist": "Clatterbox",
+                "name": "Bad Means Good",
+                "album": "Debut"
+            },
+            {
+                "artist": "John Beltran",
+                "name": "Ten Days Of Blue",
+                "album": "Ten Days Of Blue"
+            },
+            {
+                "artist": "Ital",
+                "name": "Digi Dub",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "John Wizards",
+                "name": "Lushoto (¬µ-Ziq Remix)",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "µ-Ziq",
+                "name": "Cherk",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "Jega",
+                "name": "103",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "DB",
+                "name": "Orisphee",
+                "album": "030303"
+            },
+            {
+                "artist": "Boards of Canada",
+                "name": "Orange Romeda",
+                "album": "We Are Reasonable People"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Stop Look Listen",
+                "album": "We Are Reasonable People"
+            },
+            {
+                "artist": "Remano Eszildn",
+                "name": "Contax",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "Holy Other",
+                "name": "Know Where",
+                "album": "With U"
+            },
+            {
+                "artist": "Ambulance",
+                "name": "Circlette",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "Slag Boom Van Loon",
+                "name": "Spc-ch-pn (¬µ-Ziq Remix)",
+                "album": "So Soon"
+            },
+            {
+                "artist": "Slag Boom Van Loon",
+                "name": "Light of India (M√∫m Remix)",
+                "album": "So Soon"
+            },
+            {
+                "artist": "San Soda",
+                "name": "Juno Love",
+                "album": "Immers & Daarentegen"
+            },
+            {
+                "artist": "Gescom",
+                "name": "Key nell 1",
+                "album": "Key nell"
+            },
+            {
+                "artist": "Ekoplekz",
+                "name": "Detroit",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "Kuedo",
+                "name": "Slow Knife",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "Kid Spatula",
+                "name": "Come On Board",
+                "album": "Full Sunken Breaks"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "Beep Street",
+                "album": "Hard Normal Daddy"
+            },
+            {
+                "artist": "Richard Devine",
+                "name": "Randale",
+                "album": "asect:dsect"
+            },
+            {
+                "artist": "Jega",
+                "name": "Inertia",
+                "album": "Geometry"
+            },
+            {
+                "artist": "Proem",
+                "name": "Deep Like Airline Failure",
+                "album": "Socially Inept"
+            },
+            {
+                "artist": "Proem",
+                "name": "Ssh/ell Awaits",
+                "album": "You Shall Have Ever Been"
+            },
+            {
+                "artist": "Proem",
+                "name": "We Are Going to Let You Go",
+                "album": "Among Others"
+            },
+            {
+                "artist": "Flying Lotus",
+                "name": "Auntie's Lock/Infinitum",
+                "album": "Los Angeles"
+            },
+            {
+                "artist": "Claude Speeed",
+                "name": "Center Tech",
+                "album": "¬µ20: 20 Years of Planet Mu"
+            },
+            {
+                "artist": "Sense",
+                "name": "Ex T Nerla",
+                "album": "Learning to Be"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Montreal",
+                "album": "Amber"
+            },
+            {
+                "artist": "Bola",
+                "name": "Forcasa 1",
+                "album": "Soup"
+            },
+            {
+                "artist": "Brothomstates",
+                "name": "Adozenaday",
+                "album": "Qtio"
+            },
+            {
+                "artist": "Susumu Yokota",
+                "name": "Genshi",
+                "album": "Sakura"
+            },
+            {
+                "artist": "Yasume",
+                "name": "2112 Crescent Heights",
+                "album": "Where We're From The Birds Sing A Pretty Song"
+            },
+            {
+                "artist": "Freescha",
+                "name": "Boyrgurl",
+                "album": "Kids Fill the Floor"
+            },
+            {
+                "artist": "Autechre",
+                "name": "Altibzz",
+                "album": "Quaristice"
+            },
+            {
+                "artist": "Milieu",
+                "name": "Forest - Fast Edit",
+                "album": "Remodelled"
+            },
+            {
+                "artist": "CIM",
+                "name": "Shift",
+                "album": "Do Not Multiply Models"
+            },
+            {
+                "artist": "Seefeel",
+                "name": "Time To Find Me (AFX Fast Mix)",
+                "album": "Pure, Impure"
+            },
+            {
+                "artist": "Ametsub",
+                "name": "Precipice Drive",
+                "album": "All Is Silence"
+            },
+            {
+                "artist": "Cepia",
+                "name": "Hoarse",
+                "album": "Natura Morta"
+            },
+            {
+                "artist": "Arovane",
+                "name": "Instant Gods Out Of The Box",
+                "album": "Lilies"
+            },
+            {
+                "artist": "Proem",
+                "name": "Place Gun to Head",
+                "album": "Socially Inept"
+            },
+            {
+                "artist": "Cex",
+                "name": "Theme Song To Cex",
+                "album": "Role Model"
+            },
+            {
+                "artist": "Seefeel",
+                "name": "Climatic Phase No.3",
+                "album": "Quique"
+            },
+            {
+                "artist": "Mungolian Jetset",
+                "name": "Mungolian Jetset presents Jaga Jazzist vs Knights Of Jumungus: Toccata",
+                "album": "Mungodelics"
+            },
+            {
+                "artist": "Mike & Rich",
+                "name": "Brivert & Muonds",
+                "album": "Expert Knob Twiddlers"
+            },
+            {
+                "artist": "Oneohtrix Point Never",
+                "name": "Parallel Minds",
+                "album": "Rifts"
+            },
+            {
+                "artist": "Aphex Twin",
+                "name": "Xtal",
+                "album": "Selected Ambient Works 85-92"
+            },
+            {
+                "artist": "Ulrich Schnauss",
+                "name": "Knuddelmaus",
+                "album": "Far Away Trains Passing By"
+            },
+            {
+                "artist": "Mrs Jynx",
+                "name": "Dusty",
+                "album": "The Standoffish Cat"
+            },
+            {
+                "artist": "Metamatics",
+                "name": "Giant Sunflowers Swaying In The Wind",
+                "album": "From Death To Passwords"
+            },
+            {
+                "artist": "Œº-Ziq",
+                "name": "Fall of Antioch",
+                "album": "Bilious Paths"
+            },
+            {
+                "artist": "Lexaunculpt",
+                "name": "Has Been Trying Not To Wonder",
+                "album": "The Blurring Of the Trees"
+            },
+            {
+                "artist": "Tomáš Dvořák",
+                "name": "The Bottom",
+                "album": "Machinarium Soundtrack"
+            },
+            {
+                "artist": "Modeselektor",
+                "name": "Shipwreck",
+                "album": "Monkeytown"
+            },
+            {
+                "artist": "Plastikman",
+                "name": "Pakard",
+                "album": "Artifakts (BC)"
+            },
+            {
+                "artist": "Datach'i",
+                "name": "Sick Face",
+                "album": "System"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "Concept 11",
+                "album": "Still Life"
+            },
+            {
+                "artist": "Kodomo",
+                "name": "Concept 16",
+                "album": "Still Life"
+            },
+            {
+                "artist": "Patricia",
+                "name": "Hadal Zone",
+                "album": "Bem Inventory"
+            },
+            {
+                "artist": "Betonkust",
+                "name": "24x33",
+                "album": "Center Parcs"
+            },
+            {
+                "artist": "Casino Versus Japan",
+                "name": "Marilyn Set Me Free",
+                "album": "Hitori + Kaiso (1998 - 2001)"
+            },
+            {
+                "artist": "B12",
+                "name": "Void/Comm",
+                "album": "Time Tourist"
+            },
+            {
+                "artist": "Two Lone Swordsmen",
+                "name": "Ivy and Lead",
+                "album": "Stay Down"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "Papalon",
+                "album": "Hard Normal Daddy"
+            },
+            {
+                "artist": "Polygon Window",
+                "name": "Polygon Window",
+                "album": "Surfing On Sine Waves"
+            },
+            {
+                "artist": "Polygon Window",
+                "name": "Portreath Harbour",
+                "album": "Surfing On Sine Waves"
+            },
+            {
+                "artist": "Phonem",
+                "name": "Mainframe (1040 Ste)",
+                "album": "Hydro Electric"
+            },
+            {
+                "artist": "sun electric",
+                "name": "Stimpak",
+                "album": "Present"
+            },
+            {
+                "artist": "µ-Ziq",
+                "name": "Ritm",
+                "album": "XTLP"
+            },
+            {
+                "artist": "Kuedo",
+                "name": "Whisper Fate",
+                "album": "Severant"
+            },
+            {
+                "artist": "Kuedo",
+                "name": "Hourglass",
+                "album": "Slow Knife"
+            },
+            {
+                "artist": "Slag Boom Van Loon",
+                "name": "Sutedja",
+                "album": "Slag Boom Van Loon"
+            }
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Deutsche Poesie",
+        "songs": [
+            {
+                "artist": "Belgrad",
+                "name": "Niemand",
+                "album": "Niemand"
+            },
+            {
+                "artist": "Buntspecht",
+                "name": "Unter den Masken",
+                "album": "Draußen im Kopf"
+            },
+            {
+                "artist": "Das Paradies",
+                "name": "Du, die anderen und ich",
+                "album": "Goldene Zukunft"
+            },
+            {
+                "artist": "Alex Mayr",
+                "name": "Deine Schuhe",
+                "album": "Wann fangen wir an?"
+            },
+            {
+                "artist": "Felix Kramer",
+                "name": "Trotzdem nix woan",
+                "album": "Wahrnehmungssache"
+            },
+            {
+                "artist": "Mine",
+                "name": "Romcom",
+                "album": "Romcom"
+            },
+            {
+                "artist": "Search Yiu",
+                "name": "Perfekter Tag",
+                "album": "Halt mich wach"
+            },
+            {
+                "artist": "Gisbert Zu Knyphausen",
+                "name": "Melancholie",
+                "album": "Hurra Hurra So Nicht"
+            },
+            {
+                "artist": "Maxim",
+                "name": "Marseille",
+                "album": "Marseille"
+            },
+            {
+                "artist": "Dota Kehr",
+                "name": "Neonlicht",
+                "album": "Die extra Freiheit"
+            },
+            {
+                "artist": "Faber",
+                "name": "Sei ein Faber im Wind",
+                "album": "Sei ein Faber im Wind"
+            },
+            {
+                "artist": "Tua",
+                "name": "Wenn ich gehen muss",
+                "album": "Tua"
+            },
+            {
+                "artist": "Kaltenkirchen",
+                "name": "Gehst du davon",
+                "album": "Gehst du davon"
+            },
+            {
+                "artist": "Das Moped",
+                "name": "Bei Dir",
+                "album": "Alle wollen Liebe"
+            },
+            {
+                "artist": "Fayzen",
+                "name": "Von ganz allein",
+                "album": "Von ganz allein"
+            },
+            {
+                "artist": "Tom Hauser",
+                "name": "Guter Grund",
+                "album": "Guter Grund"
+            },
+            {
+                "artist": "Gisbert Zu Knyphausen",
+                "name": "Das Licht Dieser Welt",
+                "album": "Das Licht Dieser Welt"
+            },
+            {
+                "artist": "Maxim",
+                "name": "Alter Freund",
+                "album": "Alter Freund"
+            },
+            {
+                "artist": "Dota Kehr",
+                "name": "Auf eine Leierkastenmelodie",
+                "album": "Kaléko"
+            },
+            {
+                "artist": "AnnenMayKantereit",
+                "name": "Weiße Wand",
+                "album": "Schlagschatten"
+            },
+            {
+                "artist": "Max Prosa",
+                "name": "Mein Raumschiff",
+                "album": "Heimkehr"
+            },
+            {
+                "artist": "Fortuna Ehrenfeld",
+                "name": "Zwei Himmel",
+                "album": "Das Ende der Coolness, Vol. 2"
+            },
+            {
+                "artist": "Das Moped",
+                "name": "Das ist gut",
+                "album": "Das ist gut"
+            },
+            {
+                "artist": "Von Wegen Lisbeth",
+                "name": "Am wenigsten zu sagen",
+                "album": "sweetlilly93@hotmail.com"
+            },
+            {
+                "artist": "BRUCKNER",
+                "name": "Für immer hier - Zuhause Session",
+                "album": "Für immer hier (Zuhause Session)"
+            },
+            {
+                "artist": "Gisbert Zu Knyphausen",
+                "name": "Dich Zu Lieben Ist Einfach",
+                "album": "Das Licht Dieser Welt"
+            },
+            {
+                "artist": "Alin Coen",
+                "name": "Entflammbar",
+                "album": "Entflammbar"
+            },
+            {
+                "artist": "Steiner & Madlaina",
+                "name": "Groß geträumt",
+                "album": "Cheers"
+            },
+            {
+                "artist": "Moddi",
+                "name": "Haus am Meer",
+                "album": "Haus am Meer"
+            },
+            {
+                "artist": "Enno Bunger",
+                "name": "Regen - Akustik Version",
+                "album": "Herzen Auf Links"
+            },
+            {
+                "artist": "BLINKER",
+                "name": "Strange",
+                "album": "Blicke (EP)"
+            },
+            {
+                "artist": "Paul Weber",
+                "name": "Was sind wir geworden?",
+                "album": "Was sind wir geworden?"
+            },
+            {
+                "artist": "Clueso",
+                "name": "Erinnerungen",
+                "album": "Neuanfang (Deluxe Edition)"
+            },
+            {
+                "artist": "Luisa Babarro",
+                "name": "Auf Papier",
+                "album": "Ich bin eine Andere"
+            },
+            {
+                "artist": "Provinz",
+                "name": "Augen sind rot",
+                "album": "Augen sind rot"
+            },
+            {
+                "artist": "Alin Coen",
+                "name": "Du machst nichts",
+                "album": "Du machst nichts"
+            },
+            {
+                "artist": "Casper",
+                "name": "Meine Kündigung",
+                "album": "Lang lebe der Tod"
+            },
+            {
+                "artist": "Lina Maly",
+                "name": "Immer immer wieder",
+                "album": "Immer immer wieder"
+            },
+            {
+                "artist": "AnnenMayKantereit",
+                "name": "In meinem Bett",
+                "album": "Schlagschatten"
+            },
+            {
+                "artist": "Anna Depenbusch",
+                "name": "Nimm mich zurück",
+                "album": "Nimm mich zurück"
+            },
+            {
+                "artist": "KLAN",
+                "name": "Dinge, die man nicht sieht",
+                "album": "Wann hast du Zeit?"
+            },
+            {
+                "artist": "klangheimlich",
+                "name": "Bis zum Himmel",
+                "album": "Feldweg"
+            },
+            {
+                "artist": "Maxim",
+                "name": "Wie man loslässt",
+                "album": "Wie man loslässt"
+            },
+            {
+                "artist": "Tiemo Hauer",
+                "name": "Sie laufen",
+                "album": "Sie laufen"
+            },
+            {
+                "artist": "Alin Coen",
+                "name": "Bei Dir",
+                "album": "Bei Dir"
+            },
+            {
+                "artist": "Haller",
+                "name": "Junge",
+                "album": "Junge"
+            },
+            {
+                "artist": "Mister Me",
+                "name": "Zeit bleibt Zeit",
+                "album": "Zeit bleibt Zeit"
+            },
+            {
+                "artist": "Louka",
+                "name": "Vorübergehen - Akustik Version",
+                "album": "Vorübergehen (Akustik Version)"
+            },
+            {
+                "artist": "JEREMIAS",
+                "name": "Grüne Augen lügen nicht",
+                "album": "Grüne Augen lügen nicht"
+            },
+            {
+                "artist": "KLAN",
+                "name": "Tut mir leid",
+                "album": "Tut mir leid"
+            }
+        ]
+    }
+]

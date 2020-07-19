@@ -1,0 +1,507 @@
+[
+    {
+        "name": "A Quiet Life",
+        "songs": [
+            {
+                "artist": "Vincent Adara",
+                "name": "High Blue",
+                "album": "High Blue"
+            },
+            {
+                "artist": "Grateful Dead",
+                "name": "Peggy-O - Live at Winterland, 10/22/1978",
+                "album": "Complete Road Trips"
+            },
+            {
+                "artist": "Squarepusher",
+                "name": "Iambic 9 Poetry",
+                "album": "Ultravisitor"
+            },
+            {
+                "artist": "Me and My Friends",
+                "name": "Leave My Bones - Bear Remix",
+                "album": "Leave My Bones"
+            },
+            {
+                "artist": "Yellow Ostrich",
+                "name": "Mary",
+                "album": "The Mistress"
+            },
+            {
+                "artist": "Feist",
+                "name": "Mushaboom",
+                "album": "Let It Die"
+            },
+            {
+                "artist": "Röyksopp",
+                "name": "Sparks",
+                "album": "Melody A.M."
+            },
+            {
+                "artist": "Four Tet",
+                "name": "Two Thousand and Seventeen",
+                "album": "New Energy"
+            },
+            {
+                "artist": "Allen Toussaint",
+                "name": "Blue Drag",
+                "album": "The Bright Mississippi"
+            },
+            {
+                "artist": "Teho Teardo",
+                "name": "A Quiet Life",
+                "album": "Still Smiling"
+            },
+            {
+                "artist": "Explosions In The Sky",
+                "name": "First Breath After Coma",
+                "album": "The Earth Is Not A Cold Dead Place"
+            },
+            {
+                "artist": "Nicolas Jaar",
+                "name": "Muse",
+                "album": "Pomegranates"
+            },
+            {
+                "artist": "Dominik Eulberg",
+                "name": "Große Hufeisennase (Original Mix)",
+                "album": "Chiroptera"
+            },
+            {
+                "artist": "Röyksopp",
+                "name": "What Else Is There ?",
+                "album": "The Understanding"
+            },
+            {
+                "artist": "Dirty Gold",
+                "name": "The Quiet Life",
+                "album": "Roar"
+            },
+            {
+                "artist": "Youth Lagoon",
+                "name": "17",
+                "album": "The Year Of Hibernation"
+            },
+            {
+                "artist": "Maybeshewill",
+                "name": "Waking Life",
+                "album": "Fair Youth"
+            },
+            {
+                "artist": "One Hour Before The Trip",
+                "name": "Vagabond",
+                "album": "One Hour Before The Trip_#2"
+            },
+            {
+                "artist": "Explosions In The Sky",
+                "name": "So Long, Lonesome",
+                "album": "All of a Sudden I Miss Everyone"
+            },
+            {
+                "artist": "Mogwai",
+                "name": "Take Me Somewhere Nice",
+                "album": "Rock Action"
+            },
+            {
+                "artist": "Godspeed You! Black Emperor",
+                "name": "Storm",
+                "album": "Lift Your Skinny Fists Like Antennas to Heaven"
+            },
+            {
+                "artist": "Parades",
+                "name": "Marigold",
+                "album": "Foreign Tapes"
+            },
+            {
+                "artist": "Austra",
+                "name": "Lose It",
+                "album": "Feel It Break (Deluxe Edition)"
+            },
+            {
+                "artist": "Cinnamon Chasers",
+                "name": "Luv Deluxe - Extended Album Version",
+                "album": "Luv Deluxe Remixes"
+            },
+            {
+                "artist": "Burial",
+                "name": "Shell Of Light (Shlohmo Remix)",
+                "album": "Burial & Four Tet"
+            },
+            {
+                "artist": "Françoise Hardy",
+                "name": "Le temps de l’amour",
+                "album": "Some Winter Dreams"
+            },
+            {
+                "artist": "Air",
+                "name": "Playground Love",
+                "album": "Reel Classics"
+            },
+            {
+                "artist": "Burial",
+                "name": "Ghost Hardware",
+                "album": "Untrue"
+            },
+            {
+                "artist": "Bibio",
+                "name": "lovers’ carvings",
+                "album": "Ambivalence Avenue"
+            },
+            {
+                "artist": "Eagles & Butterflies",
+                "name": "Paravana - Basti Grub Remix",
+                "album": "The Butterfly Effect (Remixes)"
+            },
+            {
+                "artist": "Moderat",
+                "name": "Milk",
+                "album": "II"
+            },
+            {
+                "artist": "Télépopmusik",
+                "name": "Breathe",
+                "album": "Dancefloor FG 100"
+            },
+            {
+                "artist": "Kiasmos",
+                "name": "Looped",
+                "album": "Faze #45: Butch"
+            },
+            {
+                "artist": "Rare Bird",
+                "name": "Passing Through",
+                "album": "Born Again"
+            },
+            {
+                "artist": "Little River Band",
+                "name": "Light Of Day",
+                "album": "LateNightTales"
+            },
+            {
+                "artist": "Vangelis",
+                "name": "Blade Runner Blues",
+                "album": "Blade Runner (Orchestral Adaptation Of Music Composed For The Motion Picture By Vangelis)"
+            },
+            {
+                "artist": "Jóhann Jóhannsson",
+                "name": "Odi Et Amo",
+                "album": "Englabörn"
+            },
+            {
+                "artist": "DARKSIDE",
+                "name": "Paper Trails",
+                "album": "Psychic"
+            },
+            {
+                "artist": "Nicolas Jaar",
+                "name": "El Bandido",
+                "album": "Significant Others"
+            },
+            {
+                "artist": "Flume",
+                "name": "Holdin On",
+                "album": "The Electronic Music Anthology : Trip-Hop"
+            },
+            {
+                "artist": "All The Luck In The World",
+                "name": "Never",
+                "album": "All the Luck in the World"
+            },
+            {
+                "artist": "Savages",
+                "name": "You're My Chocolate",
+                "album": "Five Finger Discount"
+            },
+            {
+                "artist": "Audiopharmacy",
+                "name": "Ruined Lands",
+                "album": "Spare Change"
+            },
+            {
+                "artist": "Glen Porter",
+                "name": "Planet Munderscore",
+                "album": "The Open Road and The Smell Of Blood"
+            },
+            {
+                "artist": "Hugo Kant",
+                "name": "In the Woods",
+                "album": "The Point of No Return"
+            },
+            {
+                "artist": "Koloto",
+                "name": "Cedar Shed",
+                "album": "Mechanica"
+            },
+            {
+                "artist": "Guts",
+                "name": "Come closer",
+                "album": "Paradise For All"
+            },
+            {
+                "artist": "Skinshape",
+                "name": "Live by the Day",
+                "album": "Skinshape"
+            },
+            {
+                "artist": "Young Empires",
+                "name": "Earth Plates Are Shifting",
+                "album": "Wake All My Youth"
+            },
+            {
+                "artist": "Flight Facilities",
+                "name": "Crave You Ft. Giselle",
+                "album": "Offspring: Music From The Hit Series"
+            },
+            {
+                "artist": "Moss",
+                "name": "I Apologise (Dear Simon)",
+                "album": "Never Be Scared / Don't Be A Hero"
+            },
+            {
+                "artist": "Burial & Four Tet",
+                "name": "Moth",
+                "album": "Burial & Four Tet"
+            },
+            {
+                "artist": "Local Natives",
+                "name": "Who Knows Who Cares",
+                "album": "Gorilla Manor"
+            },
+            {
+                "artist": "Mumford & Sons",
+                "name": "Little Lion Man",
+                "album": "Sigh No More"
+            },
+            {
+                "artist": "The Brothers Four",
+                "name": "Greenfields",
+                "album": "Cultural Roots"
+            },
+            {
+                "artist": "The Handsome Family",
+                "name": "Far From Any Road",
+                "album": "True Detective (Music From The HBO Series)"
+            },
+            {
+                "artist": "The Coral",
+                "name": "Dreaming of You",
+                "album": "Singles Collection"
+            },
+            {
+                "artist": "Ariel Pink",
+                "name": "Not Enough Violence",
+                "album": "pom pom"
+            },
+            {
+                "artist": "Helene Smith",
+                "name": "True Love Don't Grow on Trees",
+                "album": "Eccentric Soul: The Outskirts Of Deep City"
+            },
+            {
+                "artist": "Mazzy Star",
+                "name": "Look On Down From The Bridge",
+                "album": "Among My Swan"
+            },
+            {
+                "artist": "Arctic Monkeys",
+                "name": "Mardy Bum",
+                "album": "Whatever People Say I Am, That's What I'm Not"
+            },
+            {
+                "artist": "Broken Bells",
+                "name": "The High Road",
+                "album": "Broken Bells"
+            },
+            {
+                "artist": "alt-J",
+                "name": "Breezeblocks",
+                "album": "An Awesome Wave"
+            },
+            {
+                "artist": "Nick Cave & The Bad Seeds",
+                "name": "Higgs Boson Blues",
+                "album": "Push the Sky Away (Deluxe Edition)"
+            },
+            {
+                "artist": "Carter Burwell",
+                "name": "Prologue",
+                "album": "In Bruges (Original Motion Picture Soundtrack)"
+            },
+            {
+                "artist": "Ferrante & Teicher",
+                "name": "In the Rain",
+                "album": "How High the Moon (Hall of Fame)"
+            },
+            {
+                "artist": "Amy Winehouse",
+                "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+                "album": "Back To Black (Deluxe Edition)"
+            },
+            {
+                "artist": "Boat Club",
+                "name": "Nowhere",
+                "album": "Caught the Breeze"
+            },
+            {
+                "artist": "Vondelpark",
+                "name": "California Analog Dream",
+                "album": "Sauna EP"
+            },
+            {
+                "artist": "Stand High Patrol",
+                "name": "Sleep on It",
+                "album": "A Matter of Scale"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Wishes",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Beach House",
+                "name": "Myth",
+                "album": "Bloom"
+            },
+            {
+                "artist": "Dans Dans",
+                "name": "Au Hasard",
+                "album": "I / II"
+            },
+            {
+                "artist": "Roman Flügel",
+                "name": "Wilkie",
+                "album": "Happiness Is Happening"
+            },
+            {
+                "artist": "Vashti Bunyan",
+                "name": "Train Song",
+                "album": "Some Things Just Stick In Your Mind"
+            },
+            {
+                "artist": "Yo La Tengo",
+                "name": "My Heart's Not In It",
+                "album": "Stuff Like That There"
+            },
+            {
+                "artist": "The New Pornographers",
+                "name": "The Bleeding Heart Show",
+                "album": "Twin Cinema"
+            },
+            {
+                "artist": "Memoryhouse",
+                "name": "Bonfire",
+                "album": "The Slideshow Effect"
+            },
+            {
+                "artist": "Berry Weight",
+                "name": "The Day Nothing Happened",
+                "album": "Music For Imaginary Movies"
+            },
+            {
+                "artist": "MGMT",
+                "name": "Siberian Breaks",
+                "album": "Congratulations"
+            },
+            {
+                "artist": "Günter Kallmann Chor",
+                "name": "Daydream",
+                "album": "Sampled! (Jazz Club)"
+            },
+            {
+                "artist": "The Drifters",
+                "name": "Under the Boardwalk",
+                "album": "Under the Boardwalk"
+            },
+            {
+                "artist": "Shlohmo",
+                "name": "Rained the Whole Time - Nicolas Jaar Remix",
+                "album": "Vacation - EP (Remixes)"
+            },
+            {
+                "artist": "Iron & Wine",
+                "name": "Boy With a Coin",
+                "album": "The Shepherd's Dog"
+            },
+            {
+                "artist": "David Bowie",
+                "name": "Five Years - 2012 Remaster",
+                "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)"
+            },
+            {
+                "artist": "Alessi Brothers",
+                "name": "Seabird",
+                "album": "Late Night Tales: Metronomy (Sampler)"
+            },
+            {
+                "artist": "John Martyn",
+                "name": "Over The Hill",
+                "album": "Solid Air (Remastered)"
+            },
+            {
+                "artist": "Iris DeMent",
+                "name": "Let The Mystery Be",
+                "album": "Infamous Angel"
+            },
+            {
+                "artist": "Monophonics",
+                "name": "La la la Love Me",
+                "album": "Sound of Sinning"
+            },
+            {
+                "artist": "The Handsome Family",
+                "name": "Weightless Again",
+                "album": "Through the Trees"
+            },
+            {
+                "artist": "Massive Attack",
+                "name": "Paradise Circus",
+                "album": "Heligoland"
+            },
+            {
+                "artist": "Fleet Foxes",
+                "name": "Helplessness Blues",
+                "album": "Helplessness Blues"
+            },
+            {
+                "artist": "Timber Timbre",
+                "name": "Black Water",
+                "album": "Creep On, Creepin' On"
+            },
+            {
+                "artist": "Jon Brion",
+                "name": "Schenectady",
+                "album": "Synecdoche, New York (Original Motion Picture Soundtrack)"
+            },
+            {
+                "artist": "Vàli",
+                "name": "Sorg",
+                "album": "Forlatt"
+            },
+            {
+                "artist": "Rare Bird",
+                "name": "Beautiful Scarlet",
+                "album": "Sympathy"
+            },
+            {
+                "artist": "Peter, Paul and Mary",
+                "name": "Leaving on a Jet Plane",
+                "album": "Album 1700"
+            },
+            {
+                "artist": "Chromatics",
+                "name": "Into the Black",
+                "album": "Kill for Love"
+            },
+            {
+                "artist": "Ocelote Rojo",
+                "name": "Untitled 1",
+                "album": "Digging the Blogosphere"
+            },
+            {
+                "artist": "Mano Negra",
+                "name": "Out of Time Man",
+                "album": "Best Of 2005"
+            }
+        ]
+    }
+]

@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Atmospheric / Dub Techno",
+        "songs": [
+            {
+                "artist": "Rod Modell",
+                "name": "Kingston",
+                "album": "Kettle Point"
+            },
+            {
+                "artist": "Rod Modell",
+                "name": "Psychic Attack",
+                "album": "Sacred Geometry"
+            },
+            {
+                "artist": "P.Laoss",
+                "name": "Dub Class Five",
+                "album": "Wired Thoughts"
+            },
+            {
+                "artist": "Rod Modell",
+                "name": "Space Age Mythology",
+                "album": "Sacred Geometry"
+            },
+            {
+                "artist": "Conforce",
+                "name": "Vacuum",
+                "album": "Dystopian Elements EP"
+            },
+            {
+                "artist": "Rod Modell",
+                "name": "Avionics",
+                "album": "Sacred Geometry"
+            },
+            {
+                "artist": "Grad_U",
+                "name": "Runout",
+                "album": "Memories, Pt. I"
+            },
+            {
+                "artist": "Mr. Bizz",
+                "name": "Color Green",
+                "album": "Wired Thoughts"
+            },
+            {
+                "artist": "Rod Modell",
+                "name": "Luminescent",
+                "album": "Kettle Point"
+            },
+            {
+                "artist": "Quantec",
+                "name": "My Safe Harbour",
+                "album": "Echocord Jubilee Compilation"
+            },
+            {
+                "artist": "Quantec",
+                "name": "Satisfied",
+                "album": "Cauldron Subsidence"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "For You",
+                "album": "Broadwalk Tales"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "Celestia",
+                "album": "Broadwalk Tales"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "Change",
+                "album": "Broadwalk Tales"
+            },
+            {
+                "artist": "Deepchord",
+                "name": "Ambrosia",
+                "album": "Ultraviolet Music"
+            },
+            {
+                "artist": "Basic Channel",
+                "name": "Q1.1/I",
+                "album": "Q 1.1"
+            },
+            {
+                "artist": "Maurizio",
+                "name": "MØ6B (Edit)",
+                "album": "M-Series"
+            },
+            {
+                "artist": "Claro Intelecto",
+                "name": "It's Getting Late",
+                "album": "Reform Club"
+            },
+            {
+                "artist": "Conforce",
+                "name": "Subtraction",
+                "album": "Machine Conspiracy"
+            },
+            {
+                "artist": "Imugem Orihasam",
+                "name": "Time",
+                "album": "Moon, Silhouetted Particles"
+            },
+            {
+                "artist": "Atheus",
+                "name": "Deploy",
+                "album": "Occult Symphonic"
+            },
+            {
+                "artist": "Luke Hess",
+                "name": "Transform",
+                "album": "Light In The Dark"
+            },
+            {
+                "artist": "Peter Van Hoesen",
+                "name": "Talis",
+                "album": "Talis / Into The Red"
+            },
+            {
+                "artist": "Matthew Styles",
+                "name": "Border",
+                "album": "Metro"
+            },
+            {
+                "artist": "AN:TI",
+                "name": "Flat-out - Original Mix",
+                "album": "Renaissance"
+            },
+            {
+                "artist": "Roberto Bosco",
+                "name": "Deep Thought Pt 1",
+                "album": "The Soul Confusion EP"
+            },
+            {
+                "artist": "Roberto Bosco",
+                "name": "State of Mind 4",
+                "album": "State of Mind"
+            },
+            {
+                "artist": "Kaelan",
+                "name": "Untitled",
+                "album": "002"
+            },
+            {
+                "artist": "Artefakt",
+                "name": "Mirage - Original Mix",
+                "album": "The Mental Universe"
+            },
+            {
+                "artist": "SHLTR",
+                "name": "Earth From Within",
+                "album": "Konstrukt 001"
+            },
+            {
+                "artist": "Roman Poncet",
+                "name": "Marguerite",
+                "album": "Marguerite"
+            },
+            {
+                "artist": "Burnski",
+                "name": "Green Room",
+                "album": "DNA"
+            },
+            {
+                "artist": "Hiver",
+                "name": "Eglantine",
+                "album": "Blue Aconite EP"
+            },
+            {
+                "artist": "Versalife",
+                "name": "Artificial Affection",
+                "album": "Polychange"
+            },
+            {
+                "artist": "cvbox",
+                "name": "Oberla 8",
+                "album": "So ist es im Nadelwald"
+            },
+            {
+                "artist": "Løt.te",
+                "name": "Private Transgressions",
+                "album": "Pressure Chant"
+            },
+            {
+                "artist": "Roberto Bosco",
+                "name": "Sonorous Waves Part 2",
+                "album": "Sonorous Waves"
+            },
+            {
+                "artist": "Luke Hess",
+                "name": "Emerald",
+                "album": "Facette"
+            },
+            {
+                "artist": "Rod",
+                "name": "Dubix",
+                "album": "Klockworks 19"
+            },
+            {
+                "artist": "Jeroen Search",
+                "name": "Da Capo",
+                "album": "Time Signature EP"
+            },
+            {
+                "artist": "Insect O.",
+                "name": "monodisko",
+                "album": "reflections"
+            },
+            {
+                "artist": "Insect O.",
+                "name": "Rokk Hampton",
+                "album": "Bondi Dub"
+            },
+            {
+                "artist": "Insect O.",
+                "name": "Birds Over Hong Kong",
+                "album": "Birds Over Hong Kong"
+            },
+            {
+                "artist": "Architectural",
+                "name": "Temptation",
+                "album": "Heaven Can Wait EP"
+            },
+            {
+                "artist": "Architectural",
+                "name": "Surreal Restaurant",
+                "album": "Heaven Can Wait EP"
+            },
+            {
+                "artist": "Helly Larson",
+                "name": "Feel It in Your Soul",
+                "album": "Track of Light"
+            },
+            {
+                "artist": "Helly Larson",
+                "name": "Deep Water",
+                "album": "Track of Light"
+            },
+            {
+                "artist": "Mr. Cloudy",
+                "name": "Space Ball",
+                "album": "Planets"
+            },
+            {
+                "artist": "Ben Buitendijk",
+                "name": "Roots",
+                "album": "Past And Present EP"
+            },
+            {
+                "artist": "Ben Buitendijk",
+                "name": "Side Stepping",
+                "album": "Past And Present EP"
+            },
+            {
+                "artist": "Ben Buitendijk",
+                "name": "Apollo",
+                "album": "Past And Present EP"
+            },
+            {
+                "artist": "Ben Buitendijk",
+                "name": "Near Mint",
+                "album": "Past And Present EP"
+            },
+            {
+                "artist": "Maurizio",
+                "name": "M06A",
+                "album": "M-6"
+            },
+            {
+                "artist": "Maurizio",
+                "name": "M04A (Full 12\" Length)",
+                "album": "M-Series"
+            },
+            {
+                "artist": "Claro Intelecto",
+                "name": "When the Time Is Right",
+                "album": "When the Time Is Right / Round & Round"
+            },
+            {
+                "artist": "Andy Stott",
+                "name": "Tell Me Anthing",
+                "album": "Balance 020 (Mixed By Deetron)"
+            },
+            {
+                "artist": "Unbalance",
+                "name": "Not against People - Original Mix",
+                "album": "Not Against People EP"
+            },
+            {
+                "artist": "Sven Weisemann",
+                "name": "Bilateral Relations",
+                "album": "Bilateral Relations EP"
+            },
+            {
+                "artist": "Sven Weisemann",
+                "name": "Monistic",
+                "album": "Bilateral Relations EP"
+            },
+            {
+                "artist": "Monomood",
+                "name": "Monoskop (Original Version)",
+                "album": "Oktrosis"
+            },
+            {
+                "artist": "Monomood",
+                "name": "Fog",
+                "album": "Agenda 2021 - An EevoNext Compilation"
+            },
+            {
+                "artist": "Rhauder",
+                "name": "Chord Jam - Original Mix",
+                "album": "Sessions II"
+            },
+            {
+                "artist": "Redshape",
+                "name": "Path - Dub Mix",
+                "album": "Red Pack II"
+            },
+            {
+                "artist": "Model 500",
+                "name": "Starlight - Echospace Unreleased Mix",
+                "album": "Starlight"
+            },
+            {
+                "artist": "Architectural",
+                "name": "Untitled",
+                "album": "Architectural 2"
+            },
+            {
+                "artist": "Rhythm & Sound",
+                "name": "Mango Drive",
+                "album": "Rhythm & Sound"
+            },
+            {
+                "artist": "Intrusion",
+                "name": "Montego Bay",
+                "album": "The Seduction of Silence"
+            },
+            {
+                "artist": "Hydergine",
+                "name": "Grid",
+                "album": "Static Frames"
+            },
+            {
+                "artist": "Hydergine",
+                "name": "Sweep",
+                "album": "Static Frames"
+            },
+            {
+                "artist": "Hiver",
+                "name": "Leisure",
+                "album": "Air Castles EP"
+            },
+            {
+                "artist": "Conforce",
+                "name": "Simulation & Emulation",
+                "album": "Autonomous"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 1",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Sven Weisemann",
+                "name": "Light sway - original mix",
+                "album": "Elapse / light sway"
+            },
+            {
+                "artist": "Minilogue",
+                "name": "Certain Things Part 2 (Salz Remix)",
+                "album": "Telrae Mix by Salz Volume 3"
+            },
+            {
+                "artist": "Dadub",
+                "name": "Blue Whale's Dub - Original Mix",
+                "album": "Alpha Sampler"
+            },
+            {
+                "artist": "Monomood",
+                "name": "Vault",
+                "album": "shtum 001"
+            },
+            {
+                "artist": "VSK",
+                "name": "Untitled Chords",
+                "album": "CRS//012"
+            },
+            {
+                "artist": "Monolake",
+                "name": "Occam",
+                "album": "Hongkong Remastered"
+            },
+            {
+                "artist": "Roberto Clementi",
+                "name": "Concolor",
+                "album": "Bonton"
+            },
+            {
+                "artist": "nthng",
+                "name": "Abyss",
+                "album": "It Never Ends"
+            },
+            {
+                "artist": "Ohrwert",
+                "name": "Blavus",
+                "album": "Fidelis / Blavus"
+            },
+            {
+                "artist": "Substance & Vainqueur",
+                "name": "Resonance",
+                "album": "Libration"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "En Route",
+                "album": "Upsides & Sideways EP"
+            },
+            {
+                "artist": "Idealist",
+                "name": "Flow",
+                "album": "Source EP"
+            },
+            {
+                "artist": "Ohrwert",
+                "name": "Sonometric",
+                "album": "Tracing Rays"
+            },
+            {
+                "artist": "Yagya",
+                "name": "Sleepygirl 3",
+                "album": "Sleepygirls"
+            },
+            {
+                "artist": "Upwellings",
+                "name": "First Storm - Original Mix",
+                "album": "Blue Line Dubs"
+            },
+            {
+                "artist": "Jasper Wolff",
+                "name": "Eleven - Sterac Remix",
+                "album": "DVS1, Ryan Elliott, Sterac Remixes"
+            },
+            {
+                "artist": "Exos",
+                "name": "Mininga",
+                "album": "U Can' t Stop Time"
+            },
+            {
+                "artist": "Exos",
+                "name": "Yellow Yard",
+                "album": "My Home Is Sonic"
+            },
+            {
+                "artist": "Exos",
+                "name": "Svali",
+                "album": "My Home Is Sonic"
+            },
+            {
+                "artist": "Grad_U",
+                "name": "Hydrogen Reactor",
+                "album": "Space Explorations"
+            },
+            {
+                "artist": "Mendy",
+                "name": "By The Hand",
+                "album": "By The Hand EP"
+            },
+            {
+                "artist": "Nocow",
+                "name": "Vdaleke",
+                "album": "Voda"
+            },
+            {
+                "artist": "Monomood",
+                "name": "Fall",
+                "album": "Etui Winter Camp, Vol. 4"
+            },
+            {
+                "artist": "Mr. Cloudy",
+                "name": "Balance II",
+                "album": "Balance"
+            },
+            {
+                "artist": "Emmerichk",
+                "name": "Capernaum",
+                "album": "Data 2.0"
+            },
+            {
+                "artist": "Mr. Cloudy",
+                "name": "November Night",
+                "album": "Cloudy Tracks"
+            },
+            {
+                "artist": "Shawn Rudiman",
+                "name": "TimeFrame 1",
+                "album": "Timespan"
+            },
+            {
+                "artist": "Shawn Rudiman",
+                "name": "In Light / In Darkness",
+                "album": "Timespan"
+            }
+        ]
+    }
+]

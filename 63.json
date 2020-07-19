@@ -1,0 +1,507 @@
+[
+    {
+        "name": "Dub Techno 🐚",
+        "songs": [
+            {
+                "artist": "Marcus McGowan",
+                "name": "The Arrival",
+                "album": "The Arrival EP"
+            },
+            {
+                "artist": "Ribn",
+                "name": "Light Black",
+                "album": "Light Black EP"
+            },
+            {
+                "artist": "Pablo Bolivar",
+                "name": "Reflect - Dactilar Remix",
+                "album": "Recall Remixes Part 1"
+            },
+            {
+                "artist": "Pablo Bolivar",
+                "name": "Reflect",
+                "album": "Recall"
+            },
+            {
+                "artist": "Ribn",
+                "name": "Save Me",
+                "album": "No Place"
+            },
+            {
+                "artist": "Organon",
+                "name": "In Speciem",
+                "album": "Chill & Grill Vol.1"
+            },
+            {
+                "artist": "Organon",
+                "name": "Deep Inside Mind",
+                "album": "Within Pt.1"
+            },
+            {
+                "artist": "Quantec",
+                "name": "Electromagnetic Pulse",
+                "album": "Radio Rothko"
+            },
+            {
+                "artist": "Fabio Scalabroni",
+                "name": "Asymmetric - Fingers in the Noise Remix",
+                "album": "Asymmetric Remixes"
+            },
+            {
+                "artist": "Textural Being",
+                "name": "Nitrogen Music",
+                "album": "Nitrogen Music"
+            },
+            {
+                "artist": "iori",
+                "name": "Magnetic",
+                "album": "Unknown Places EP"
+            },
+            {
+                "artist": "Ocralab",
+                "name": "Iridium - Dublicator Remix",
+                "album": "Nocturnal Transitions"
+            },
+            {
+                "artist": "Inn-R",
+                "name": "M65",
+                "album": "Leo Triplet EP"
+            },
+            {
+                "artist": "Pablo Bolivar",
+                "name": "Into the Televerse - Andy Stott Remix",
+                "album": "Gold Series Vol.1"
+            },
+            {
+                "artist": "Sustainer",
+                "name": "Ciclope_c",
+                "album": "Ciclope EP"
+            },
+            {
+                "artist": "Mr. Bizz",
+                "name": "Colour Green",
+                "album": "Wired Thoughts"
+            },
+            {
+                "artist": "Zoltan Solomon",
+                "name": "Teso",
+                "album": "Forgotten Instinct"
+            },
+            {
+                "artist": "Zoltan Solomon",
+                "name": "Gengis",
+                "album": "Lavender Five"
+            },
+            {
+                "artist": "Langenberg",
+                "name": "Planitz Proposal",
+                "album": "Planitz Proposals"
+            },
+            {
+                "artist": "Marko Furstenberg",
+                "name": "Without You - Original Mix",
+                "album": "Cocktail Royale Ep"
+            },
+            {
+                "artist": "Basic Channel",
+                "name": "Quadrant Dub I",
+                "album": "Radio Rothko"
+            },
+            {
+                "artist": "Oxia",
+                "name": "Intuition",
+                "album": "24 Heures"
+            },
+            {
+                "artist": "Alexander Kowalski",
+                "name": "Oxygen",
+                "album": "Echoes"
+            },
+            {
+                "artist": "Ribn",
+                "name": "This Feeling - Rapidsnare Mix",
+                "album": "This Feeling"
+            },
+            {
+                "artist": "Slownoise",
+                "name": "The Delph",
+                "album": "Wired Thoughts"
+            },
+            {
+                "artist": "Monolake",
+                "name": "Reminiscence",
+                "album": "Momentum"
+            },
+            {
+                "artist": "Alexander Kowalski",
+                "name": "The Heat Of The Night",
+                "album": "The Heat Of The Night"
+            },
+            {
+                "artist": "Maurizio",
+                "name": "MØ6B (Edit)",
+                "album": "M-Series"
+            },
+            {
+                "artist": "Jussi-Pekka",
+                "name": "Basic Needs",
+                "album": "Eldorado House Heaven - The Summer Collection"
+            },
+            {
+                "artist": "Djosos Krost",
+                "name": "Chapter One (Klovn Mix)",
+                "album": "Better Place/Chapter One Single"
+            },
+            {
+                "artist": "Sven Weisemann",
+                "name": "Deep Direction",
+                "album": "Light Soil EP"
+            },
+            {
+                "artist": "Exium",
+                "name": "Time - Oscar Mulero Remix",
+                "album": "Roots Of Time / The Remixes"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "Thumb",
+                "album": "Constant Limber"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "Sub Marine",
+                "album": "Constant Limber"
+            },
+            {
+                "artist": "Fluxion",
+                "name": "Marching",
+                "album": "Constant Limber"
+            },
+            {
+                "artist": "Shinsuke Matsumoto",
+                "name": "lantern (Marko Furstenberg reshape)",
+                "album": "lantern"
+            },
+            {
+                "artist": "Shinsuke Matsumoto",
+                "name": "aqua",
+                "album": "lantern"
+            },
+            {
+                "artist": "Lazarusman",
+                "name": "Change",
+                "album": "Systematic Deep House Vol. 3"
+            },
+            {
+                "artist": "Krisz Deak",
+                "name": "Hypnospace",
+                "album": "47.585273 / 19.1129999 / 2012"
+            },
+            {
+                "artist": "Krisz Deak",
+                "name": "Long Way Home",
+                "album": "47.585273 / 19.1129999 / 2012"
+            },
+            {
+                "artist": "Mastra",
+                "name": "Flying Ornaments",
+                "album": "Futureaudio Presents Colours Of Tech-House Vol. 02"
+            },
+            {
+                "artist": "Claro Intelecto",
+                "name": "Blind Side",
+                "album": "Reform Club"
+            },
+            {
+                "artist": "Maurizio",
+                "name": "M07A (Edit)",
+                "album": "M-Series"
+            },
+            {
+                "artist": "Rhythm & Sound",
+                "name": "Carrier",
+                "album": "Rhythm & Sound"
+            },
+            {
+                "artist": "Salz",
+                "name": "Stainless Dub",
+                "album": "Stainless"
+            },
+            {
+                "artist": "Intrusion",
+                "name": "Seduction",
+                "album": "The Seduction of Silence"
+            },
+            {
+                "artist": "Exos",
+                "name": "Mininga",
+                "album": "U Can' t Stop Time"
+            },
+            {
+                "artist": "Leftover",
+                "name": "Unprotected",
+                "album": "Response EP"
+            },
+            {
+                "artist": "Mikkel Metal",
+                "name": "Stephan",
+                "album": "Radio Rothko"
+            },
+            {
+                "artist": "Deepchord",
+                "name": "Oude Kerk",
+                "album": "Hash-Bar Loops"
+            },
+            {
+                "artist": "Deepchord",
+                "name": "City Centre",
+                "album": "Hash-Bar Loops"
+            },
+            {
+                "artist": "Rhythm & Sound",
+                "name": "Mango Drive",
+                "album": "Rhythm & Sound"
+            },
+            {
+                "artist": "Monoder",
+                "name": "G3",
+                "album": "Ikikieriö EP"
+            },
+            {
+                "artist": "Quantec",
+                "name": "Thought Experiment - Original Mix",
+                "album": "Thought Experiment"
+            },
+            {
+                "artist": "Leftover",
+                "name": "Nova",
+                "album": "Der Kirschbaum EP"
+            },
+            {
+                "artist": "Rod Modell",
+                "name": "body sonic",
+                "album": "Incense & Black Light"
+            },
+            {
+                "artist": "Substance & Vainqueur",
+                "name": "Reverberation",
+                "album": "Radio Rothko"
+            },
+            {
+                "artist": "Model 500",
+                "name": "Starlight - Echospace Unreleased Mix",
+                "album": "Starlight"
+            },
+            {
+                "artist": "Monoder",
+                "name": "G1",
+                "album": "Ikikieriö EP"
+            },
+            {
+                "artist": "Silent Servant",
+                "name": "Violencia - Function Mix",
+                "album": "Violencia"
+            },
+            {
+                "artist": "P.Laoss",
+                "name": "Dub Class Five",
+                "album": "Wired Thoughts"
+            },
+            {
+                "artist": "Biodub",
+                "name": "Reminder - Original",
+                "album": "Reisegefaehrte"
+            },
+            {
+                "artist": "Pulse Code Modulation",
+                "name": "Sonne Und Stahl",
+                "album": "Sonne Und Stahl"
+            },
+            {
+                "artist": "Efdemin",
+                "name": "Night Train - Dub Mix",
+                "album": "Raveline Mix Session By Dominik Eulberg"
+            },
+            {
+                "artist": "trentemøller",
+                "name": "Evil Dub",
+                "album": "The Last Resort"
+            },
+            {
+                "artist": "Harrison Fnord",
+                "name": "Dubgirl",
+                "album": "My Music is my Space"
+            },
+            {
+                "artist": "Delta Funktionen",
+                "name": "Nebula",
+                "album": "Electromagnetic Radiation, Part 1"
+            },
+            {
+                "artist": "El Farouki",
+                "name": "Unknown Gut",
+                "album": "The Best Of Night Drive Music Vol. 4"
+            },
+            {
+                "artist": "Donnacha Costello",
+                "name": "A Warm Embrace",
+                "album": "Before We Say Goodbye"
+            },
+            {
+                "artist": "Deadbeat",
+                "name": "Deep Structure",
+                "album": "Roots and Wire"
+            },
+            {
+                "artist": "Deadbeat",
+                "name": "Balai Ballet - La Sweet (Deadbeat Deep Down Dub)",
+                "album": "Balai Ballet - La Sweet"
+            },
+            {
+                "artist": "Akufen",
+                "name": "Mary Jane Kelley",
+                "album": "Mary Jane Kelley EP"
+            },
+            {
+                "artist": "Indigo",
+                "name": "Azha",
+                "album": "Celestial EP"
+            },
+            {
+                "artist": "DFRNT",
+                "name": "Everyone Is Moving",
+                "album": "Fading"
+            },
+            {
+                "artist": "Steve Bug",
+                "name": "Low Blow",
+                "album": "Low Blow"
+            },
+            {
+                "artist": "Oscar Mulero",
+                "name": "Intentionally False",
+                "album": "Black Propaganda"
+            },
+            {
+                "artist": "Alexander Kowalski",
+                "name": "Dircksen - Original Mix",
+                "album": "Dricksen EP"
+            },
+            {
+                "artist": "Model 500",
+                "name": "Starlight - Deepchord Mix",
+                "album": "Starlight"
+            },
+            {
+                "artist": "Deepchord",
+                "name": "Merlot",
+                "album": "Hash-Bar Loops"
+            },
+            {
+                "artist": "Jan Jelinek",
+                "name": "Rock In The Video Age",
+                "album": "Loop-Finding-Jazz-Records"
+            },
+            {
+                "artist": "Jan Jelinek",
+                "name": "Tendency",
+                "album": "Loop-Finding-Jazz-Records"
+            },
+            {
+                "artist": "Michel Cleis",
+                "name": "Running - Gingy & Bordello Remix",
+                "album": "More Music Compilation"
+            },
+            {
+                "artist": "Damon Wild",
+                "name": "Halfllife",
+                "album": "Downtown Worlds"
+            },
+            {
+                "artist": "Damon Wild",
+                "name": "Downtown World Pt. 3",
+                "album": "Downtown World"
+            },
+            {
+                "artist": "Damon Wild",
+                "name": "Traveller",
+                "album": "Downtown Worlds"
+            },
+            {
+                "artist": "Savas Pascalidis",
+                "name": "Sonic Groove - Skudge Rework",
+                "album": "Sonic Groove"
+            },
+            {
+                "artist": "Kris Wadsworth",
+                "name": "Crushed - Original Mix",
+                "album": "BLN FM - Travelling Gems Vol. 1"
+            },
+            {
+                "artist": "Chab",
+                "name": "Tunneling",
+                "album": "Tunneling"
+            },
+            {
+                "artist": "Delano Smith",
+                "name": "Inspiration",
+                "album": "An Odyssey"
+            },
+            {
+                "artist": "Nadja Lind",
+                "name": "See Beyond",
+                "album": "Lucid Moments - Finest Selection Of Chill Out Club Lounge, Sexy Deep House And Dub Techno"
+            },
+            {
+                "artist": "Nadja Lind",
+                "name": "Dub At Ease",
+                "album": "Lucid Moments - Finest Selection Of Chill Out Club Lounge, Sexy Deep House And Dub Techno"
+            },
+            {
+                "artist": "Guy J",
+                "name": "Doves - Original",
+                "album": "1000 Words"
+            },
+            {
+                "artist": "Guy J",
+                "name": "Moderate - Original",
+                "album": "1000 Words"
+            },
+            {
+                "artist": "Guy J",
+                "name": "Fallstar - Rising Mix",
+                "album": "1000 Words"
+            },
+            {
+                "artist": "Acronym",
+                "name": "Denteme - Acronym Remix",
+                "album": "Detenme"
+            },
+            {
+                "artist": "The Nautilus Project",
+                "name": "Undersea Dub - Zzzzra Remix",
+                "album": "Get Back on Course"
+            },
+            {
+                "artist": "Martin Schulte",
+                "name": "Forest",
+                "album": "Depth of Soul"
+            },
+            {
+                "artist": "Martin Schulte",
+                "name": "Spring Aroma",
+                "album": "Slow Beauty"
+            },
+            {
+                "artist": "Bnjmn",
+                "name": "Nightvision - Andy Stott Remix",
+                "album": "Second Kiss"
+            },
+            {
+                "artist": "Andy Stott",
+                "name": "Tell Me Anthing",
+                "album": "Balance 020 (Mixed By Deetron)"
+            }
+        ]
+    }
+]

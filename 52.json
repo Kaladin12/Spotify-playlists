@@ -1,0 +1,507 @@
+[
+    {
+        "name": "The Techno Playlist",
+        "songs": [
+            {
+                "artist": "MRD",
+                "name": "Superwoman",
+                "album": "Superwoman"
+            },
+            {
+                "artist": "Roll Dann",
+                "name": "Back from the Morgue",
+                "album": "Back from the Morgue"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Die Dünne Hand",
+                "album": "Die Stimme Drängt"
+            },
+            {
+                "artist": "Roll Dann",
+                "name": "Coalescence",
+                "album": "Back from the Morgue"
+            },
+            {
+                "artist": "KAS:ST",
+                "name": "Lost Souls",
+                "album": "Road To Nowhere"
+            },
+            {
+                "artist": "Atix",
+                "name": "The Way",
+                "album": "The Dome EP"
+            },
+            {
+                "artist": "Remy Kruyer",
+                "name": "Ho Chi Minh - Pjotr G & Dubiosity Remix",
+                "album": "Ho Chi Minh"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Auf Die Erde",
+                "album": "Die Stimme Drängt"
+            },
+            {
+                "artist": "Schwefelgelb",
+                "name": "Das Bild Das Wiederskehrt",
+                "album": "Die Stimme Drängt"
+            },
+            {
+                "artist": "DJ Sodeyama",
+                "name": "TEST_PTTRN_42",
+                "album": "PTTRN EP"
+            },
+            {
+                "artist": "Temudo",
+                "name": "Cell Phones",
+                "album": "Unnecessary EP"
+            },
+            {
+                "artist": "MRD",
+                "name": "Es Eso Mal",
+                "album": "Superwoman"
+            },
+            {
+                "artist": "Ellen Allien",
+                "name": "Electronic Joy - Regal Xtc Remix",
+                "album": "Alientronic Remixes 1"
+            },
+            {
+                "artist": "Héctor Oaks",
+                "name": "We Met Under the Strobe Light",
+                "album": "We Met Under the Strobe Light"
+            },
+            {
+                "artist": "Héctor Oaks",
+                "name": "Solarmental - Original mix",
+                "album": "SM006V"
+            },
+            {
+                "artist": "Manuel Tur",
+                "name": "121 BPM",
+                "album": "Rhythm Trainx Vol. 1"
+            },
+            {
+                "artist": "Regal",
+                "name": "Action",
+                "album": "Acid Is The Answer"
+            },
+            {
+                "artist": "Envoy",
+                "name": "Dark Manoeuvres - Obscure Shape & Shdw Remix",
+                "album": "Dark Manoeuvres Soma25 Remixes"
+            },
+            {
+                "artist": "Somewhen",
+                "name": "TR440",
+                "album": "6"
+            },
+            {
+                "artist": "Parallx",
+                "name": "Red Clouds",
+                "album": "Rr1"
+            },
+            {
+                "artist": "Parallx",
+                "name": "Lost in Time - Original Mix",
+                "album": "Lost in Time"
+            },
+            {
+                "artist": "Parallx",
+                "name": "Icebreaker",
+                "album": "Rp4"
+            },
+            {
+                "artist": "Emmanuel",
+                "name": "Ravy Nation",
+                "album": "Time is Relative"
+            },
+            {
+                "artist": "Parallx",
+                "name": "Substare",
+                "album": "Rp1"
+            },
+            {
+                "artist": "Underworld",
+                "name": "Border Country",
+                "album": "DRIFT Series 1 Sampler Edition"
+            },
+            {
+                "artist": "Karenn",
+                "name": "Crush the Mushrooms",
+                "album": "Grapefruit Regret"
+            },
+            {
+                "artist": "Inhalt Der Nacht",
+                "name": "Das Gift",
+                "album": "Die dritte Defension EP"
+            },
+            {
+                "artist": "RVDE",
+                "name": "Trve Vision",
+                "album": "Pls.uk 003"
+            },
+            {
+                "artist": "TRYM",
+                "name": "Source Message - Rezystor Remix",
+                "album": "Mariner 9 EP"
+            },
+            {
+                "artist": "Keith Carnal",
+                "name": "Body Brain",
+                "album": "Body Brain"
+            },
+            {
+                "artist": "Keith Carnal",
+                "name": "Chasing Ghosts",
+                "album": "Body Brain"
+            },
+            {
+                "artist": "Keith Carnal",
+                "name": "With The Flow",
+                "album": "Body Brain"
+            },
+            {
+                "artist": "Keith Carnal",
+                "name": "Subtle Invitation",
+                "album": "Body Brain"
+            },
+            {
+                "artist": "Alignment",
+                "name": "Interference",
+                "album": "Interference"
+            },
+            {
+                "artist": "Alignment",
+                "name": "Interference - Regal Remix",
+                "album": "Interference"
+            },
+            {
+                "artist": "Alignment",
+                "name": "Turn off",
+                "album": "Interference"
+            },
+            {
+                "artist": "Atix",
+                "name": "Circles",
+                "album": "The Dome EP"
+            },
+            {
+                "artist": "Cristian Glitch",
+                "name": "Impetuous",
+                "album": "Impetuous EP"
+            },
+            {
+                "artist": "Schacke",
+                "name": "Role Modeling",
+                "album": "There's Something Inside Me"
+            },
+            {
+                "artist": "Schacke",
+                "name": "Full Contraction",
+                "album": "There's Something Inside Me"
+            },
+            {
+                "artist": "Schacke",
+                "name": "Hard Feelings",
+                "album": "There's Something Inside Me"
+            },
+            {
+                "artist": "Schacke",
+                "name": "Forever in Total Negation",
+                "album": "There's Something Inside Me"
+            },
+            {
+                "artist": "Harvey McKay",
+                "name": "Eternal",
+                "album": "Black Horse"
+            },
+            {
+                "artist": "Ronnie Spiteri",
+                "name": "Talking to Nature",
+                "album": "Talking to Nature"
+            },
+            {
+                "artist": "Nite Fleit",
+                "name": "Hot Bot",
+                "album": "Moogie"
+            },
+            {
+                "artist": "UMEK",
+                "name": "19119 - Original Mix",
+                "album": "19119 EP"
+            },
+            {
+                "artist": "Krampf",
+                "name": "LSD XTC - Dj Gigola and Kev Koko Paranoia Mix",
+                "album": "What Is A Dj If He Can't Care"
+            },
+            {
+                "artist": "A*S*Y*S",
+                "name": "Ac/Id - Original Mix",
+                "album": "Ac/Id (Original Mix)"
+            },
+            {
+                "artist": "UMEK",
+                "name": "Vibrancy - Original Mix",
+                "album": "Vibrancy EP"
+            },
+            {
+                "artist": "Dax J",
+                "name": "Speedball",
+                "album": "Chaos Come To Conquer EP"
+            },
+            {
+                "artist": "KAS:ST",
+                "name": "Breathe",
+                "album": "Breathe"
+            },
+            {
+                "artist": "Electric Rescue",
+                "name": "White Valley - Original Mix",
+                "album": "Cinema Levita EP"
+            },
+            {
+                "artist": "New Frames",
+                "name": "Scatter",
+                "album": "Sardonic Tonality Vol. 1"
+            },
+            {
+                "artist": "Darc Marc",
+                "name": "Dirty Rocking Bass - Dirty Rocking Bassline",
+                "album": "Dirty Rocking Bass (Dirty Rocking Bassline)"
+            },
+            {
+                "artist": "Beroshima",
+                "name": "Interplugreaction - Somewhen Remix",
+                "album": "Interplugreaction Remixes"
+            },
+            {
+                "artist": "Svarog",
+                "name": "Settling",
+                "album": "Shadows"
+            },
+            {
+                "artist": "DJ T-1000",
+                "name": "I Told Em I Was from Detroit",
+                "album": "I Told Em I Was from Detroit"
+            },
+            {
+                "artist": "Nur Jaber",
+                "name": "Beyond Borders - Original Mix",
+                "album": "Beyond Borders"
+            },
+            {
+                "artist": "Kobosil",
+                "name": "Born In 1968",
+                "album": "Rk4"
+            },
+            {
+                "artist": "Regal",
+                "name": "The Eyes",
+                "album": "The Eyes"
+            },
+            {
+                "artist": "T78",
+                "name": "Megator",
+                "album": "Megator"
+            },
+            {
+                "artist": "Ellen Allien",
+                "name": "Love Distortion",
+                "album": "Love Distortion"
+            },
+            {
+                "artist": "Varg²™",
+                "name": "Rush/Tinder",
+                "album": "Crush"
+            },
+            {
+                "artist": "Sama",
+                "name": "Sympathy",
+                "album": "Pressure"
+            },
+            {
+                "artist": "Jay Lumen",
+                "name": "Ozone",
+                "album": "Resonance"
+            },
+            {
+                "artist": "Spektre",
+                "name": "Forged in the Heart of a Laserbeam - Rudosa Remix",
+                "album": "Spektre Remixed"
+            },
+            {
+                "artist": "Ansome",
+                "name": "Pedal To The Metal",
+                "album": "Hounds Of The Harbour"
+            },
+            {
+                "artist": "I Hate Models",
+                "name": "Death Engine",
+                "album": "Intergalactic Emotional Breakdown"
+            },
+            {
+                "artist": "Paula Temple",
+                "name": "Cages",
+                "album": "Edge Of Everything"
+            },
+            {
+                "artist": "Peder Mannerfelt",
+                "name": "Sissel & Bass - Perc Remix",
+                "album": "Sissel & Bass 4 Ever"
+            },
+            {
+                "artist": "Mickey Nox",
+                "name": "Zurich Exchange - Myler Remix",
+                "album": "Mad As A Cut Snake"
+            },
+            {
+                "artist": "KAS:ST",
+                "name": "Road To Nowhere",
+                "album": "Road To Nowhere"
+            },
+            {
+                "artist": "Alex Bilancini",
+                "name": "Oblivion",
+                "album": "Oblivion"
+            },
+            {
+                "artist": "Gary Beck",
+                "name": "Never Found Peace - Original Mix",
+                "album": "Conjunctions (Open Air Edition)"
+            },
+            {
+                "artist": "Reeko",
+                "name": "The Gravedigger And His Bitch - 2019 Version",
+                "album": "The Gravedigger And His Bitch"
+            },
+            {
+                "artist": "Amotik",
+                "name": "Solah - Edit Select Remix",
+                "album": "Amotik 010"
+            },
+            {
+                "artist": "Reeko",
+                "name": "Massive Garage Meetings",
+                "album": "Fat Punko"
+            },
+            {
+                "artist": "Clouds",
+                "name": "Sharp Like a Razor",
+                "album": "Sharp Like a Razor"
+            },
+            {
+                "artist": "Karenn",
+                "name": "Crush the Mushrooms",
+                "album": "Crush the Mushrooms"
+            },
+            {
+                "artist": "Alex Stein",
+                "name": "Blackbird",
+                "album": "Hostage EP"
+            },
+            {
+                "artist": "Enrico Sangiuliano",
+                "name": "Hidden T",
+                "album": "Biomorph"
+            },
+            {
+                "artist": "Alignment",
+                "name": "Distorted Signal - Original Mix",
+                "album": "Infinity"
+            },
+            {
+                "artist": "Planetary Assault Systems",
+                "name": "Whip It Good",
+                "album": "Plantae"
+            },
+            {
+                "artist": "Keepsakes",
+                "name": "Seep - Original Mix",
+                "album": "Modern Anxious Vernacular"
+            },
+            {
+                "artist": "Dax J",
+                "name": "Tenshun",
+                "album": "Chaos Come To Conquer EP"
+            },
+            {
+                "artist": "Locked Club",
+                "name": "Two Girls",
+                "album": "Irak"
+            },
+            {
+                "artist": "Tommy Four Seven",
+                "name": "2084",
+                "album": "Veer"
+            },
+            {
+                "artist": "Daniel Avery",
+                "name": "Citizen // Nowhere - Manni Dee Remix",
+                "album": "Citizen // Nowhere (Manni Dee Remix)"
+            },
+            {
+                "artist": "Donato Dozzy",
+                "name": "12H.5 - Remix",
+                "album": "Variations"
+            },
+            {
+                "artist": "AIROD",
+                "name": "Universe of 90's Techno Parties (Perc Remix)",
+                "album": "Molekül 15 (Universe Remix - EP)"
+            },
+            {
+                "artist": "Paula Temple",
+                "name": "Cages - Slam Remix",
+                "album": "Edge Of Everything Remixes 2"
+            },
+            {
+                "artist": "AIROD",
+                "name": "Universe of 90's Techno Parties [Molekul 007]",
+                "album": "Universe of 90's Techno Parties [Molekul 007]"
+            },
+            {
+                "artist": "FJAAK",
+                "name": "Phonox",
+                "album": "FJAAK 005"
+            },
+            {
+                "artist": "Trudge",
+                "name": "страсть",
+                "album": "100"
+            },
+            {
+                "artist": "TRYM",
+                "name": "Sparkling System",
+                "album": "Sparkling System"
+            },
+            {
+                "artist": "Anetha",
+                "name": "Candy from Strangers",
+                "album": "Don't Rush to Grow Up"
+            },
+            {
+                "artist": "KAS:ST",
+                "name": "Hell On Earth",
+                "album": "Road To Nowhere"
+            },
+            {
+                "artist": "Blawan",
+                "name": "Lox",
+                "album": "Many Many Pings"
+            },
+            {
+                "artist": "Planetary Assault Systems",
+                "name": "Spell A",
+                "album": "Plantae"
+            },
+            {
+                "artist": "Peter Van Hoesen",
+                "name": "Second Hologram Rose",
+                "album": "Kelly Criterion"
+            }
+        ]
+    }
+]
